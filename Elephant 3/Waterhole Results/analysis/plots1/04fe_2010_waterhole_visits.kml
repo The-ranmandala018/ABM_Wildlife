@@ -1,0 +1,807 @@
+<?xml version="1.0" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Elephant 04fe - 2010 Waterhole Visits</name>
+    <description>Points colored by month for elephant 04fe in 2010</description>
+    <Style id="month1_style">
+      <IconStyle>
+        <color>ff0000ff</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff0000ff</color>
+      </LabelStyle>
+    </Style>
+    <Style id="month2_style">
+      <IconStyle>
+        <color>ff00ff00</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff00ff00</color>
+      </LabelStyle>
+    </Style>
+    <Style id="month3_style">
+      <IconStyle>
+        <color>ffff0000</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffff0000</color>
+      </LabelStyle>
+    </Style>
+    <Style id="month4_style">
+      <IconStyle>
+        <color>ff00ffff</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff00ffff</color>
+      </LabelStyle>
+    </Style>
+    <Style id="month5_style">
+      <IconStyle>
+        <color>ffff00ff</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffff00ff</color>
+      </LabelStyle>
+    </Style>
+    <Style id="month6_style">
+      <IconStyle>
+        <color>ff808080</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff808080</color>
+      </LabelStyle>
+    </Style>
+    <Style id="month7_style">
+      <IconStyle>
+        <color>ff8000ff</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff8000ff</color>
+      </LabelStyle>
+    </Style>
+    <Style id="month8_style">
+      <IconStyle>
+        <color>ff0080ff</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff0080ff</color>
+      </LabelStyle>
+    </Style>
+    <Style id="month9_style">
+      <IconStyle>
+        <color>ff80ff00</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff80ff00</color>
+      </LabelStyle>
+    </Style>
+    <Style id="month10_style">
+      <IconStyle>
+        <color>ffff8000</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffff8000</color>
+      </LabelStyle>
+    </Style>
+    <Style id="month11_style">
+      <IconStyle>
+        <color>ff008000</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff008000</color>
+      </LabelStyle>
+    </Style>
+    <Style id="month12_style">
+      <IconStyle>
+        <color>ff800000</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff800000</color>
+      </LabelStyle>
+    </Style>
+    <Folder>
+      <name>Waterhole Visits</name>
+      <description>Each point represents an observation at a waterhole, colored by month</description>
+      <Placemark>
+        <name>Ombika - Month 5</name>
+        <description>Waterhole: Ombika, Month: 5, Time: 2010-05-21 19:20:00, Lon: 15.941117, Lat: -19.316156</description>
+        <styleUrl>#month5_style</styleUrl>
+        <Point>
+          <coordinates>15.941117,-19.316156,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ombika - Month 5</name>
+        <description>Waterhole: Ombika, Month: 5, Time: 2010-05-21 19:40:00, Lon: 15.940257, Lat: -19.315422</description>
+        <styleUrl>#month5_style</styleUrl>
+        <Point>
+          <coordinates>15.940257,-19.315422,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ombika - Month 5</name>
+        <description>Waterhole: Ombika, Month: 5, Time: 2010-05-21 20:00:00, Lon: 15.941082, Lat: -19.316347</description>
+        <styleUrl>#month5_style</styleUrl>
+        <Point>
+          <coordinates>15.941082,-19.316347,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ombika - Month 5</name>
+        <description>Waterhole: Ombika, Month: 5, Time: 2010-05-21 20:20:00, Lon: 15.935611, Lat: -19.313776</description>
+        <styleUrl>#month5_style</styleUrl>
+        <Point>
+          <coordinates>15.935611,-19.313776,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ombika - Month 5</name>
+        <description>Waterhole: Ombika, Month: 5, Time: 2010-05-21 21:40:00, Lon: 15.939897, Lat: -19.313910</description>
+        <styleUrl>#month5_style</styleUrl>
+        <Point>
+          <coordinates>15.939897,-19.313910,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ombika - Month 5</name>
+        <description>Waterhole: Ombika, Month: 5, Time: 2010-05-21 22:00:00, Lon: 15.944220, Lat: -19.318526</description>
+        <styleUrl>#month5_style</styleUrl>
+        <Point>
+          <coordinates>15.944220,-19.318526,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ombika - Month 5</name>
+        <description>Waterhole: Ombika, Month: 5, Time: 2010-05-22 19:00:00, Lon: 15.941028, Lat: -19.316252</description>
+        <styleUrl>#month5_style</styleUrl>
+        <Point>
+          <coordinates>15.941028,-19.316252,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ombika - Month 5</name>
+        <description>Waterhole: Ombika, Month: 5, Time: 2010-05-22 19:20:00, Lon: 15.940965, Lat: -19.316213</description>
+        <styleUrl>#month5_style</styleUrl>
+        <Point>
+          <coordinates>15.940965,-19.316213,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ombika - Month 5</name>
+        <description>Waterhole: Ombika, Month: 5, Time: 2010-05-22 19:40:00, Lon: 15.942053, Lat: -19.316427</description>
+        <styleUrl>#month5_style</styleUrl>
+        <Point>
+          <coordinates>15.942053,-19.316427,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ombika - Month 5</name>
+        <description>Waterhole: Ombika, Month: 5, Time: 2010-05-22 20:00:00, Lon: 15.938834, Lat: -19.315592</description>
+        <styleUrl>#month5_style</styleUrl>
+        <Point>
+          <coordinates>15.938834,-19.315592,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ombika - Month 5</name>
+        <description>Waterhole: Ombika, Month: 5, Time: 2010-05-24 18:00:00, Lon: 15.938094, Lat: -19.315361</description>
+        <styleUrl>#month5_style</styleUrl>
+        <Point>
+          <coordinates>15.938094,-19.315361,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ombika - Month 5</name>
+        <description>Waterhole: Ombika, Month: 5, Time: 2010-05-24 18:20:00, Lon: 15.944422, Lat: -19.315495</description>
+        <styleUrl>#month5_style</styleUrl>
+        <Point>
+          <coordinates>15.944422,-19.315495,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Duiwelsvuur - Month 5</name>
+        <description>Waterhole: Duiwelsvuur, Month: 5, Time: 2010-05-27 19:40:00, Lon: 15.259736, Lat: -18.987638</description>
+        <styleUrl>#month5_style</styleUrl>
+        <Point>
+          <coordinates>15.259736,-18.987638,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Duiwelsvuur - Month 5</name>
+        <description>Waterhole: Duiwelsvuur, Month: 5, Time: 2010-05-27 20:00:00, Lon: 15.259039, Lat: -18.988306</description>
+        <styleUrl>#month5_style</styleUrl>
+        <Point>
+          <coordinates>15.259039,-18.988306,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Duiwelsvuur - Month 5</name>
+        <description>Waterhole: Duiwelsvuur, Month: 5, Time: 2010-05-27 20:20:00, Lon: 15.256104, Lat: -18.989148</description>
+        <styleUrl>#month5_style</styleUrl>
+        <Point>
+          <coordinates>15.256104,-18.989148,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Teespoet waterhole - Month 5</name>
+        <description>Waterhole: Teespoet waterhole, Month: 5, Time: 2010-05-28 20:40:00, Lon: 15.066930, Lat: -18.983510</description>
+        <styleUrl>#month5_style</styleUrl>
+        <Point>
+          <coordinates>15.066930,-18.983510,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Teespoet waterhole - Month 5</name>
+        <description>Waterhole: Teespoet waterhole, Month: 5, Time: 2010-05-28 21:00:00, Lon: 15.055870, Lat: -18.982715</description>
+        <styleUrl>#month5_style</styleUrl>
+        <Point>
+          <coordinates>15.055870,-18.982715,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tobieroen - Month 5</name>
+        <description>Waterhole: Tobieroen, Month: 5, Time: 2010-05-29 00:00:00, Lon: 14.957577, Lat: -18.971570</description>
+        <styleUrl>#month5_style</styleUrl>
+        <Point>
+          <coordinates>14.957577,-18.971570,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tobieroen - Month 5</name>
+        <description>Waterhole: Tobieroen, Month: 5, Time: 2010-05-29 00:20:00, Lon: 14.958371, Lat: -18.980361</description>
+        <styleUrl>#month5_style</styleUrl>
+        <Point>
+          <coordinates>14.958371,-18.980361,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tobieroen - Month 5</name>
+        <description>Waterhole: Tobieroen, Month: 5, Time: 2010-05-29 19:40:00, Lon: 14.953244, Lat: -18.974333</description>
+        <styleUrl>#month5_style</styleUrl>
+        <Point>
+          <coordinates>14.953244,-18.974333,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tobieroen - Month 5</name>
+        <description>Waterhole: Tobieroen, Month: 5, Time: 2010-05-29 20:00:00, Lon: 14.957606, Lat: -18.971718</description>
+        <styleUrl>#month5_style</styleUrl>
+        <Point>
+          <coordinates>14.957606,-18.971718,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tobieroen - Month 5</name>
+        <description>Waterhole: Tobieroen, Month: 5, Time: 2010-05-29 20:20:00, Lon: 14.958455, Lat: -18.980428</description>
+        <styleUrl>#month5_style</styleUrl>
+        <Point>
+          <coordinates>14.958455,-18.980428,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tobieroen - Month 5</name>
+        <description>Waterhole: Tobieroen, Month: 5, Time: 2010-05-31 19:20:00, Lon: 14.950751, Lat: -18.976849</description>
+        <styleUrl>#month5_style</styleUrl>
+        <Point>
+          <coordinates>14.950751,-18.976849,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tobieroen - Month 5</name>
+        <description>Waterhole: Tobieroen, Month: 5, Time: 2010-05-31 19:40:00, Lon: 14.957525, Lat: -18.971606</description>
+        <styleUrl>#month5_style</styleUrl>
+        <Point>
+          <coordinates>14.957525,-18.971606,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tobieroen - Month 6</name>
+        <description>Waterhole: Tobieroen, Month: 6, Time: 2010-06-06 12:00:00, Lon: 14.959097, Lat: -18.978086</description>
+        <styleUrl>#month6_style</styleUrl>
+        <Point>
+          <coordinates>14.959097,-18.978086,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tobieroen - Month 6</name>
+        <description>Waterhole: Tobieroen, Month: 6, Time: 2010-06-06 12:20:00, Lon: 14.957583, Lat: -18.971523</description>
+        <styleUrl>#month6_style</styleUrl>
+        <Point>
+          <coordinates>14.957583,-18.971523,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tobieroen - Month 6</name>
+        <description>Waterhole: Tobieroen, Month: 6, Time: 2010-06-06 12:40:00, Lon: 14.961840, Lat: -18.976626</description>
+        <styleUrl>#month6_style</styleUrl>
+        <Point>
+          <coordinates>14.961840,-18.976626,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tobieroen - Month 6</name>
+        <description>Waterhole: Tobieroen, Month: 6, Time: 2010-06-06 13:00:00, Lon: 14.962718, Lat: -18.974646</description>
+        <styleUrl>#month6_style</styleUrl>
+        <Point>
+          <coordinates>14.962718,-18.974646,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tobieroen - Month 6</name>
+        <description>Waterhole: Tobieroen, Month: 6, Time: 2010-06-06 13:20:00, Lon: 14.962596, Lat: -18.974581</description>
+        <styleUrl>#month6_style</styleUrl>
+        <Point>
+          <coordinates>14.962596,-18.974581,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tobieroen - Month 6</name>
+        <description>Waterhole: Tobieroen, Month: 6, Time: 2010-06-06 13:40:00, Lon: 14.961769, Lat: -18.973940</description>
+        <styleUrl>#month6_style</styleUrl>
+        <Point>
+          <coordinates>14.961769,-18.973940,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tobieroen - Month 6</name>
+        <description>Waterhole: Tobieroen, Month: 6, Time: 2010-06-06 14:00:00, Lon: 14.957582, Lat: -18.971476</description>
+        <styleUrl>#month6_style</styleUrl>
+        <Point>
+          <coordinates>14.957582,-18.971476,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tobieroen - Month 6</name>
+        <description>Waterhole: Tobieroen, Month: 6, Time: 2010-06-06 14:20:00, Lon: 14.959852, Lat: -18.974386</description>
+        <styleUrl>#month6_style</styleUrl>
+        <Point>
+          <coordinates>14.959852,-18.974386,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tobieroen - Month 6</name>
+        <description>Waterhole: Tobieroen, Month: 6, Time: 2010-06-06 14:40:00, Lon: 14.960070, Lat: -18.975482</description>
+        <styleUrl>#month6_style</styleUrl>
+        <Point>
+          <coordinates>14.960070,-18.975482,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tobieroen - Month 6</name>
+        <description>Waterhole: Tobieroen, Month: 6, Time: 2010-06-06 15:00:00, Lon: 14.961778, Lat: -18.975441</description>
+        <styleUrl>#month6_style</styleUrl>
+        <Point>
+          <coordinates>14.961778,-18.975441,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tobieroen - Month 6</name>
+        <description>Waterhole: Tobieroen, Month: 6, Time: 2010-06-06 15:20:00, Lon: 14.962415, Lat: -18.974554</description>
+        <styleUrl>#month6_style</styleUrl>
+        <Point>
+          <coordinates>14.962415,-18.974554,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tobieroen - Month 6</name>
+        <description>Waterhole: Tobieroen, Month: 6, Time: 2010-06-06 15:40:00, Lon: 14.961886, Lat: -18.974243</description>
+        <styleUrl>#month6_style</styleUrl>
+        <Point>
+          <coordinates>14.961886,-18.974243,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tobieroen - Month 6</name>
+        <description>Waterhole: Tobieroen, Month: 6, Time: 2010-06-06 16:00:00, Lon: 14.960521, Lat: -18.974131</description>
+        <styleUrl>#month6_style</styleUrl>
+        <Point>
+          <coordinates>14.960521,-18.974131,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tobieroen - Month 6</name>
+        <description>Waterhole: Tobieroen, Month: 6, Time: 2010-06-06 16:20:00, Lon: 14.957792, Lat: -18.973708</description>
+        <styleUrl>#month6_style</styleUrl>
+        <Point>
+          <coordinates>14.957792,-18.973708,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tobieroen - Month 6</name>
+        <description>Waterhole: Tobieroen, Month: 6, Time: 2010-06-06 16:40:00, Lon: 14.959284, Lat: -18.979533</description>
+        <styleUrl>#month6_style</styleUrl>
+        <Point>
+          <coordinates>14.959284,-18.979533,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Duiwelsvuur - Month 6</name>
+        <description>Waterhole: Duiwelsvuur, Month: 6, Time: 2010-06-08 20:20:00, Lon: 15.259755, Lat: -18.987640</description>
+        <styleUrl>#month6_style</styleUrl>
+        <Point>
+          <coordinates>15.259755,-18.987640,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Duiwelsvuur - Month 6</name>
+        <description>Waterhole: Duiwelsvuur, Month: 6, Time: 2010-06-08 20:40:00, Lon: 15.259590, Lat: -18.988295</description>
+        <styleUrl>#month6_style</styleUrl>
+        <Point>
+          <coordinates>15.259590,-18.988295,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Duiwelsvuur - Month 6</name>
+        <description>Waterhole: Duiwelsvuur, Month: 6, Time: 2010-06-08 21:00:00, Lon: 15.258782, Lat: -18.989378</description>
+        <styleUrl>#month6_style</styleUrl>
+        <Point>
+          <coordinates>15.258782,-18.989378,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Duiwelsvuur - Month 6</name>
+        <description>Waterhole: Duiwelsvuur, Month: 6, Time: 2010-06-08 21:20:00, Lon: 15.260363, Lat: -18.992873</description>
+        <styleUrl>#month6_style</styleUrl>
+        <Point>
+          <coordinates>15.260363,-18.992873,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Duiwelsvuur - Month 6</name>
+        <description>Waterhole: Duiwelsvuur, Month: 6, Time: 2010-06-10 11:20:00, Lon: 15.259704, Lat: -18.987594</description>
+        <styleUrl>#month6_style</styleUrl>
+        <Point>
+          <coordinates>15.259704,-18.987594,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Duiwelsvuur - Month 6</name>
+        <description>Waterhole: Duiwelsvuur, Month: 6, Time: 2010-06-10 11:40:00, Lon: 15.261003, Lat: -18.986800</description>
+        <styleUrl>#month6_style</styleUrl>
+        <Point>
+          <coordinates>15.261003,-18.986800,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Duiwelsvuur - Month 6</name>
+        <description>Waterhole: Duiwelsvuur, Month: 6, Time: 2010-06-10 12:00:00, Lon: 15.259696, Lat: -18.987624</description>
+        <styleUrl>#month6_style</styleUrl>
+        <Point>
+          <coordinates>15.259696,-18.987624,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Duiwelsvuur - Month 6</name>
+        <description>Waterhole: Duiwelsvuur, Month: 6, Time: 2010-06-10 12:20:00, Lon: 15.259696, Lat: -18.987634</description>
+        <styleUrl>#month6_style</styleUrl>
+        <Point>
+          <coordinates>15.259696,-18.987634,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Duiwelsvuur - Month 6</name>
+        <description>Waterhole: Duiwelsvuur, Month: 6, Time: 2010-06-10 12:40:00, Lon: 15.259707, Lat: -18.987628</description>
+        <styleUrl>#month6_style</styleUrl>
+        <Point>
+          <coordinates>15.259707,-18.987628,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Duiwelsvuur - Month 6</name>
+        <description>Waterhole: Duiwelsvuur, Month: 6, Time: 2010-06-10 13:00:00, Lon: 15.266382, Lat: -18.990788</description>
+        <styleUrl>#month6_style</styleUrl>
+        <Point>
+          <coordinates>15.266382,-18.990788,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Duiwelsvuur - Month 6</name>
+        <description>Waterhole: Duiwelsvuur, Month: 6, Time: 2010-06-10 13:20:00, Lon: 15.267774, Lat: -18.992491</description>
+        <styleUrl>#month6_style</styleUrl>
+        <Point>
+          <coordinates>15.267774,-18.992491,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Olifantsbad Waterhole - Month 2</name>
+        <description>Waterhole: Olifantsbad Waterhole, Month: 2, Time: 2010-02-05 14:40:00, Lon: 16.131363, Lat: -19.240190</description>
+        <styleUrl>#month2_style</styleUrl>
+        <Point>
+          <coordinates>16.131363,-19.240190,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Olifantsbad Waterhole - Month 2</name>
+        <description>Waterhole: Olifantsbad Waterhole, Month: 2, Time: 2010-02-05 15:00:00, Lon: 16.131568, Lat: -19.238717</description>
+        <styleUrl>#month2_style</styleUrl>
+        <Point>
+          <coordinates>16.131568,-19.238717,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Olifantsbad Waterhole - Month 2</name>
+        <description>Waterhole: Olifantsbad Waterhole, Month: 2, Time: 2010-02-05 15:20:00, Lon: 16.132031, Lat: -19.238576</description>
+        <styleUrl>#month2_style</styleUrl>
+        <Point>
+          <coordinates>16.132031,-19.238576,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Olifantsbad Waterhole - Month 2</name>
+        <description>Waterhole: Olifantsbad Waterhole, Month: 2, Time: 2010-02-05 15:40:00, Lon: 16.131996, Lat: -19.238704</description>
+        <styleUrl>#month2_style</styleUrl>
+        <Point>
+          <coordinates>16.131996,-19.238704,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Olifantsbad Waterhole - Month 2</name>
+        <description>Waterhole: Olifantsbad Waterhole, Month: 2, Time: 2010-02-05 16:00:00, Lon: 16.131507, Lat: -19.240078</description>
+        <styleUrl>#month2_style</styleUrl>
+        <Point>
+          <coordinates>16.131507,-19.240078,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Olifantsbad Waterhole - Month 2</name>
+        <description>Waterhole: Olifantsbad Waterhole, Month: 2, Time: 2010-02-05 16:20:00, Lon: 16.131159, Lat: -19.240332</description>
+        <styleUrl>#month2_style</styleUrl>
+        <Point>
+          <coordinates>16.131159,-19.240332,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Olifantsbad Waterhole - Month 2</name>
+        <description>Waterhole: Olifantsbad Waterhole, Month: 2, Time: 2010-02-05 16:40:00, Lon: 16.131632, Lat: -19.238820</description>
+        <styleUrl>#month2_style</styleUrl>
+        <Point>
+          <coordinates>16.131632,-19.238820,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Olifantsbad Waterhole - Month 2</name>
+        <description>Waterhole: Olifantsbad Waterhole, Month: 2, Time: 2010-02-05 17:00:00, Lon: 16.133974, Lat: -19.243606</description>
+        <styleUrl>#month2_style</styleUrl>
+        <Point>
+          <coordinates>16.133974,-19.243606,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ombika - Month 2</name>
+        <description>Waterhole: Ombika, Month: 2, Time: 2010-02-10 18:40:00, Lon: 15.948215, Lat: -19.320376</description>
+        <styleUrl>#month2_style</styleUrl>
+        <Point>
+          <coordinates>15.948215,-19.320376,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ombika - Month 2</name>
+        <description>Waterhole: Ombika, Month: 2, Time: 2010-02-10 19:00:00, Lon: 15.940223, Lat: -19.316486</description>
+        <styleUrl>#month2_style</styleUrl>
+        <Point>
+          <coordinates>15.940223,-19.316486,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ombika - Month 2</name>
+        <description>Waterhole: Ombika, Month: 2, Time: 2010-02-10 19:20:00, Lon: 15.934044, Lat: -19.313171</description>
+        <styleUrl>#month2_style</styleUrl>
+        <Point>
+          <coordinates>15.934044,-19.313171,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tobieroen - Month 2</name>
+        <description>Waterhole: Tobieroen, Month: 2, Time: 2010-02-20 11:20:00, Lon: 14.957571, Lat: -18.971552</description>
+        <styleUrl>#month2_style</styleUrl>
+        <Point>
+          <coordinates>14.957571,-18.971552,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tobieroen - Month 2</name>
+        <description>Waterhole: Tobieroen, Month: 2, Time: 2010-02-20 11:40:00, Lon: 14.962335, Lat: -18.975077</description>
+        <styleUrl>#month2_style</styleUrl>
+        <Point>
+          <coordinates>14.962335,-18.975077,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tobieroen - Month 2</name>
+        <description>Waterhole: Tobieroen, Month: 2, Time: 2010-02-20 12:00:00, Lon: 14.963661, Lat: -18.975216</description>
+        <styleUrl>#month2_style</styleUrl>
+        <Point>
+          <coordinates>14.963661,-18.975216,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tobieroen - Month 2</name>
+        <description>Waterhole: Tobieroen, Month: 2, Time: 2010-02-20 12:20:00, Lon: 14.960771, Lat: -18.973773</description>
+        <styleUrl>#month2_style</styleUrl>
+        <Point>
+          <coordinates>14.960771,-18.973773,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tobieroen - Month 2</name>
+        <description>Waterhole: Tobieroen, Month: 2, Time: 2010-02-20 12:40:00, Lon: 14.962558, Lat: -18.974379</description>
+        <styleUrl>#month2_style</styleUrl>
+        <Point>
+          <coordinates>14.962558,-18.974379,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Teespoet waterhole - Month 2</name>
+        <description>Waterhole: Teespoet waterhole, Month: 2, Time: 2010-02-21 13:00:00, Lon: 15.051871, Lat: -18.978931</description>
+        <styleUrl>#month2_style</styleUrl>
+        <Point>
+          <coordinates>15.051871,-18.978931,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Teespoet waterhole - Month 2</name>
+        <description>Waterhole: Teespoet waterhole, Month: 2, Time: 2010-02-21 13:20:00, Lon: 15.060952, Lat: -18.979751</description>
+        <styleUrl>#month2_style</styleUrl>
+        <Point>
+          <coordinates>15.060952,-18.979751,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Teespoet waterhole - Month 2</name>
+        <description>Waterhole: Teespoet waterhole, Month: 2, Time: 2010-02-21 13:40:00, Lon: 15.063521, Lat: -18.979921</description>
+        <styleUrl>#month2_style</styleUrl>
+        <Point>
+          <coordinates>15.063521,-18.979921,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Teespoet waterhole - Month 2</name>
+        <description>Waterhole: Teespoet waterhole, Month: 2, Time: 2010-02-21 14:00:00, Lon: 15.063351, Lat: -18.979808</description>
+        <styleUrl>#month2_style</styleUrl>
+        <Point>
+          <coordinates>15.063351,-18.979808,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Teespoet waterhole - Month 2</name>
+        <description>Waterhole: Teespoet waterhole, Month: 2, Time: 2010-02-21 14:20:00, Lon: 15.067929, Lat: -18.978652</description>
+        <styleUrl>#month2_style</styleUrl>
+        <Point>
+          <coordinates>15.067929,-18.978652,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Teespoet waterhole - Month 2</name>
+        <description>Waterhole: Teespoet waterhole, Month: 2, Time: 2010-02-21 14:40:00, Lon: 15.067958, Lat: -18.978664</description>
+        <styleUrl>#month2_style</styleUrl>
+        <Point>
+          <coordinates>15.067958,-18.978664,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Teespoet waterhole - Month 2</name>
+        <description>Waterhole: Teespoet waterhole, Month: 2, Time: 2010-02-21 15:00:00, Lon: 15.067978, Lat: -18.978650</description>
+        <styleUrl>#month2_style</styleUrl>
+        <Point>
+          <coordinates>15.067978,-18.978650,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Teespoet waterhole - Month 2</name>
+        <description>Waterhole: Teespoet waterhole, Month: 2, Time: 2010-02-21 15:20:00, Lon: 15.067950, Lat: -18.978652</description>
+        <styleUrl>#month2_style</styleUrl>
+        <Point>
+          <coordinates>15.067950,-18.978652,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Teespoet waterhole - Month 2</name>
+        <description>Waterhole: Teespoet waterhole, Month: 2, Time: 2010-02-21 15:40:00, Lon: 15.062908, Lat: -18.979883</description>
+        <styleUrl>#month2_style</styleUrl>
+        <Point>
+          <coordinates>15.062908,-18.979883,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Teespoet waterhole - Month 2</name>
+        <description>Waterhole: Teespoet waterhole, Month: 2, Time: 2010-02-21 16:00:00, Lon: 15.062740, Lat: -18.980884</description>
+        <styleUrl>#month2_style</styleUrl>
+        <Point>
+          <coordinates>15.062740,-18.980884,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Teespoet waterhole - Month 2</name>
+        <description>Waterhole: Teespoet waterhole, Month: 2, Time: 2010-02-21 16:20:00, Lon: 15.063599, Lat: -18.979165</description>
+        <styleUrl>#month2_style</styleUrl>
+        <Point>
+          <coordinates>15.063599,-18.979165,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Duiwelsvuur - Month 2</name>
+        <description>Waterhole: Duiwelsvuur, Month: 2, Time: 2010-02-22 17:20:00, Lon: 15.251566, Lat: -18.992664</description>
+        <styleUrl>#month2_style</styleUrl>
+        <Point>
+          <coordinates>15.251566,-18.992664,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ombika - Month 2</name>
+        <description>Waterhole: Ombika, Month: 2, Time: 2010-02-26 00:00:00, Lon: 15.934700, Lat: -19.311206</description>
+        <styleUrl>#month2_style</styleUrl>
+        <Point>
+          <coordinates>15.934700,-19.311206,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ombika - Month 2</name>
+        <description>Waterhole: Ombika, Month: 2, Time: 2010-02-26 00:20:00, Lon: 15.941104, Lat: -19.316160</description>
+        <styleUrl>#month2_style</styleUrl>
+        <Point>
+          <coordinates>15.941104,-19.316160,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ombika - Month 2</name>
+        <description>Waterhole: Ombika, Month: 2, Time: 2010-02-26 00:40:00, Lon: 15.946907, Lat: -19.316243</description>
+        <styleUrl>#month2_style</styleUrl>
+        <Point>
+          <coordinates>15.946907,-19.316243,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ombika - Month 4</name>
+        <description>Waterhole: Ombika, Month: 4, Time: 2010-04-17 18:40:00, Lon: 15.935833, Lat: -19.312563</description>
+        <styleUrl>#month4_style</styleUrl>
+        <Point>
+          <coordinates>15.935833,-19.312563,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ombika - Month 4</name>
+        <description>Waterhole: Ombika, Month: 4, Time: 2010-04-17 19:00:00, Lon: 15.944528, Lat: -19.316376</description>
+        <styleUrl>#month4_style</styleUrl>
+        <Point>
+          <coordinates>15.944528,-19.316376,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

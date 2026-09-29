@@ -1,0 +1,3 @@
+original_index,Longitude,Latitude,individual-local-identifier,Date,timeAPM,Time,datetime,geometry,step_length,dt_sec,speed,residence_time,bearing,turning_angle,anomaly_types
+0,15.51617025,-18.98326823,LA7,10/30/2008,12:00:38 AM,00:00:38,2008-10-30 00:00:00,POINT (15.51617025 -18.98326823),,,,0,,,missing_values
+1,15.52203166,-18.98876139,LA7,10/30/2008,12:20:38 AM,00:20:38,2008-10-30 00:20:00,POINT (15.52203166 -18.98876139),867.7090272620777,1200.0,0.7230908560517314,0,134.74459333101015,,missing_values

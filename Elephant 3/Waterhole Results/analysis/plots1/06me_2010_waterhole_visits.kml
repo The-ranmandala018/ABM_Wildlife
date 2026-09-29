@@ -1,0 +1,3015 @@
+<?xml version="1.0" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Elephant 06me - 2010 Waterhole Visits</name>
+    <description>Points colored by month for elephant 06me in 2010</description>
+    <Style id="month1_style">
+      <IconStyle>
+        <color>ff0000ff</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff0000ff</color>
+      </LabelStyle>
+    </Style>
+    <Style id="month2_style">
+      <IconStyle>
+        <color>ff00ff00</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff00ff00</color>
+      </LabelStyle>
+    </Style>
+    <Style id="month3_style">
+      <IconStyle>
+        <color>ffff0000</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffff0000</color>
+      </LabelStyle>
+    </Style>
+    <Style id="month4_style">
+      <IconStyle>
+        <color>ff00ffff</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff00ffff</color>
+      </LabelStyle>
+    </Style>
+    <Style id="month5_style">
+      <IconStyle>
+        <color>ffff00ff</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffff00ff</color>
+      </LabelStyle>
+    </Style>
+    <Style id="month6_style">
+      <IconStyle>
+        <color>ff808080</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff808080</color>
+      </LabelStyle>
+    </Style>
+    <Style id="month7_style">
+      <IconStyle>
+        <color>ff8000ff</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff8000ff</color>
+      </LabelStyle>
+    </Style>
+    <Style id="month8_style">
+      <IconStyle>
+        <color>ff0080ff</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff0080ff</color>
+      </LabelStyle>
+    </Style>
+    <Style id="month9_style">
+      <IconStyle>
+        <color>ff80ff00</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff80ff00</color>
+      </LabelStyle>
+    </Style>
+    <Style id="month10_style">
+      <IconStyle>
+        <color>ffff8000</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffff8000</color>
+      </LabelStyle>
+    </Style>
+    <Style id="month11_style">
+      <IconStyle>
+        <color>ff008000</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff008000</color>
+      </LabelStyle>
+    </Style>
+    <Style id="month12_style">
+      <IconStyle>
+        <color>ff800000</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff800000</color>
+      </LabelStyle>
+    </Style>
+    <Folder>
+      <name>Waterhole Visits</name>
+      <description>Each point represents an observation at a waterhole, colored by month</description>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 6</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 6, Time: 2010-06-27 10:40:00, Lon: 15.331390, Lat: -18.961180</description>
+        <styleUrl>#month6_style</styleUrl>
+        <Point>
+          <coordinates>15.331390,-18.961180,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 6</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 6, Time: 2010-06-27 11:00:00, Lon: 15.328202, Lat: -18.968947</description>
+        <styleUrl>#month6_style</styleUrl>
+        <Point>
+          <coordinates>15.328202,-18.968947,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 6</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 6, Time: 2010-06-27 11:20:00, Lon: 15.328201, Lat: -18.968960</description>
+        <styleUrl>#month6_style</styleUrl>
+        <Point>
+          <coordinates>15.328201,-18.968960,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 6</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 6, Time: 2010-06-27 11:40:00, Lon: 15.327976, Lat: -18.968616</description>
+        <styleUrl>#month6_style</styleUrl>
+        <Point>
+          <coordinates>15.327976,-18.968616,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 6</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 6, Time: 2010-06-27 12:00:00, Lon: 15.327994, Lat: -18.968610</description>
+        <styleUrl>#month6_style</styleUrl>
+        <Point>
+          <coordinates>15.327994,-18.968610,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 6</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 6, Time: 2010-06-27 12:20:00, Lon: 15.328204, Lat: -18.968947</description>
+        <styleUrl>#month6_style</styleUrl>
+        <Point>
+          <coordinates>15.328204,-18.968947,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 6</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 6, Time: 2010-06-27 12:40:00, Lon: 15.330998, Lat: -18.966628</description>
+        <styleUrl>#month6_style</styleUrl>
+        <Point>
+          <coordinates>15.330998,-18.966628,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 6</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 6, Time: 2010-06-27 13:00:00, Lon: 15.331871, Lat: -18.966567</description>
+        <styleUrl>#month6_style</styleUrl>
+        <Point>
+          <coordinates>15.331871,-18.966567,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 6</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 6, Time: 2010-06-27 13:20:00, Lon: 15.332117, Lat: -18.965977</description>
+        <styleUrl>#month6_style</styleUrl>
+        <Point>
+          <coordinates>15.332117,-18.965977,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 6</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 6, Time: 2010-06-27 13:40:00, Lon: 15.332162, Lat: -18.965792</description>
+        <styleUrl>#month6_style</styleUrl>
+        <Point>
+          <coordinates>15.332162,-18.965792,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 6</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 6, Time: 2010-06-27 14:00:00, Lon: 15.332212, Lat: -18.965812</description>
+        <styleUrl>#month6_style</styleUrl>
+        <Point>
+          <coordinates>15.332212,-18.965812,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 6</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 6, Time: 2010-06-27 14:20:00, Lon: 15.332080, Lat: -18.965892</description>
+        <styleUrl>#month6_style</styleUrl>
+        <Point>
+          <coordinates>15.332080,-18.965892,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 6</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 6, Time: 2010-06-27 14:40:00, Lon: 15.328765, Lat: -18.967495</description>
+        <styleUrl>#month6_style</styleUrl>
+        <Point>
+          <coordinates>15.328765,-18.967495,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 6</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 6, Time: 2010-06-27 15:00:00, Lon: 15.328005, Lat: -18.968628</description>
+        <styleUrl>#month6_style</styleUrl>
+        <Point>
+          <coordinates>15.328005,-18.968628,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 6</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 6, Time: 2010-06-27 15:20:00, Lon: 15.328008, Lat: -18.968620</description>
+        <styleUrl>#month6_style</styleUrl>
+        <Point>
+          <coordinates>15.328008,-18.968620,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 6</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 6, Time: 2010-06-27 15:40:00, Lon: 15.328648, Lat: -18.968587</description>
+        <styleUrl>#month6_style</styleUrl>
+        <Point>
+          <coordinates>15.328648,-18.968587,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 6</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 6, Time: 2010-06-27 16:00:00, Lon: 15.331624, Lat: -18.964709</description>
+        <styleUrl>#month6_style</styleUrl>
+        <Point>
+          <coordinates>15.331624,-18.964709,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 6</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 6, Time: 2010-06-27 16:20:00, Lon: 15.332697, Lat: -18.964484</description>
+        <styleUrl>#month6_style</styleUrl>
+        <Point>
+          <coordinates>15.332697,-18.964484,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 6</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 6, Time: 2010-06-27 16:40:00, Lon: 15.333372, Lat: -18.964170</description>
+        <styleUrl>#month6_style</styleUrl>
+        <Point>
+          <coordinates>15.333372,-18.964170,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 6</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 6, Time: 2010-06-27 17:00:00, Lon: 15.333670, Lat: -18.964213</description>
+        <styleUrl>#month6_style</styleUrl>
+        <Point>
+          <coordinates>15.333670,-18.964213,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 6</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 6, Time: 2010-06-27 17:20:00, Lon: 15.334116, Lat: -18.963859</description>
+        <styleUrl>#month6_style</styleUrl>
+        <Point>
+          <coordinates>15.334116,-18.963859,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 6</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 6, Time: 2010-06-28 18:40:00, Lon: 15.329506, Lat: -18.965186</description>
+        <styleUrl>#month6_style</styleUrl>
+        <Point>
+          <coordinates>15.329506,-18.965186,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 6</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 6, Time: 2010-06-28 19:00:00, Lon: 15.328197, Lat: -18.968958</description>
+        <styleUrl>#month6_style</styleUrl>
+        <Point>
+          <coordinates>15.328197,-18.968958,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 6</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 6, Time: 2010-06-28 19:20:00, Lon: 15.328184, Lat: -18.968939</description>
+        <styleUrl>#month6_style</styleUrl>
+        <Point>
+          <coordinates>15.328184,-18.968939,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 6</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 6, Time: 2010-06-28 19:40:00, Lon: 15.328019, Lat: -18.968528</description>
+        <styleUrl>#month6_style</styleUrl>
+        <Point>
+          <coordinates>15.328019,-18.968528,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 6</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 6, Time: 2010-06-28 20:00:00, Lon: 15.329684, Lat: -18.964771</description>
+        <styleUrl>#month6_style</styleUrl>
+        <Point>
+          <coordinates>15.329684,-18.964771,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 6</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 6, Time: 2010-06-29 13:40:00, Lon: 15.330593, Lat: -18.963196</description>
+        <styleUrl>#month6_style</styleUrl>
+        <Point>
+          <coordinates>15.330593,-18.963196,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 6</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 6, Time: 2010-06-29 14:00:00, Lon: 15.328189, Lat: -18.968958</description>
+        <styleUrl>#month6_style</styleUrl>
+        <Point>
+          <coordinates>15.328189,-18.968958,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 6</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 6, Time: 2010-06-29 14:20:00, Lon: 15.328014, Lat: -18.968599</description>
+        <styleUrl>#month6_style</styleUrl>
+        <Point>
+          <coordinates>15.328014,-18.968599,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 6</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 6, Time: 2010-06-29 14:40:00, Lon: 15.328042, Lat: -18.968687</description>
+        <styleUrl>#month6_style</styleUrl>
+        <Point>
+          <coordinates>15.328042,-18.968687,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 6</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 6, Time: 2010-06-29 15:00:00, Lon: 15.328153, Lat: -18.968968</description>
+        <styleUrl>#month6_style</styleUrl>
+        <Point>
+          <coordinates>15.328153,-18.968968,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 6</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 6, Time: 2010-06-29 15:20:00, Lon: 15.329566, Lat: -18.968549</description>
+        <styleUrl>#month6_style</styleUrl>
+        <Point>
+          <coordinates>15.329566,-18.968549,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 6</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 6, Time: 2010-06-29 15:40:00, Lon: 15.332068, Lat: -18.966901</description>
+        <styleUrl>#month6_style</styleUrl>
+        <Point>
+          <coordinates>15.332068,-18.966901,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 6</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 6, Time: 2010-06-29 16:00:00, Lon: 15.332897, Lat: -18.965719</description>
+        <styleUrl>#month6_style</styleUrl>
+        <Point>
+          <coordinates>15.332897,-18.965719,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 6</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 6, Time: 2010-06-29 16:20:00, Lon: 15.333208, Lat: -18.965104</description>
+        <styleUrl>#month6_style</styleUrl>
+        <Point>
+          <coordinates>15.333208,-18.965104,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 6</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 6, Time: 2010-06-29 16:40:00, Lon: 15.333404, Lat: -18.964067</description>
+        <styleUrl>#month6_style</styleUrl>
+        <Point>
+          <coordinates>15.333404,-18.964067,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 6</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 6, Time: 2010-06-29 17:00:00, Lon: 15.333467, Lat: -18.963450</description>
+        <styleUrl>#month6_style</styleUrl>
+        <Point>
+          <coordinates>15.333467,-18.963450,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 6</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 6, Time: 2010-06-29 17:20:00, Lon: 15.333541, Lat: -18.963401</description>
+        <styleUrl>#month6_style</styleUrl>
+        <Point>
+          <coordinates>15.333541,-18.963401,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 6</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 6, Time: 2010-06-29 17:40:00, Lon: 15.333860, Lat: -18.962970</description>
+        <styleUrl>#month6_style</styleUrl>
+        <Point>
+          <coordinates>15.333860,-18.962970,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 6</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 6, Time: 2010-06-30 16:20:00, Lon: 15.329923, Lat: -18.961322</description>
+        <styleUrl>#month6_style</styleUrl>
+        <Point>
+          <coordinates>15.329923,-18.961322,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 6</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 6, Time: 2010-06-30 16:40:00, Lon: 15.328676, Lat: -18.967653</description>
+        <styleUrl>#month6_style</styleUrl>
+        <Point>
+          <coordinates>15.328676,-18.967653,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 6</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 6, Time: 2010-06-30 17:00:00, Lon: 15.328182, Lat: -18.968935</description>
+        <styleUrl>#month6_style</styleUrl>
+        <Point>
+          <coordinates>15.328182,-18.968935,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 6</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 6, Time: 2010-06-30 17:20:00, Lon: 15.327933, Lat: -18.968357</description>
+        <styleUrl>#month6_style</styleUrl>
+        <Point>
+          <coordinates>15.327933,-18.968357,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 6</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 6, Time: 2010-06-30 17:40:00, Lon: 15.328102, Lat: -18.968296</description>
+        <styleUrl>#month6_style</styleUrl>
+        <Point>
+          <coordinates>15.328102,-18.968296,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 6</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 6, Time: 2010-06-30 18:00:00, Lon: 15.328195, Lat: -18.968935</description>
+        <styleUrl>#month6_style</styleUrl>
+        <Point>
+          <coordinates>15.328195,-18.968935,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 6</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 6, Time: 2010-06-30 18:20:00, Lon: 15.329267, Lat: -18.965727</description>
+        <styleUrl>#month6_style</styleUrl>
+        <Point>
+          <coordinates>15.329267,-18.965727,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 6</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 6, Time: 2010-06-30 18:40:00, Lon: 15.331336, Lat: -18.961357</description>
+        <styleUrl>#month6_style</styleUrl>
+        <Point>
+          <coordinates>15.331336,-18.961357,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-01 20:20:00, Lon: 15.327721, Lat: -18.964419</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.327721,-18.964419,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-01 20:40:00, Lon: 15.327848, Lat: -18.965810</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.327848,-18.965810,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-01 21:00:00, Lon: 15.328010, Lat: -18.967194</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.328010,-18.967194,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-01 21:20:00, Lon: 15.328184, Lat: -18.968953</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.328184,-18.968953,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-01 21:40:00, Lon: 15.327870, Lat: -18.968378</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.327870,-18.968378,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-01 22:00:00, Lon: 15.328184, Lat: -18.968958</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.328184,-18.968958,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-01 22:20:00, Lon: 15.329525, Lat: -18.965076</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.329525,-18.965076,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-01 22:40:00, Lon: 15.331239, Lat: -18.961326</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.331239,-18.961326,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-02 19:00:00, Lon: 15.329508, Lat: -18.965159</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.329508,-18.965159,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-02 19:20:00, Lon: 15.328195, Lat: -18.968939</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.328195,-18.968939,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-02 19:40:00, Lon: 15.328083, Lat: -18.968935</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.328083,-18.968935,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-02 20:00:00, Lon: 15.328448, Lat: -18.967975</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.328448,-18.967975,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-04 14:40:00, Lon: 15.329390, Lat: -18.965420</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.329390,-18.965420,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-04 15:00:00, Lon: 15.328196, Lat: -18.968949</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.328196,-18.968949,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-04 15:20:00, Lon: 15.327949, Lat: -18.968481</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.327949,-18.968481,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-04 15:40:00, Lon: 15.331268, Lat: -18.972668</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.331268,-18.972668,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-04 20:00:00, Lon: 15.332463, Lat: -18.973594</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.332463,-18.973594,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-04 20:20:00, Lon: 15.328658, Lat: -18.969800</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.328658,-18.969800,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-04 20:40:00, Lon: 15.328175, Lat: -18.968968</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.328175,-18.968968,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-04 21:00:00, Lon: 15.329231, Lat: -18.970500</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.329231,-18.970500,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-04 21:20:00, Lon: 15.333348, Lat: -18.975694</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.333348,-18.975694,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-06 02:40:00, Lon: 15.334324, Lat: -18.968111</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.334324,-18.968111,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-06 03:00:00, Lon: 15.328565, Lat: -18.968880</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.328565,-18.968880,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-06 03:20:00, Lon: 15.328176, Lat: -18.968953</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.328176,-18.968953,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-06 03:40:00, Lon: 15.328179, Lat: -18.968964</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.328179,-18.968964,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-06 04:00:00, Lon: 15.329961, Lat: -18.964201</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.329961,-18.964201,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-06 04:20:00, Lon: 15.330445, Lat: -18.960915</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.330445,-18.960915,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-07 14:40:00, Lon: 15.329653, Lat: -18.963668</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.329653,-18.963668,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-07 15:00:00, Lon: 15.328199, Lat: -18.968974</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.328199,-18.968974,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-07 15:20:00, Lon: 15.328025, Lat: -18.968654</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.328025,-18.968654,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-07 15:40:00, Lon: 15.327863, Lat: -18.963298</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.327863,-18.963298,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-07 21:00:00, Lon: 15.329903, Lat: -18.961381</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.329903,-18.961381,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-07 21:20:00, Lon: 15.328321, Lat: -18.968404</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.328321,-18.968404,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-07 21:40:00, Lon: 15.329663, Lat: -18.968532</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.329663,-18.968532,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-07 22:00:00, Lon: 15.334596, Lat: -18.968109</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.334596,-18.968109,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-09 16:20:00, Lon: 15.332203, Lat: -18.968016</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.332203,-18.968016,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-09 16:40:00, Lon: 15.328187, Lat: -18.968970</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.328187,-18.968970,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-09 17:00:00, Lon: 15.328012, Lat: -18.969051</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.328012,-18.969051,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-09 17:20:00, Lon: 15.328146, Lat: -18.968917</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.328146,-18.968917,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-09 17:40:00, Lon: 15.328469, Lat: -18.968886</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.328469,-18.968886,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-09 18:00:00, Lon: 15.328103, Lat: -18.969108</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.328103,-18.969108,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-09 18:20:00, Lon: 15.327667, Lat: -18.968996</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.327667,-18.968996,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-09 18:40:00, Lon: 15.328519, Lat: -18.969637</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.328519,-18.969637,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-09 19:00:00, Lon: 15.330973, Lat: -18.972593</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.330973,-18.972593,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-09 19:20:00, Lon: 15.332329, Lat: -18.975269</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.332329,-18.975269,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-10 21:00:00, Lon: 15.331997, Lat: -18.970709</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.331997,-18.970709,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-10 21:20:00, Lon: 15.328193, Lat: -18.968962</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.328193,-18.968962,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-10 21:40:00, Lon: 15.328174, Lat: -18.968951</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.328174,-18.968951,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-10 22:00:00, Lon: 15.328159, Lat: -18.968925</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.328159,-18.968925,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-10 22:20:00, Lon: 15.328185, Lat: -18.968964</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.328185,-18.968964,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-10 22:40:00, Lon: 15.328151, Lat: -18.968968</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.328151,-18.968968,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-10 23:00:00, Lon: 15.328161, Lat: -18.968933</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.328161,-18.968933,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-10 23:20:00, Lon: 15.328197, Lat: -18.968945</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.328197,-18.968945,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-10 23:40:00, Lon: 15.328837, Lat: -18.969425</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.328837,-18.969425,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-11 00:00:00, Lon: 15.329191, Lat: -18.969590</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.329191,-18.969590,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-11 00:20:00, Lon: 15.330801, Lat: -18.970093</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.330801,-18.970093,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-11 00:40:00, Lon: 15.331539, Lat: -18.970056</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.331539,-18.970056,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-11 01:00:00, Lon: 15.332249, Lat: -18.970150</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.332249,-18.970150,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-11 01:20:00, Lon: 15.332547, Lat: -18.970392</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.332547,-18.970392,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-11 01:40:00, Lon: 15.333170, Lat: -18.970357</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.333170,-18.970357,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-11 02:00:00, Lon: 15.334739, Lat: -18.970150</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.334739,-18.970150,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-11 02:20:00, Lon: 15.335448, Lat: -18.970292</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.335448,-18.970292,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-11 02:40:00, Lon: 15.335969, Lat: -18.970451</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.335969,-18.970451,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-11 03:00:00, Lon: 15.336261, Lat: -18.970577</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.336261,-18.970577,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-11 03:20:00, Lon: 15.336152, Lat: -18.970612</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.336152,-18.970612,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-11 03:40:00, Lon: 15.336536, Lat: -18.970469</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.336536,-18.970469,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-11 04:00:00, Lon: 15.336686, Lat: -18.970420</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.336686,-18.970420,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-11 04:20:00, Lon: 15.336648, Lat: -18.970433</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.336648,-18.970433,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-11 04:40:00, Lon: 15.336679, Lat: -18.970447</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.336679,-18.970447,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-11 05:00:00, Lon: 15.336672, Lat: -18.970412</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.336672,-18.970412,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-11 05:20:00, Lon: 15.336687, Lat: -18.970428</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.336687,-18.970428,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-11 05:40:00, Lon: 15.336726, Lat: -18.970357</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.336726,-18.970357,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-11 13:40:00, Lon: 15.336180, Lat: -18.969318</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.336180,-18.969318,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-11 14:00:00, Lon: 15.335412, Lat: -18.968583</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.335412,-18.968583,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-11 14:20:00, Lon: 15.333740, Lat: -18.968095</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.333740,-18.968095,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-11 14:40:00, Lon: 15.332277, Lat: -18.967531</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.332277,-18.967531,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-11 15:00:00, Lon: 15.329341, Lat: -18.968634</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.329341,-18.968634,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-11 15:20:00, Lon: 15.328184, Lat: -18.968951</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.328184,-18.968951,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-11 15:40:00, Lon: 15.329247, Lat: -18.968660</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.329247,-18.968660,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-11 16:00:00, Lon: 15.334823, Lat: -18.968087</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.334823,-18.968087,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-12 21:40:00, Lon: 15.330871, Lat: -18.968205</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.330871,-18.968205,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-12 22:00:00, Lon: 15.328192, Lat: -18.968958</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.328192,-18.968958,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-12 22:20:00, Lon: 15.328196, Lat: -18.968955</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.328196,-18.968955,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-12 22:40:00, Lon: 15.328151, Lat: -18.969017</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.328151,-18.969017,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-12 23:00:00, Lon: 15.325893, Lat: -18.974495</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.325893,-18.974495,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-14 10:40:00, Lon: 15.327483, Lat: -18.971592</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.327483,-18.971592,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-14 11:00:00, Lon: 15.328186, Lat: -18.968955</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.328186,-18.968955,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-14 11:20:00, Lon: 15.328052, Lat: -18.968477</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.328052,-18.968477,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-14 11:40:00, Lon: 15.329825, Lat: -18.968510</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.329825,-18.968510,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-14 12:00:00, Lon: 15.335019, Lat: -18.969366</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.335019,-18.969366,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-14 12:20:00, Lon: 15.335652, Lat: -18.969714</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.335652,-18.969714,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-14 12:40:00, Lon: 15.336110, Lat: -18.970018</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.336110,-18.970018,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-14 13:00:00, Lon: 15.335976, Lat: -18.970105</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.335976,-18.970105,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-14 13:20:00, Lon: 15.336557, Lat: -18.970331</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.336557,-18.970331,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-14 13:40:00, Lon: 15.336761, Lat: -18.970357</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.336761,-18.970357,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-15 14:40:00, Lon: 15.336003, Lat: -18.968001</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.336003,-18.968001,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-15 15:00:00, Lon: 15.330709, Lat: -18.968351</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.330709,-18.968351,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-15 15:20:00, Lon: 15.328195, Lat: -18.968943</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.328195,-18.968943,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-15 15:40:00, Lon: 15.328314, Lat: -18.968732</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.328314,-18.968732,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-15 16:00:00, Lon: 15.332089, Lat: -18.969263</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.332089,-18.969263,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-15 16:20:00, Lon: 15.334844, Lat: -18.969460</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.334844,-18.969460,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-17 13:00:00, Lon: 15.330991, Lat: -18.965424</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.330991,-18.965424,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-17 13:20:00, Lon: 15.329259, Lat: -18.967883</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.329259,-18.967883,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-17 13:40:00, Lon: 15.328177, Lat: -18.968937</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.328177,-18.968937,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-17 14:00:00, Lon: 15.328200, Lat: -18.968935</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.328200,-18.968935,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-17 14:20:00, Lon: 15.328201, Lat: -18.968958</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.328201,-18.968958,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-17 14:40:00, Lon: 15.328170, Lat: -18.969000</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.328170,-18.969000,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-17 15:00:00, Lon: 15.328788, Lat: -18.969464</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.328788,-18.969464,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-17 15:20:00, Lon: 15.328568, Lat: -18.968030</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.328568,-18.968030,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-17 15:40:00, Lon: 15.328185, Lat: -18.968970</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.328185,-18.968970,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-17 16:00:00, Lon: 15.328187, Lat: -18.968964</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.328187,-18.968964,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-17 16:20:00, Lon: 15.328870, Lat: -18.968787</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.328870,-18.968787,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-17 16:40:00, Lon: 15.331245, Lat: -18.969157</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.331245,-18.969157,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-17 17:00:00, Lon: 15.332150, Lat: -18.970508</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.332150,-18.970508,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-17 17:20:00, Lon: 15.331536, Lat: -18.972972</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.331536,-18.972972,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-17 17:40:00, Lon: 15.327726, Lat: -18.976528</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.327726,-18.976528,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-17 18:00:00, Lon: 15.325151, Lat: -18.976847</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.325151,-18.976847,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-17 18:20:00, Lon: 15.324400, Lat: -18.975960</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.324400,-18.975960,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-17 18:40:00, Lon: 15.322663, Lat: -18.975177</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.322663,-18.975177,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-17 22:20:00, Lon: 15.322288, Lat: -18.971222</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.322288,-18.971222,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-17 22:40:00, Lon: 15.324602, Lat: -18.970304</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.324602,-18.970304,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-17 23:00:00, Lon: 15.325286, Lat: -18.970144</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.325286,-18.970144,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-17 23:20:00, Lon: 15.326415, Lat: -18.969769</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.326415,-18.969769,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-17 23:40:00, Lon: 15.328200, Lat: -18.968966</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.328200,-18.968966,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-18 00:00:00, Lon: 15.328192, Lat: -18.968970</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.328192,-18.968970,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-18 00:20:00, Lon: 15.330569, Lat: -18.968294</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.330569,-18.968294,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-20 17:20:00, Lon: 15.331708, Lat: -18.968036</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.331708,-18.968036,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-20 17:40:00, Lon: 15.327983, Lat: -18.968913</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.327983,-18.968913,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-20 18:00:00, Lon: 15.328198, Lat: -18.968968</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.328198,-18.968968,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-20 18:20:00, Lon: 15.328195, Lat: -18.968970</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.328195,-18.968970,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-20 18:40:00, Lon: 15.328199, Lat: -18.968970</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.328199,-18.968970,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-20 19:00:00, Lon: 15.328199, Lat: -18.968978</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.328199,-18.968978,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-20 19:20:00, Lon: 15.329944, Lat: -18.967847</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.329944,-18.967847,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-20 19:40:00, Lon: 15.333916, Lat: -18.967236</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.333916,-18.967236,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-20 20:00:00, Lon: 15.335915, Lat: -18.967674</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.335915,-18.967674,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-22 13:40:00, Lon: 15.336747, Lat: -18.967507</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.336747,-18.967507,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-22 14:00:00, Lon: 15.328209, Lat: -18.968953</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.328209,-18.968953,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-22 14:20:00, Lon: 15.328206, Lat: -18.968947</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.328206,-18.968947,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-22 14:40:00, Lon: 15.328209, Lat: -18.968949</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.328209,-18.968949,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-22 15:00:00, Lon: 15.329444, Lat: -18.967657</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.329444,-18.967657,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-22 15:20:00, Lon: 15.330816, Lat: -18.966372</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.330816,-18.966372,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-22 15:40:00, Lon: 15.331358, Lat: -18.965995</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.331358,-18.965995,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-22 16:00:00, Lon: 15.333436, Lat: -18.964093</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.333436,-18.964093,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-22 22:20:00, Lon: 15.336067, Lat: -18.965542</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.336067,-18.965542,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-22 22:40:00, Lon: 15.335218, Lat: -18.968036</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.335218,-18.968036,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-22 23:00:00, Lon: 15.328148, Lat: -18.968962</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.328148,-18.968962,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-22 23:20:00, Lon: 15.328111, Lat: -18.968960</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.328111,-18.968960,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-22 23:40:00, Lon: 15.328969, Lat: -18.968726</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.328969,-18.968726,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-23 00:00:00, Lon: 15.332167, Lat: -18.968007</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.332167,-18.968007,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-23 00:20:00, Lon: 15.335146, Lat: -18.968105</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.335146,-18.968105,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-25 01:20:00, Lon: 15.328920, Lat: -18.968325</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.328920,-18.968325,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-25 01:40:00, Lon: 15.328186, Lat: -18.968972</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.328186,-18.968972,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-25 02:00:00, Lon: 15.328180, Lat: -18.968962</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.328180,-18.968962,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-25 02:20:00, Lon: 15.328194, Lat: -18.968966</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.328194,-18.968966,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-25 02:40:00, Lon: 15.329714, Lat: -18.968506</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.329714,-18.968506,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-25 03:00:00, Lon: 15.334393, Lat: -18.968091</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.334393,-18.968091,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-26 09:00:00, Lon: 15.329863, Lat: -18.968451</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.329863,-18.968451,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-26 09:20:00, Lon: 15.328185, Lat: -18.968937</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.328185,-18.968937,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-26 09:40:00, Lon: 15.328152, Lat: -18.968931</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.328152,-18.968931,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-26 10:00:00, Lon: 15.328114, Lat: -18.968996</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.328114,-18.968996,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-26 10:20:00, Lon: 15.328231, Lat: -18.969002</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.328231,-18.969002,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-26 10:40:00, Lon: 15.328333, Lat: -18.968976</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.328333,-18.968976,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-26 11:00:00, Lon: 15.328585, Lat: -18.968719</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.328585,-18.968719,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-26 11:20:00, Lon: 15.328208, Lat: -18.968911</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.328208,-18.968911,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-26 11:40:00, Lon: 15.328153, Lat: -18.968945</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.328153,-18.968945,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-26 12:00:00, Lon: 15.328269, Lat: -18.968831</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.328269,-18.968831,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-26 12:20:00, Lon: 15.329555, Lat: -18.969114</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.329555,-18.969114,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-26 12:40:00, Lon: 15.329833, Lat: -18.969128</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.329833,-18.969128,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-26 13:00:00, Lon: 15.331718, Lat: -18.969200</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.331718,-18.969200,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-26 13:20:00, Lon: 15.333204, Lat: -18.969403</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.333204,-18.969403,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-26 13:40:00, Lon: 15.334127, Lat: -18.969444</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.334127,-18.969444,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-26 14:00:00, Lon: 15.335121, Lat: -18.969570</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.335121,-18.969570,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-26 14:20:00, Lon: 15.336223, Lat: -18.970085</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.336223,-18.970085,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-26 14:40:00, Lon: 15.336552, Lat: -18.970247</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.336552,-18.970247,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-26 15:00:00, Lon: 15.336639, Lat: -18.970229</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.336639,-18.970229,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-26 15:20:00, Lon: 15.336988, Lat: -18.970205</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.336988,-18.970205,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-28 02:20:00, Lon: 15.330369, Lat: -18.963576</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.330369,-18.963576,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-28 02:40:00, Lon: 15.328193, Lat: -18.968962</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.328193,-18.968962,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-28 03:00:00, Lon: 15.328520, Lat: -18.969513</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.328520,-18.969513,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-28 03:20:00, Lon: 15.331951, Lat: -18.974357</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.331951,-18.974357,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-28 20:00:00, Lon: 15.324199, Lat: -18.976241</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.324199,-18.976241,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-28 20:20:00, Lon: 15.328185, Lat: -18.968953</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.328185,-18.968953,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-28 20:40:00, Lon: 15.328109, Lat: -18.968996</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.328109,-18.968996,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-28 21:00:00, Lon: 15.328204, Lat: -18.968951</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.328204,-18.968951,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-28 21:20:00, Lon: 15.330207, Lat: -18.966793</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.330207,-18.966793,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-29 20:40:00, Lon: 15.327993, Lat: -18.960541</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.327993,-18.960541,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-29 21:00:00, Lon: 15.327940, Lat: -18.966182</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.327940,-18.966182,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-29 21:20:00, Lon: 15.328206, Lat: -18.968964</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.328206,-18.968964,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-29 21:40:00, Lon: 15.328717, Lat: -18.969194</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.328717,-18.969194,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-29 22:00:00, Lon: 15.329071, Lat: -18.969096</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.329071,-18.969096,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-29 22:20:00, Lon: 15.329164, Lat: -18.969145</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.329164,-18.969145,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-29 22:40:00, Lon: 15.328507, Lat: -18.968479</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.328507,-18.968479,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-29 23:00:00, Lon: 15.331794, Lat: -18.966964</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.331794,-18.966964,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 7</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 7, Time: 2010-07-29 23:20:00, Lon: 15.334617, Lat: -18.967417</description>
+        <styleUrl>#month7_style</styleUrl>
+        <Point>
+          <coordinates>15.334617,-18.967417,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 8</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 8, Time: 2010-08-01 13:40:00, Lon: 15.336695, Lat: -18.967485</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.336695,-18.967485,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 8</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 8, Time: 2010-08-01 14:00:00, Lon: 15.328196, Lat: -18.968968</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.328196,-18.968968,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 8</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 8, Time: 2010-08-01 14:20:00, Lon: 15.328198, Lat: -18.968966</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.328198,-18.968966,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 8</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 8, Time: 2010-08-01 14:40:00, Lon: 15.328197, Lat: -18.968958</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.328197,-18.968958,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 8</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 8, Time: 2010-08-01 15:00:00, Lon: 15.328527, Lat: -18.968719</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.328527,-18.968719,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 8</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 8, Time: 2010-08-01 15:20:00, Lon: 15.331301, Lat: -18.968388</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.331301,-18.968388,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 8</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 8, Time: 2010-08-01 15:40:00, Lon: 15.335330, Lat: -18.969499</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.335330,-18.969499,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 8</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 8, Time: 2010-08-01 16:00:00, Lon: 15.336734, Lat: -18.969019</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.336734,-18.969019,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 8</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 8, Time: 2010-08-01 17:40:00, Lon: 15.334510, Lat: -18.968121</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.334510,-18.968121,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 8</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 8, Time: 2010-08-01 18:00:00, Lon: 15.331410, Lat: -18.968066</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.331410,-18.968066,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 8</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 8, Time: 2010-08-01 18:20:00, Lon: 15.331325, Lat: -18.968093</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.331325,-18.968093,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 8</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 8, Time: 2010-08-01 18:40:00, Lon: 15.330329, Lat: -18.968353</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.330329,-18.968353,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 8</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 8, Time: 2010-08-01 19:00:00, Lon: 15.328179, Lat: -18.968966</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.328179,-18.968966,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 8</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 8, Time: 2010-08-01 19:20:00, Lon: 15.328189, Lat: -18.968955</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.328189,-18.968955,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 8</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 8, Time: 2010-08-01 19:40:00, Lon: 15.328430, Lat: -18.968750</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.328430,-18.968750,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 8</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 8, Time: 2010-08-01 20:00:00, Lon: 15.328758, Lat: -18.968805</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.328758,-18.968805,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 8</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 8, Time: 2010-08-01 20:20:00, Lon: 15.328798, Lat: -18.968805</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.328798,-18.968805,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 8</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 8, Time: 2010-08-01 20:40:00, Lon: 15.331547, Lat: -18.968024</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.331547,-18.968024,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 8</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 8, Time: 2010-08-01 21:00:00, Lon: 15.333812, Lat: -18.968054</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.333812,-18.968054,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 8</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 8, Time: 2010-08-01 21:20:00, Lon: 15.334137, Lat: -18.967926</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.334137,-18.967926,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 8</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 8, Time: 2010-08-03 18:20:00, Lon: 15.328132, Lat: -18.976208</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.328132,-18.976208,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 8</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 8, Time: 2010-08-03 18:40:00, Lon: 15.327776, Lat: -18.973330</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.327776,-18.973330,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 8</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 8, Time: 2010-08-03 19:00:00, Lon: 15.327566, Lat: -18.972371</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.327566,-18.972371,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 8</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 8, Time: 2010-08-03 19:20:00, Lon: 15.328180, Lat: -18.968953</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.328180,-18.968953,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 8</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 8, Time: 2010-08-03 19:40:00, Lon: 15.328171, Lat: -18.968951</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.328171,-18.968951,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 8</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 8, Time: 2010-08-03 20:00:00, Lon: 15.328313, Lat: -18.969383</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.328313,-18.969383,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 8</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 8, Time: 2010-08-03 20:20:00, Lon: 15.328200, Lat: -18.969143</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.328200,-18.969143,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 8</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 8, Time: 2010-08-03 20:40:00, Lon: 15.328111, Lat: -18.969053</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.328111,-18.969053,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 8</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 8, Time: 2010-08-03 21:00:00, Lon: 15.327942, Lat: -18.969208</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.327942,-18.969208,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 8</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 8, Time: 2010-08-03 21:20:00, Lon: 15.328024, Lat: -18.974748</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.328024,-18.974748,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Duiwelsvuur - Month 8</name>
+        <description>Waterhole: Duiwelsvuur, Month: 8, Time: 2010-08-06 09:40:00, Lon: 15.263408, Lat: -18.993018</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.263408,-18.993018,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Duiwelsvuur - Month 8</name>
+        <description>Waterhole: Duiwelsvuur, Month: 8, Time: 2010-08-06 10:00:00, Lon: 15.259701, Lat: -18.987651</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.259701,-18.987651,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Duiwelsvuur - Month 8</name>
+        <description>Waterhole: Duiwelsvuur, Month: 8, Time: 2010-08-06 10:20:00, Lon: 15.259697, Lat: -18.987651</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.259697,-18.987651,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Duiwelsvuur - Month 8</name>
+        <description>Waterhole: Duiwelsvuur, Month: 8, Time: 2010-08-06 10:40:00, Lon: 15.259651, Lat: -18.988025</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.259651,-18.988025,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Duiwelsvuur - Month 8</name>
+        <description>Waterhole: Duiwelsvuur, Month: 8, Time: 2010-08-06 11:00:00, Lon: 15.259711, Lat: -18.987630</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.259711,-18.987630,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Duiwelsvuur - Month 8</name>
+        <description>Waterhole: Duiwelsvuur, Month: 8, Time: 2010-08-06 11:20:00, Lon: 15.259715, Lat: -18.987634</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.259715,-18.987634,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Duiwelsvuur - Month 8</name>
+        <description>Waterhole: Duiwelsvuur, Month: 8, Time: 2010-08-06 11:40:00, Lon: 15.260126, Lat: -18.986082</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.260126,-18.986082,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Duiwelsvuur - Month 8</name>
+        <description>Waterhole: Duiwelsvuur, Month: 8, Time: 2010-08-06 12:00:00, Lon: 15.260132, Lat: -18.985679</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.260132,-18.985679,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Duiwelsvuur - Month 8</name>
+        <description>Waterhole: Duiwelsvuur, Month: 8, Time: 2010-08-06 12:20:00, Lon: 15.260008, Lat: -18.985565</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.260008,-18.985565,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Duiwelsvuur - Month 8</name>
+        <description>Waterhole: Duiwelsvuur, Month: 8, Time: 2010-08-06 12:40:00, Lon: 15.259946, Lat: -18.985421</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.259946,-18.985421,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Duiwelsvuur - Month 8</name>
+        <description>Waterhole: Duiwelsvuur, Month: 8, Time: 2010-08-06 13:00:00, Lon: 15.259791, Lat: -18.985402</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.259791,-18.985402,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Duiwelsvuur - Month 8</name>
+        <description>Waterhole: Duiwelsvuur, Month: 8, Time: 2010-08-06 13:20:00, Lon: 15.259391, Lat: -18.985736</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.259391,-18.985736,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Duiwelsvuur - Month 8</name>
+        <description>Waterhole: Duiwelsvuur, Month: 8, Time: 2010-08-06 13:40:00, Lon: 15.259284, Lat: -18.985795</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.259284,-18.985795,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Duiwelsvuur - Month 8</name>
+        <description>Waterhole: Duiwelsvuur, Month: 8, Time: 2010-08-06 14:00:00, Lon: 15.259275, Lat: -18.985787</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.259275,-18.985787,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Duiwelsvuur - Month 8</name>
+        <description>Waterhole: Duiwelsvuur, Month: 8, Time: 2010-08-06 14:20:00, Lon: 15.259428, Lat: -18.986025</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.259428,-18.986025,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Duiwelsvuur - Month 8</name>
+        <description>Waterhole: Duiwelsvuur, Month: 8, Time: 2010-08-06 14:40:00, Lon: 15.259622, Lat: -18.986835</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.259622,-18.986835,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Duiwelsvuur - Month 8</name>
+        <description>Waterhole: Duiwelsvuur, Month: 8, Time: 2010-08-06 15:00:00, Lon: 15.259729, Lat: -18.987026</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.259729,-18.987026,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Duiwelsvuur - Month 8</name>
+        <description>Waterhole: Duiwelsvuur, Month: 8, Time: 2010-08-06 15:20:00, Lon: 15.259679, Lat: -18.987785</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.259679,-18.987785,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Duiwelsvuur - Month 8</name>
+        <description>Waterhole: Duiwelsvuur, Month: 8, Time: 2010-08-06 15:40:00, Lon: 15.259829, Lat: -18.988043</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.259829,-18.988043,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Duiwelsvuur - Month 8</name>
+        <description>Waterhole: Duiwelsvuur, Month: 8, Time: 2010-08-06 16:00:00, Lon: 15.259703, Lat: -18.987649</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.259703,-18.987649,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Duiwelsvuur - Month 8</name>
+        <description>Waterhole: Duiwelsvuur, Month: 8, Time: 2010-08-06 16:20:00, Lon: 15.259711, Lat: -18.987663</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.259711,-18.987663,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Duiwelsvuur - Month 8</name>
+        <description>Waterhole: Duiwelsvuur, Month: 8, Time: 2010-08-06 16:40:00, Lon: 15.260883, Lat: -18.987130</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.260883,-18.987130,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Duiwelsvuur - Month 8</name>
+        <description>Waterhole: Duiwelsvuur, Month: 8, Time: 2010-08-06 17:00:00, Lon: 15.261952, Lat: -18.987282</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.261952,-18.987282,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Duiwelsvuur - Month 8</name>
+        <description>Waterhole: Duiwelsvuur, Month: 8, Time: 2010-08-06 17:20:00, Lon: 15.262208, Lat: -18.987331</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.262208,-18.987331,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Duiwelsvuur - Month 8</name>
+        <description>Waterhole: Duiwelsvuur, Month: 8, Time: 2010-08-06 17:40:00, Lon: 15.262590, Lat: -18.988340</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.262590,-18.988340,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Duiwelsvuur - Month 8</name>
+        <description>Waterhole: Duiwelsvuur, Month: 8, Time: 2010-08-06 18:00:00, Lon: 15.262453, Lat: -18.990218</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.262453,-18.990218,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Duiwelsvuur - Month 8</name>
+        <description>Waterhole: Duiwelsvuur, Month: 8, Time: 2010-08-06 18:20:00, Lon: 15.263610, Lat: -18.990407</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.263610,-18.990407,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Duiwelsvuur - Month 8</name>
+        <description>Waterhole: Duiwelsvuur, Month: 8, Time: 2010-08-06 18:40:00, Lon: 15.263728, Lat: -18.990375</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.263728,-18.990375,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Duiwelsvuur - Month 8</name>
+        <description>Waterhole: Duiwelsvuur, Month: 8, Time: 2010-08-06 19:00:00, Lon: 15.264732, Lat: -18.991337</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.264732,-18.991337,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Duiwelsvuur - Month 8</name>
+        <description>Waterhole: Duiwelsvuur, Month: 8, Time: 2010-08-06 19:20:00, Lon: 15.265154, Lat: -18.992883</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.265154,-18.992883,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Duiwelsvuur - Month 8</name>
+        <description>Waterhole: Duiwelsvuur, Month: 8, Time: 2010-08-06 19:40:00, Lon: 15.265181, Lat: -18.993089</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.265181,-18.993089,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Duiwelsvuur - Month 8</name>
+        <description>Waterhole: Duiwelsvuur, Month: 8, Time: 2010-08-06 20:00:00, Lon: 15.265368, Lat: -18.993376</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.265368,-18.993376,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Duiwelsvuur - Month 8</name>
+        <description>Waterhole: Duiwelsvuur, Month: 8, Time: 2010-08-06 20:20:00, Lon: 15.265329, Lat: -18.993471</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.265329,-18.993471,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Duiwelsvuur - Month 8</name>
+        <description>Waterhole: Duiwelsvuur, Month: 8, Time: 2010-08-06 20:40:00, Lon: 15.265434, Lat: -18.993783</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.265434,-18.993783,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Duiwelsvuur - Month 8</name>
+        <description>Waterhole: Duiwelsvuur, Month: 8, Time: 2010-08-06 21:00:00, Lon: 15.265388, Lat: -18.993951</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.265388,-18.993951,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Duiwelsvuur - Month 8</name>
+        <description>Waterhole: Duiwelsvuur, Month: 8, Time: 2010-08-06 21:20:00, Lon: 15.265176, Lat: -18.994578</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.265176,-18.994578,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Duiwelsvuur - Month 8</name>
+        <description>Waterhole: Duiwelsvuur, Month: 8, Time: 2010-08-07 11:20:00, Lon: 15.263289, Lat: -18.993209</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.263289,-18.993209,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Duiwelsvuur - Month 8</name>
+        <description>Waterhole: Duiwelsvuur, Month: 8, Time: 2010-08-07 11:40:00, Lon: 15.259698, Lat: -18.987614</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.259698,-18.987614,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Duiwelsvuur - Month 8</name>
+        <description>Waterhole: Duiwelsvuur, Month: 8, Time: 2010-08-07 12:00:00, Lon: 15.259690, Lat: -18.987628</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.259690,-18.987628,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Duiwelsvuur - Month 8</name>
+        <description>Waterhole: Duiwelsvuur, Month: 8, Time: 2010-08-07 12:20:00, Lon: 15.259705, Lat: -18.987651</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.259705,-18.987651,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Duiwelsvuur - Month 8</name>
+        <description>Waterhole: Duiwelsvuur, Month: 8, Time: 2010-08-07 12:40:00, Lon: 15.259697, Lat: -18.987642</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.259697,-18.987642,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Duiwelsvuur - Month 8</name>
+        <description>Waterhole: Duiwelsvuur, Month: 8, Time: 2010-08-07 13:00:00, Lon: 15.259922, Lat: -18.985950</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.259922,-18.985950,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Duiwelsvuur - Month 8</name>
+        <description>Waterhole: Duiwelsvuur, Month: 8, Time: 2010-08-07 13:20:00, Lon: 15.260250, Lat: -18.985095</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.260250,-18.985095,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Duiwelsvuur - Month 8</name>
+        <description>Waterhole: Duiwelsvuur, Month: 8, Time: 2010-08-07 13:40:00, Lon: 15.260260, Lat: -18.985107</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.260260,-18.985107,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Duiwelsvuur - Month 8</name>
+        <description>Waterhole: Duiwelsvuur, Month: 8, Time: 2010-08-07 14:00:00, Lon: 15.260213, Lat: -18.985091</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.260213,-18.985091,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Duiwelsvuur - Month 8</name>
+        <description>Waterhole: Duiwelsvuur, Month: 8, Time: 2010-08-07 14:20:00, Lon: 15.260218, Lat: -18.985081</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.260218,-18.985081,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Duiwelsvuur - Month 8</name>
+        <description>Waterhole: Duiwelsvuur, Month: 8, Time: 2010-08-07 14:40:00, Lon: 15.260106, Lat: -18.984145</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.260106,-18.984145,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Duiwelsvuur - Month 8</name>
+        <description>Waterhole: Duiwelsvuur, Month: 8, Time: 2010-08-07 15:00:00, Lon: 15.260748, Lat: -18.983032</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.260748,-18.983032,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Duiwelsvuur - Month 8</name>
+        <description>Waterhole: Duiwelsvuur, Month: 8, Time: 2010-08-07 15:20:00, Lon: 15.260785, Lat: -18.982902</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.260785,-18.982902,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Duiwelsvuur - Month 8</name>
+        <description>Waterhole: Duiwelsvuur, Month: 8, Time: 2010-08-07 15:40:00, Lon: 15.260740, Lat: -18.982739</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.260740,-18.982739,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Duiwelsvuur - Month 8</name>
+        <description>Waterhole: Duiwelsvuur, Month: 8, Time: 2010-08-07 16:00:00, Lon: 15.260599, Lat: -18.982365</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.260599,-18.982365,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Duiwelsvuur - Month 8</name>
+        <description>Waterhole: Duiwelsvuur, Month: 8, Time: 2010-08-07 16:20:00, Lon: 15.260596, Lat: -18.982125</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.260596,-18.982125,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Duiwelsvuur - Month 8</name>
+        <description>Waterhole: Duiwelsvuur, Month: 8, Time: 2010-08-07 16:40:00, Lon: 15.259864, Lat: -18.981610</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.259864,-18.981610,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Duiwelsvuur - Month 8</name>
+        <description>Waterhole: Duiwelsvuur, Month: 8, Time: 2010-08-07 17:00:00, Lon: 15.258659, Lat: -18.980766</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.258659,-18.980766,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Duiwelsvuur - Month 8</name>
+        <description>Waterhole: Duiwelsvuur, Month: 8, Time: 2010-08-07 17:20:00, Lon: 15.258688, Lat: -18.980800</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.258688,-18.980800,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Duiwelsvuur - Month 8</name>
+        <description>Waterhole: Duiwelsvuur, Month: 8, Time: 2010-08-07 17:40:00, Lon: 15.258745, Lat: -18.981498</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.258745,-18.981498,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Duiwelsvuur - Month 8</name>
+        <description>Waterhole: Duiwelsvuur, Month: 8, Time: 2010-08-07 18:00:00, Lon: 15.258372, Lat: -18.982821</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.258372,-18.982821,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Duiwelsvuur - Month 8</name>
+        <description>Waterhole: Duiwelsvuur, Month: 8, Time: 2010-08-07 18:20:00, Lon: 15.258289, Lat: -18.982975</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.258289,-18.982975,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Duiwelsvuur - Month 8</name>
+        <description>Waterhole: Duiwelsvuur, Month: 8, Time: 2010-08-07 18:40:00, Lon: 15.258489, Lat: -18.983344</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.258489,-18.983344,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Duiwelsvuur - Month 8</name>
+        <description>Waterhole: Duiwelsvuur, Month: 8, Time: 2010-08-07 19:00:00, Lon: 15.259411, Lat: -18.986202</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.259411,-18.986202,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Duiwelsvuur - Month 8</name>
+        <description>Waterhole: Duiwelsvuur, Month: 8, Time: 2010-08-07 19:20:00, Lon: 15.259766, Lat: -18.987636</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.259766,-18.987636,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Duiwelsvuur - Month 8</name>
+        <description>Waterhole: Duiwelsvuur, Month: 8, Time: 2010-08-07 19:40:00, Lon: 15.259577, Lat: -18.987590</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.259577,-18.987590,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Duiwelsvuur - Month 8</name>
+        <description>Waterhole: Duiwelsvuur, Month: 8, Time: 2010-08-07 20:00:00, Lon: 15.260254, Lat: -18.988149</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.260254,-18.988149,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Duiwelsvuur - Month 8</name>
+        <description>Waterhole: Duiwelsvuur, Month: 8, Time: 2010-08-07 20:20:00, Lon: 15.262427, Lat: -18.990216</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.262427,-18.990216,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Duiwelsvuur - Month 8</name>
+        <description>Waterhole: Duiwelsvuur, Month: 8, Time: 2010-08-07 20:40:00, Lon: 15.263214, Lat: -18.992651</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.263214,-18.992651,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Duiwelsvuur - Month 8</name>
+        <description>Waterhole: Duiwelsvuur, Month: 8, Time: 2010-08-07 21:00:00, Lon: 15.263946, Lat: -18.994279</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.263946,-18.994279,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 8</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 8, Time: 2010-08-09 10:40:00, Lon: 15.328137, Lat: -18.977140</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.328137,-18.977140,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 8</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 8, Time: 2010-08-09 11:00:00, Lon: 15.328190, Lat: -18.968966</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.328190,-18.968966,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 8</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 8, Time: 2010-08-09 11:20:00, Lon: 15.328194, Lat: -18.968943</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.328194,-18.968943,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 8</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 8, Time: 2010-08-09 11:40:00, Lon: 15.332536, Lat: -18.967952</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.332536,-18.967952,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 8</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 8, Time: 2010-08-09 12:00:00, Lon: 15.335228, Lat: -18.968689</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.335228,-18.968689,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sonderkop waterhole - Month 8</name>
+        <description>Waterhole: Sonderkop waterhole, Month: 8, Time: 2010-08-09 12:20:00, Lon: 15.337068, Lat: -18.969802</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.337068,-18.969802,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Arendsnes - Month 8</name>
+        <description>Waterhole: Arendsnes, Month: 8, Time: 2010-08-10 01:00:00, Lon: 15.401938, Lat: -18.979928</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.401938,-18.979928,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Arendsnes - Month 8</name>
+        <description>Waterhole: Arendsnes, Month: 8, Time: 2010-08-10 01:20:00, Lon: 15.407532, Lat: -18.978296</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.407532,-18.978296,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Arendsnes - Month 8</name>
+        <description>Waterhole: Arendsnes, Month: 8, Time: 2010-08-10 01:40:00, Lon: 15.412727, Lat: -18.976921</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.412727,-18.976921,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Arendsnes - Month 8</name>
+        <description>Waterhole: Arendsnes, Month: 8, Time: 2010-08-10 02:00:00, Lon: 15.418778, Lat: -18.977157</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.418778,-18.977157,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Grünewald waterhole - Month 8</name>
+        <description>Waterhole: Grünewald waterhole, Month: 8, Time: 2010-08-15 13:00:00, Lon: 15.630989, Lat: -19.132721</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.630989,-19.132721,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Grünewald waterhole - Month 8</name>
+        <description>Waterhole: Grünewald waterhole, Month: 8, Time: 2010-08-15 13:20:00, Lon: 15.631556, Lat: -19.131665</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.631556,-19.131665,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Grünewald waterhole - Month 8</name>
+        <description>Waterhole: Grünewald waterhole, Month: 8, Time: 2010-08-15 13:40:00, Lon: 15.631704, Lat: -19.130298</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.631704,-19.130298,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Grünewald waterhole - Month 8</name>
+        <description>Waterhole: Grünewald waterhole, Month: 8, Time: 2010-08-15 14:00:00, Lon: 15.632345, Lat: -19.128847</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.632345,-19.128847,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Grünewald waterhole - Month 8</name>
+        <description>Waterhole: Grünewald waterhole, Month: 8, Time: 2010-08-15 14:20:00, Lon: 15.632335, Lat: -19.128851</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.632335,-19.128851,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Grünewald waterhole - Month 8</name>
+        <description>Waterhole: Grünewald waterhole, Month: 8, Time: 2010-08-15 14:40:00, Lon: 15.632343, Lat: -19.128857</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.632343,-19.128857,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Grünewald waterhole - Month 8</name>
+        <description>Waterhole: Grünewald waterhole, Month: 8, Time: 2010-08-15 15:00:00, Lon: 15.632744, Lat: -19.128158</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.632744,-19.128158,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Grünewald waterhole - Month 8</name>
+        <description>Waterhole: Grünewald waterhole, Month: 8, Time: 2010-08-15 15:20:00, Lon: 15.634203, Lat: -19.127484</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.634203,-19.127484,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Grünewald waterhole - Month 8</name>
+        <description>Waterhole: Grünewald waterhole, Month: 8, Time: 2010-08-15 15:40:00, Lon: 15.635374, Lat: -19.126593</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.635374,-19.126593,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Grünewald waterhole - Month 8</name>
+        <description>Waterhole: Grünewald waterhole, Month: 8, Time: 2010-08-15 16:00:00, Lon: 15.636199, Lat: -19.126447</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.636199,-19.126447,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Grünewald waterhole - Month 8</name>
+        <description>Waterhole: Grünewald waterhole, Month: 8, Time: 2010-08-15 16:20:00, Lon: 15.636211, Lat: -19.126467</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.636211,-19.126467,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Grünewald waterhole - Month 8</name>
+        <description>Waterhole: Grünewald waterhole, Month: 8, Time: 2010-08-15 16:40:00, Lon: 15.641183, Lat: -19.124233</description>
+        <styleUrl>#month8_style</styleUrl>
+        <Point>
+          <coordinates>15.641183,-19.124233,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

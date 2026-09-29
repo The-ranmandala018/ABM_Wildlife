@@ -1,0 +1,96 @@
+elephant_id,year,date,waterhole,lon,lat,start_time_str,end_time_str,stay_duration_hours,temp_c,humidity_percent,Precip_mm,start_hour,temp_cat,hum_cat,precip_cat,stay_cat,condition,season
+07fe,2010,2010-03-27,Bitterwater Waterhole,15.1603067,-18.9768852,2010-03-27 23:40:00,2010-03-27 23:40:00,0.0,26.72,82.0,6.84,23,High,High,High,Low,High Temp + High Hum + High Precip,Hot-Wet
+07fe,2010,2010-04-16,Ozonjuitji m'Bari,15.5035973,-18.9766519,2010-04-16 10:00:00,2010-04-16 15:00:00,5.0,25.65,74.0,3.74,10,High,High,Med,High,High Temp + High Hum + Med Precip,Hot-Wet
+07fe,2010,2010-04-24,Duiwelsvuur,15.2597952,-18.9881872,2010-04-24 21:20:00,2010-04-24 22:00:00,0.6666666666666666,26.72,60.0,0.64,21,High,High,Low,Low,High Temp + High Hum + Low Precip,Hot-Wet
+07fe,2010,2010-04-24,Sonderkop waterhole,15.3276196,-18.9691974,2010-04-24 18:40:00,2010-04-24 19:20:00,0.6666666666666666,26.72,60.0,0.64,18,High,High,Low,Low,High Temp + High Hum + Low Precip,Hot-Wet
+07fe,2010,2010-05-11,Olifantsrus,14.85953195,-18.96982556,2010-05-11 23:00:00,2010-05-11 23:40:00,0.6666666666666666,29.93,38.0,0.0,23,High,Med,Low,Low,High Temp + Med Hum + Low Precip,Cold-Dry
+07fe,2010,2010-05-12,Olifantsrus,14.85953195,-18.96982556,2010-05-12 00:00:00,2010-05-12 00:40:00,0.6666666666666666,26.72,31.0,0.0,0,High,Low,Low,Low,High Temp + Low Hum + Low Precip,Cold-Dry
+07fe,2010,2010-05-13,Olifantsrus,14.85953195,-18.96982556,2010-05-13 18:20:00,2010-05-13 19:00:00,0.6666666666666666,26.72,40.0,0.0,18,High,Med,Low,Low,High Temp + Med Hum + Low Precip,Cold-Dry
+07fe,2010,2010-05-17,Tobieroen,14.95805816,-18.97167749,2010-05-17 23:40:00,2010-05-17 23:40:00,0.0,23.51,45.0,0.0,23,Med,Med,Low,Low,Med Temp + Med Hum + Low Precip,Cold-Dry
+07fe,2010,2010-05-18,Tobieroen,14.95805816,-18.97167749,2010-05-18 00:00:00,2010-05-18 00:00:00,0.0,23.51,40.0,0.0,0,Med,Med,Low,Low,Med Temp + Med Hum + Low Precip,Cold-Dry
+07fe,2010,2010-05-23,Tobieroen,14.95805816,-18.97167749,2010-05-23 19:40:00,2010-05-23 19:40:00,0.0,25.65,40.0,0.0,19,High,Med,Low,Low,High Temp + Med Hum + Low Precip,Cold-Dry
+07fe,2010,2010-05-24,Tobieroen,14.95805816,-18.97167749,2010-05-24 22:00:00,2010-05-24 22:20:00,0.3333333333333333,24.58,41.0,0.0,22,Med,Med,Low,Low,Med Temp + Med Hum + Low Precip,Cold-Dry
+07fe,2010,2010-05-25,Tobieroen,14.95805816,-18.97167749,2010-05-25 17:20:00,2010-05-25 18:20:00,1.0,23.51,43.0,0.0,17,Med,Med,Low,Low,Med Temp + Med Hum + Low Precip,Cold-Dry
+07fe,2010,2010-05-30,Tobieroen,14.95805816,-18.97167749,2010-05-30 20:20:00,2010-05-30 21:20:00,1.0,24.58,46.0,0.0,20,Med,Med,Low,Low,Med Temp + Med Hum + Low Precip,Cold-Dry
+07fe,2010,2010-05-31,Olifantsrus,14.85953195,-18.96982556,2010-05-31 17:40:00,2010-05-31 21:00:00,3.333333333333333,25.65,41.0,0.0,17,High,Med,Low,High,High Temp + Med Hum + Low Precip,Cold-Dry
+07fe,2010,2010-06-01,Olifantsrus,14.85953195,-18.96982556,2010-06-01 18:20:00,2010-06-01 19:20:00,1.0,24.58,39.0,0.0,18,Med,Med,Low,Low,Med Temp + Med Hum + Low Precip,Cold-Dry
+07fe,2010,2010-06-02,Tobieroen,14.95805816,-18.97167749,2010-06-02 20:20:00,2010-06-02 22:20:00,2.0,21.38,38.0,0.0,20,Med,Med,Low,Low,Med Temp + Med Hum + Low Precip,Cold-Dry
+07fe,2010,2010-06-03,Olifantsrus,14.85953195,-18.96982556,2010-06-03 22:20:00,2010-06-03 23:00:00,0.6666666666666666,19.24,47.0,0.0,22,Low,Med,Low,Low,Low Temp + Med Hum + Low Precip,Cold-Dry
+07fe,2010,2010-06-04,Olifantsrus,14.85953195,-18.96982556,2010-06-04 14:20:00,2010-06-04 21:40:00,7.333333333333333,20.31,43.0,0.0,14,Med,Med,Low,High,Med Temp + Med Hum + Low Precip,Cold-Dry
+07fe,2010,2010-06-05,Olifantsrus,14.85953195,-18.96982556,2010-06-05 17:20:00,2010-06-05 18:00:00,0.6666666666666666,20.31,38.0,0.0,17,Med,Med,Low,Low,Med Temp + Med Hum + Low Precip,Cold-Dry
+07fe,2010,2010-06-07,Olifantsrus,14.85953195,-18.96982556,2010-06-07 16:40:00,2010-06-07 18:00:00,1.3333333333333333,21.38,40.0,0.0,16,Med,Med,Low,Low,Med Temp + Med Hum + Low Precip,Cold-Dry
+07fe,2010,2010-06-08,Tobieroen,14.95805816,-18.97167749,2010-06-08 20:00:00,2010-06-08 22:00:00,2.0,22.44,40.0,0.0,20,Med,Med,Low,Low,Med Temp + Med Hum + Low Precip,Cold-Dry
+07fe,2010,2010-06-09,Bitterwater Waterhole,15.1603067,-18.9768852,2010-06-09 22:20:00,2010-06-09 22:40:00,0.3333333333333333,22.44,40.0,0.0,22,Med,Med,Low,Low,Med Temp + Med Hum + Low Precip,Cold-Dry
+07fe,2010,2010-06-09,Teespoet waterhole,15.0612313,-18.979759,2010-06-09 17:40:00,2010-06-09 18:00:00,0.3333333333333333,22.44,40.0,0.0,17,Med,Med,Low,Low,Med Temp + Med Hum + Low Precip,Cold-Dry
+07fe,2010,2010-06-10,Duiwelsvuur,15.2597952,-18.9881872,2010-06-10 02:20:00,2010-06-10 03:00:00,0.6666666666666666,21.38,37.0,0.0,2,Med,Low,Low,Low,Med Temp + Low Hum + Low Precip,Cold-Dry
+07fe,2010,2010-06-10,Sonderkop waterhole,15.3276196,-18.9691974,2010-06-10 16:40:00,2010-06-10 18:00:00,1.3333333333333333,21.38,37.0,0.0,16,Med,Low,Low,Low,Med Temp + Low Hum + Low Precip,Cold-Dry
+07fe,2010,2010-06-11,Ozonjuitji m'Bari,15.5035973,-18.9766519,2010-06-11 18:00:00,2010-06-11 19:00:00,1.0,21.38,36.0,0.0,18,Med,Low,Low,Low,Med Temp + Low Hum + Low Precip,Cold-Dry
+07fe,2010,2010-06-12,Ozonjuitji m'Bari,15.5035973,-18.9766519,2010-06-12 18:20:00,2010-06-12 21:00:00,2.6666666666666665,22.44,38.0,0.0,18,Med,Med,Low,High,Med Temp + Med Hum + Low Precip,Cold-Dry
+07fe,2010,2010-06-13,Ozonjuitji m'Bari,15.5035973,-18.9766519,2010-06-13 20:20:00,2010-06-13 22:40:00,2.333333333333333,23.51,40.0,0.0,20,Med,Med,Low,High,Med Temp + Med Hum + Low Precip,Cold-Dry
+07fe,2010,2010-06-14,Ozonjuitji m'Bari,15.5035973,-18.9766519,2010-06-14 19:20:00,2010-06-14 21:00:00,1.6666666666666667,23.51,38.0,0.0,19,Med,Med,Low,Low,Med Temp + Med Hum + Low Precip,Cold-Dry
+07fe,2010,2010-06-15,Ozonjuitji m'Bari,15.5035973,-18.9766519,2010-06-15 19:00:00,2010-06-15 22:40:00,3.6666666666666665,22.44,24.0,0.0,19,Med,Low,Low,High,Med Temp + Low Hum + Low Precip,Cold-Dry
+07fe,2010,2010-06-16,Ozonjuitji m'Bari,15.5035973,-18.9766519,2010-06-16 18:00:00,2010-06-16 19:00:00,1.0,18.17,29.0,0.0,18,Low,Low,Low,Low,Low Temp + Low Hum + Low Precip,Cold-Dry
+07fe,2010,2010-06-17,Ozonjuitji m'Bari,15.5035973,-18.9766519,2010-06-17 18:20:00,2010-06-17 19:00:00,0.6666666666666666,16.03,21.0,0.0,18,Low,Low,Low,Low,Low Temp + Low Hum + Low Precip,Cold-Dry
+07fe,2010,2010-06-18,Ozonjuitji m'Bari,15.5035973,-18.9766519,2010-06-18 16:20:00,2010-06-18 17:20:00,1.0,14.96,23.0,0.0,16,Low,Low,Low,Low,Low Temp + Low Hum + Low Precip,Cold-Dry
+07fe,2010,2010-06-19,Ozonjuitji m'Bari,15.5035973,-18.9766519,2010-06-19 18:40:00,2010-06-19 20:40:00,2.0,18.17,49.0,0.0,18,Low,Med,Low,Low,Low Temp + Med Hum + Low Precip,Cold-Dry
+07fe,2010,2010-06-20,Ozonjuitji m'Bari,15.5035973,-18.9766519,2010-06-20 20:00:00,2010-06-20 21:00:00,1.0,18.17,50.0,0.0,20,Low,Med,Low,Low,Low Temp + Med Hum + Low Precip,Cold-Dry
+07fe,2010,2010-06-21,Ozonjuitji m'Bari,15.5035973,-18.9766519,2010-06-21 18:20:00,2010-06-21 19:20:00,1.0,18.17,43.0,0.0,18,Low,Med,Low,Low,Low Temp + Med Hum + Low Precip,Cold-Dry
+07fe,2010,2010-06-23,Ozonjuitji m'Bari,15.5035973,-18.9766519,2010-06-23 16:00:00,2010-06-23 18:20:00,2.333333333333333,18.17,37.0,0.0,16,Low,Low,Low,High,Low Temp + Low Hum + Low Precip,Cold-Dry
+07fe,2010,2010-06-24,Ozonjuitji m'Bari,15.5035973,-18.9766519,2010-06-24 15:00:00,2010-06-24 18:20:00,3.333333333333333,19.24,37.0,0.0,15,Low,Low,Low,High,Low Temp + Low Hum + Low Precip,Cold-Dry
+07fe,2010,2010-06-25,Ozonjuitji m'Bari,15.5035973,-18.9766519,2010-06-25 15:20:00,2010-06-25 17:20:00,2.0,19.24,38.0,0.0,15,Low,Med,Low,Low,Low Temp + Med Hum + Low Precip,Cold-Dry
+07fe,2010,2010-06-26,Ozonjuitji m'Bari,15.5035973,-18.9766519,2010-06-26 20:40:00,2010-06-26 21:40:00,1.0,20.31,46.0,0.0,20,Med,Med,Low,Low,Med Temp + Med Hum + Low Precip,Cold-Dry
+07fe,2010,2010-06-28,Ozonjuitji m'Bari,15.5035973,-18.9766519,2010-06-28 00:20:00,2010-06-28 23:40:00,23.33333333333333,20.31,38.0,0.0,0,Med,Med,Low,High,Med Temp + Med Hum + Low Precip,Cold-Dry
+07fe,2010,2010-06-29,Ozonjuitji m'Bari,15.5035973,-18.9766519,2010-06-29 00:00:00,2010-06-29 22:40:00,22.666666666666668,20.31,41.0,0.0,0,Med,Med,Low,High,Med Temp + Med Hum + Low Precip,Cold-Dry
+07fe,2010,2010-06-30,Ozonjuitji m'Bari,15.5035973,-18.9766519,2010-06-30 14:40:00,2010-06-30 20:40:00,6.0,19.24,39.0,0.0,14,Low,Med,Low,High,Low Temp + Med Hum + Low Precip,Cold-Dry
+07fe,2010,2010-07-01,Ozonjuitji m'Bari,15.5035973,-18.9766519,2010-07-01 16:00:00,2010-07-01 19:00:00,3.0,19.24,46.0,0.0,16,Low,Med,Low,High,Low Temp + Med Hum + Low Precip,Cold-Dry
+07fe,2010,2010-07-02,Ozonjuitji m'Bari,15.5035973,-18.9766519,2010-07-02 18:00:00,2010-07-02 20:00:00,2.0,20.31,46.0,0.0,18,Med,Med,Low,Low,Med Temp + Med Hum + Low Precip,Cold-Dry
+07fe,2010,2010-07-03,Ozonjuitji m'Bari,15.5035973,-18.9766519,2010-07-03 16:40:00,2010-07-03 17:40:00,1.0,20.31,50.0,0.0,16,Med,Med,Low,Low,Med Temp + Med Hum + Low Precip,Cold-Dry
+07fe,2010,2010-07-04,Ozonjuitji m'Bari,15.5035973,-18.9766519,2010-07-04 19:00:00,2010-07-04 20:00:00,1.0,20.31,53.0,0.0,19,Med,Med,Low,Low,Med Temp + Med Hum + Low Precip,Cold-Dry
+07fe,2010,2010-07-05,Ozonjuitji m'Bari,15.5035973,-18.9766519,2010-07-05 19:20:00,2010-07-05 21:00:00,1.6666666666666667,20.31,51.0,0.0,19,Med,Med,Low,Low,Med Temp + Med Hum + Low Precip,Cold-Dry
+07fe,2010,2010-07-06,Ozonjuitji m'Bari,15.5035973,-18.9766519,2010-07-06 15:20:00,2010-07-06 18:40:00,3.333333333333333,20.31,51.0,0.0,15,Med,Med,Low,High,Med Temp + Med Hum + Low Precip,Cold-Dry
+07fe,2010,2010-07-07,Ozonjuitji m'Bari,15.5035973,-18.9766519,2010-07-07 14:40:00,2010-07-07 17:20:00,2.6666666666666665,20.31,50.0,0.0,14,Med,Med,Low,High,Med Temp + Med Hum + Low Precip,Cold-Dry
+07fe,2010,2010-07-08,Ozonjuitji m'Bari,15.5035973,-18.9766519,2010-07-08 19:00:00,2010-07-08 20:00:00,1.0,20.31,44.0,0.0,19,Med,Med,Low,Low,Med Temp + Med Hum + Low Precip,Cold-Dry
+07fe,2010,2010-07-09,Ozonjuitji m'Bari,15.5035973,-18.9766519,2010-07-09 17:20:00,2010-07-09 19:20:00,2.0,19.24,41.0,0.0,17,Low,Med,Low,Low,Low Temp + Med Hum + Low Precip,Cold-Dry
+07fe,2010,2010-07-10,Ozonjuitji m'Bari,15.5035973,-18.9766519,2010-07-10 16:40:00,2010-07-10 20:40:00,4.0,19.24,41.0,0.0,16,Low,Med,Low,High,Low Temp + Med Hum + Low Precip,Cold-Dry
+07fe,2010,2010-07-11,Ozonjuitji m'Bari,15.5035973,-18.9766519,2010-07-11 19:20:00,2010-07-11 23:40:00,4.333333333333333,21.38,40.0,0.0,19,Med,Med,Low,High,Med Temp + Med Hum + Low Precip,Cold-Dry
+07fe,2010,2010-07-12,Ozonjuitji m'Bari,15.5035973,-18.9766519,2010-07-12 00:00:00,2010-07-12 20:40:00,20.666666666666668,18.17,30.0,0.0,0,Low,Low,Low,High,Low Temp + Low Hum + Low Precip,Cold-Dry
+07fe,2010,2010-07-13,Sonderkop waterhole,15.3276196,-18.9691974,2010-07-13 15:40:00,2010-07-13 17:40:00,2.0,18.17,33.0,0.0,15,Low,Low,Low,Low,Low Temp + Low Hum + Low Precip,Cold-Dry
+07fe,2010,2010-07-14,Duiwelsvuur,15.2597952,-18.9881872,2010-07-14 09:40:00,2010-07-14 17:40:00,8.0,20.31,30.0,0.0,9,Med,Low,Low,High,Med Temp + Low Hum + Low Precip,Cold-Dry
+07fe,2010,2010-07-15,Duiwelsvuur,15.2597952,-18.9881872,2010-07-15 11:00:00,2010-07-15 16:20:00,5.333333333333333,20.31,26.0,0.0,11,Med,Low,Low,High,Med Temp + Low Hum + Low Precip,Cold-Dry
+07fe,2010,2010-07-16,Duiwelsvuur,15.2597952,-18.9881872,2010-07-16 15:20:00,2010-07-16 16:40:00,1.3333333333333333,20.31,25.0,0.0,15,Med,Low,Low,Low,Med Temp + Low Hum + Low Precip,Cold-Dry
+07fe,2010,2010-07-16,Sonderkop waterhole,15.3276196,-18.9691974,2010-07-16 19:20:00,2010-07-16 22:00:00,2.6666666666666665,20.31,25.0,0.0,19,Med,Low,Low,High,Med Temp + Low Hum + Low Precip,Cold-Dry
+07fe,2010,2010-07-17,Duiwelsvuur,15.2597952,-18.9881872,2010-07-17 14:40:00,2010-07-17 17:00:00,2.333333333333333,19.24,26.0,0.0,14,Low,Low,Low,High,Low Temp + Low Hum + Low Precip,Cold-Dry
+07fe,2010,2010-07-18,Duiwelsvuur,15.2597952,-18.9881872,2010-07-18 11:40:00,2010-07-18 15:00:00,3.333333333333333,19.24,24.0,0.0,11,Low,Low,Low,High,Low Temp + Low Hum + Low Precip,Cold-Dry
+07fe,2010,2010-07-19,Duiwelsvuur,15.2597952,-18.9881872,2010-07-19 11:00:00,2010-07-19 16:00:00,5.0,20.31,26.0,0.0,11,Med,Low,Low,High,Med Temp + Low Hum + Low Precip,Cold-Dry
+07fe,2010,2010-07-20,Duiwelsvuur,15.2597952,-18.9881872,2010-07-20 12:20:00,2010-07-20 15:40:00,3.333333333333333,20.31,34.0,0.0,12,Med,Low,Low,High,Med Temp + Low Hum + Low Precip,Cold-Dry
+07fe,2010,2010-07-21,Duiwelsvuur,15.2597952,-18.9881872,2010-07-21 09:20:00,2010-07-21 19:00:00,9.666666666666666,19.24,35.0,0.0,9,Low,Low,Low,High,Low Temp + Low Hum + Low Precip,Cold-Dry
+07fe,2010,2010-07-22,Duiwelsvuur,15.2597952,-18.9881872,2010-07-22 12:20:00,2010-07-22 15:20:00,3.0,19.24,43.0,0.0,12,Low,Med,Low,High,Low Temp + Med Hum + Low Precip,Cold-Dry
+07fe,2010,2010-07-23,Duiwelsvuur,15.2597952,-18.9881872,2010-07-23 14:00:00,2010-07-23 16:00:00,2.0,20.31,49.0,0.0,14,Med,Med,Low,Low,Med Temp + Med Hum + Low Precip,Cold-Dry
+07fe,2010,2010-07-24,Duiwelsvuur,15.2597952,-18.9881872,2010-07-24 10:20:00,2010-07-24 14:40:00,4.333333333333333,21.38,43.0,0.0,10,Med,Med,Low,High,Med Temp + Med Hum + Low Precip,Cold-Dry
+07fe,2010,2010-07-25,Duiwelsvuur,15.2597952,-18.9881872,2010-07-25 10:40:00,2010-07-25 14:20:00,3.6666666666666665,21.38,40.0,0.0,10,Med,Med,Low,High,Med Temp + Med Hum + Low Precip,Cold-Dry
+07fe,2010,2010-07-26,Duiwelsvuur,15.2597952,-18.9881872,2010-07-26 10:20:00,2010-07-26 15:00:00,4.666666666666667,23.51,32.0,0.0,10,Med,Low,Low,High,Med Temp + Low Hum + Low Precip,Cold-Dry
+07fe,2010,2010-07-26,Sonderkop waterhole,15.3276196,-18.9691974,2010-07-26 23:20:00,2010-07-26 23:40:00,0.3333333333333333,23.51,32.0,0.0,23,Med,Low,Low,Low,Med Temp + Low Hum + Low Precip,Cold-Dry
+07fe,2010,2010-07-28,Sonderkop waterhole,15.3276196,-18.9691974,2010-07-28 15:40:00,2010-07-28 20:40:00,5.0,21.38,47.0,0.0,15,Med,Med,Low,High,Med Temp + Med Hum + Low Precip,Cold-Dry
+07fe,2010,2010-07-29,Sonderkop waterhole,15.3276196,-18.9691974,2010-07-29 14:00:00,2010-07-29 16:00:00,2.0,22.44,47.0,0.0,14,Med,Med,Low,Low,Med Temp + Med Hum + Low Precip,Cold-Dry
+07fe,2010,2010-07-30,Sonderkop waterhole,15.3276196,-18.9691974,2010-07-30 15:40:00,2010-07-30 18:20:00,2.6666666666666665,22.44,43.0,0.0,15,Med,Med,Low,High,Med Temp + Med Hum + Low Precip,Cold-Dry
+07fe,2010,2010-07-31,Sonderkop waterhole,15.3276196,-18.9691974,2010-07-31 17:00:00,2010-07-31 18:40:00,1.6666666666666667,22.44,35.0,0.0,17,Med,Low,Low,Low,Med Temp + Low Hum + Low Precip,Cold-Dry
+07fe,2010,2010-08-01,Sonderkop waterhole,15.3276196,-18.9691974,2010-08-01 17:00:00,2010-08-01 18:40:00,1.6666666666666667,23.51,37.0,0.0,17,Med,Low,Low,Low,Med Temp + Low Hum + Low Precip,Cold-Dry
+07fe,2010,2010-08-02,Sonderkop waterhole,15.3276196,-18.9691974,2010-08-02 17:40:00,2010-08-02 22:00:00,4.333333333333333,22.44,38.0,0.0,17,Med,Med,Low,High,Med Temp + Med Hum + Low Precip,Cold-Dry
+07fe,2010,2010-08-03,Ozonjuitji m'Bari,15.5035973,-18.9766519,2010-08-03 17:20:00,2010-08-03 18:00:00,0.6666666666666666,22.44,39.0,0.0,17,Med,Med,Low,Low,Med Temp + Med Hum + Low Precip,Cold-Dry
+07fe,2010,2010-08-04,Ozonjuitji m'Bari,15.5035973,-18.9766519,2010-08-04 19:00:00,2010-08-04 20:00:00,1.0,22.44,40.0,0.0,19,Med,Med,Low,Low,Med Temp + Med Hum + Low Precip,Cold-Dry
+07fe,2010,2010-08-05,Ozonjuitji m'Bari,15.5035973,-18.9766519,2010-08-05 17:20:00,2010-08-05 18:40:00,1.3333333333333333,23.51,36.0,0.0,17,Med,Low,Low,Low,Med Temp + Low Hum + Low Precip,Cold-Dry
+07fe,2010,2010-08-07,Ozonjuitji m'Bari,15.5035973,-18.9766519,2010-08-07 17:40:00,2010-08-07 20:00:00,2.333333333333333,24.58,30.0,0.0,17,Med,Low,Low,High,Med Temp + Low Hum + Low Precip,Cold-Dry
+07fe,2010,2010-08-08,Ozonjuitji m'Bari,15.5035973,-18.9766519,2010-08-08 16:20:00,2010-08-08 20:40:00,4.333333333333333,24.58,31.0,0.0,16,Med,Low,Low,High,Med Temp + Low Hum + Low Precip,Cold-Dry
+07fe,2010,2010-08-09,Ozonjuitji m'Bari,15.5035973,-18.9766519,2010-08-09 13:40:00,2010-08-09 16:00:00,2.333333333333333,23.51,25.0,0.0,13,Med,Low,Low,High,Med Temp + Low Hum + Low Precip,Cold-Dry
+07fe,2010,2010-08-10,Ozonjuitji m'Bari,15.5035973,-18.9766519,2010-08-10 15:20:00,2010-08-10 17:20:00,2.0,21.38,26.0,0.0,15,Med,Low,Low,Low,Med Temp + Low Hum + Low Precip,Cold-Dry
+07fe,2010,2010-08-11,Sonderkop waterhole,15.3276196,-18.9691974,2010-08-11 18:20:00,2010-08-11 19:40:00,1.3333333333333333,20.31,23.0,0.0,18,Med,Low,Low,Low,Med Temp + Low Hum + Low Precip,Cold-Dry
+07fe,2010,2010-08-12,Duiwelsvuur,15.2597952,-18.9881872,2010-08-12 17:00:00,2010-08-12 19:00:00,2.0,20.31,39.0,0.0,17,Med,Med,Low,Low,Med Temp + Med Hum + Low Precip,Cold-Dry
+07fe,2010,2010-08-13,Duiwelsvuur,15.2597952,-18.9881872,2010-08-13 11:40:00,2010-08-13 15:20:00,3.6666666666666665,19.24,35.0,0.0,11,Low,Low,Low,High,Low Temp + Low Hum + Low Precip,Cold-Dry
+07fe,2010,2010-08-14,Duiwelsvuur,15.2597952,-18.9881872,2010-08-14 08:40:00,2010-08-14 14:20:00,5.666666666666667,19.24,30.0,0.0,8,Low,Low,Low,High,Low Temp + Low Hum + Low Precip,Cold-Dry
+07fe,2010,2010-08-15,Duiwelsvuur,15.2597952,-18.9881872,2010-08-15 15:00:00,2010-08-15 16:40:00,1.6666666666666667,20.31,25.0,0.0,15,Med,Low,Low,Low,Med Temp + Low Hum + Low Precip,Cold-Dry
+07fe,2010,2010-08-15,Sonderkop waterhole,15.3276196,-18.9691974,2010-08-15 21:20:00,2010-08-15 23:40:00,2.333333333333333,20.31,25.0,0.0,21,Med,Low,Low,High,Med Temp + Low Hum + Low Precip,Cold-Dry
+07fe,2010,2010-08-17,Sonderkop waterhole,15.3276196,-18.9691974,2010-08-17 16:00:00,2010-08-17 20:20:00,4.333333333333333,23.51,16.0,0.0,16,Med,Low,Low,High,Med Temp + Low Hum + Low Precip,Cold-Dry
+07fe,2010,2010-08-18,Duiwelsvuur,15.2597952,-18.9881872,2010-08-18 00:20:00,2010-08-18 16:00:00,15.666666666666666,24.58,19.0,0.0,0,Med,Low,Low,High,Med Temp + Low Hum + Low Precip,Cold-Dry
+07fe,2010,2010-08-19,Duiwelsvuur,15.2597952,-18.9881872,2010-08-19 08:00:00,2010-08-19 14:20:00,6.333333333333333,24.58,16.0,0.0,8,Med,Low,Low,High,Med Temp + Low Hum + Low Precip,Cold-Dry
+07fe,2010,2010-08-20,Duiwelsvuur,15.2597952,-18.9881872,2010-08-20 09:00:00,2010-08-20 14:40:00,5.666666666666667,26.72,15.0,0.0,9,High,Low,Low,High,High Temp + Low Hum + Low Precip,Cold-Dry
+07fe,2010,2010-08-21,Duiwelsvuur,15.2597952,-18.9881872,2010-08-21 09:00:00,2010-08-21 23:40:00,14.666666666666666,25.65,19.0,0.0,9,High,Low,Low,High,High Temp + Low Hum + Low Precip,Cold-Dry

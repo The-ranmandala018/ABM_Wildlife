@@ -1,0 +1,359 @@
+<?xml version="1.0" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Elephant 04me - 2010 Waterhole Visits</name>
+    <description>Points colored by month for elephant 04me in 2010</description>
+    <Style id="month1_style">
+      <IconStyle>
+        <color>ff0000ff</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff0000ff</color>
+      </LabelStyle>
+    </Style>
+    <Style id="month2_style">
+      <IconStyle>
+        <color>ff00ff00</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff00ff00</color>
+      </LabelStyle>
+    </Style>
+    <Style id="month3_style">
+      <IconStyle>
+        <color>ffff0000</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffff0000</color>
+      </LabelStyle>
+    </Style>
+    <Style id="month4_style">
+      <IconStyle>
+        <color>ff00ffff</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff00ffff</color>
+      </LabelStyle>
+    </Style>
+    <Style id="month5_style">
+      <IconStyle>
+        <color>ffff00ff</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffff00ff</color>
+      </LabelStyle>
+    </Style>
+    <Style id="month6_style">
+      <IconStyle>
+        <color>ff808080</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff808080</color>
+      </LabelStyle>
+    </Style>
+    <Style id="month7_style">
+      <IconStyle>
+        <color>ff8000ff</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff8000ff</color>
+      </LabelStyle>
+    </Style>
+    <Style id="month8_style">
+      <IconStyle>
+        <color>ff0080ff</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff0080ff</color>
+      </LabelStyle>
+    </Style>
+    <Style id="month9_style">
+      <IconStyle>
+        <color>ff80ff00</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff80ff00</color>
+      </LabelStyle>
+    </Style>
+    <Style id="month10_style">
+      <IconStyle>
+        <color>ffff8000</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffff8000</color>
+      </LabelStyle>
+    </Style>
+    <Style id="month11_style">
+      <IconStyle>
+        <color>ff008000</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff008000</color>
+      </LabelStyle>
+    </Style>
+    <Style id="month12_style">
+      <IconStyle>
+        <color>ff800000</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff800000</color>
+      </LabelStyle>
+    </Style>
+    <Folder>
+      <name>Waterhole Visits</name>
+      <description>Each point represents an observation at a waterhole, colored by month</description>
+      <Placemark>
+        <name>Olifantsbad Waterhole - Month 2</name>
+        <description>Waterhole: Olifantsbad Waterhole, Month: 2, Time: 2010-02-04 12:00:00, Lon: 16.128661, Lat: -19.245683</description>
+        <styleUrl>#month2_style</styleUrl>
+        <Point>
+          <coordinates>16.128661,-19.245683,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Olifantsbad Waterhole - Month 2</name>
+        <description>Waterhole: Olifantsbad Waterhole, Month: 2, Time: 2010-02-04 12:20:00, Lon: 16.131596, Lat: -19.238741</description>
+        <styleUrl>#month2_style</styleUrl>
+        <Point>
+          <coordinates>16.131596,-19.238741,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Olifantsbad Waterhole - Month 2</name>
+        <description>Waterhole: Olifantsbad Waterhole, Month: 2, Time: 2010-02-04 12:40:00, Lon: 16.131592, Lat: -19.238751</description>
+        <styleUrl>#month2_style</styleUrl>
+        <Point>
+          <coordinates>16.131592,-19.238751,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Olifantsbad Waterhole - Month 2</name>
+        <description>Waterhole: Olifantsbad Waterhole, Month: 2, Time: 2010-02-04 13:00:00, Lon: 16.131668, Lat: -19.238729</description>
+        <styleUrl>#month2_style</styleUrl>
+        <Point>
+          <coordinates>16.131668,-19.238729,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Olifantsbad Waterhole - Month 2</name>
+        <description>Waterhole: Olifantsbad Waterhole, Month: 2, Time: 2010-02-04 13:20:00, Lon: 16.131653, Lat: -19.238682</description>
+        <styleUrl>#month2_style</styleUrl>
+        <Point>
+          <coordinates>16.131653,-19.238682,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Olifantsbad Waterhole - Month 2</name>
+        <description>Waterhole: Olifantsbad Waterhole, Month: 2, Time: 2010-02-04 13:40:00, Lon: 16.131602, Lat: -19.240623</description>
+        <styleUrl>#month2_style</styleUrl>
+        <Point>
+          <coordinates>16.131602,-19.240623,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Olifantsbad Waterhole - Month 2</name>
+        <description>Waterhole: Olifantsbad Waterhole, Month: 2, Time: 2010-02-04 14:00:00, Lon: 16.131673, Lat: -19.240584</description>
+        <styleUrl>#month2_style</styleUrl>
+        <Point>
+          <coordinates>16.131673,-19.240584,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Olifantsbad Waterhole - Month 2</name>
+        <description>Waterhole: Olifantsbad Waterhole, Month: 2, Time: 2010-02-04 14:20:00, Lon: 16.131483, Lat: -19.239237</description>
+        <styleUrl>#month2_style</styleUrl>
+        <Point>
+          <coordinates>16.131483,-19.239237,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Olifantsbad Waterhole - Month 2</name>
+        <description>Waterhole: Olifantsbad Waterhole, Month: 2, Time: 2010-02-04 14:40:00, Lon: 16.131618, Lat: -19.238706</description>
+        <styleUrl>#month2_style</styleUrl>
+        <Point>
+          <coordinates>16.131618,-19.238706,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Olifantsbad Waterhole - Month 2</name>
+        <description>Waterhole: Olifantsbad Waterhole, Month: 2, Time: 2010-02-04 15:00:00, Lon: 16.131713, Lat: -19.238513</description>
+        <styleUrl>#month2_style</styleUrl>
+        <Point>
+          <coordinates>16.131713,-19.238513,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Olifantsbad Waterhole - Month 2</name>
+        <description>Waterhole: Olifantsbad Waterhole, Month: 2, Time: 2010-02-04 15:20:00, Lon: 16.128661, Lat: -19.245675</description>
+        <styleUrl>#month2_style</styleUrl>
+        <Point>
+          <coordinates>16.128661,-19.245675,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Olifantsbad Waterhole - Month 2</name>
+        <description>Waterhole: Olifantsbad Waterhole, Month: 2, Time: 2010-02-04 16:40:00, Lon: 16.127576, Lat: -19.246680</description>
+        <styleUrl>#month2_style</styleUrl>
+        <Point>
+          <coordinates>16.127576,-19.246680,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Olifantsbad Waterhole - Month 2</name>
+        <description>Waterhole: Olifantsbad Waterhole, Month: 2, Time: 2010-02-04 17:00:00, Lon: 16.131703, Lat: -19.238499</description>
+        <styleUrl>#month2_style</styleUrl>
+        <Point>
+          <coordinates>16.131703,-19.238499,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Olifantsbad Waterhole - Month 2</name>
+        <description>Waterhole: Olifantsbad Waterhole, Month: 2, Time: 2010-02-04 17:20:00, Lon: 16.130542, Lat: -19.242261</description>
+        <styleUrl>#month2_style</styleUrl>
+        <Point>
+          <coordinates>16.130542,-19.242261,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Olifantsbad Waterhole - Month 2</name>
+        <description>Waterhole: Olifantsbad Waterhole, Month: 2, Time: 2010-02-04 17:40:00, Lon: 16.128202, Lat: -19.247221</description>
+        <styleUrl>#month2_style</styleUrl>
+        <Point>
+          <coordinates>16.128202,-19.247221,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gemsbokvlakte - Month 2</name>
+        <description>Waterhole: Gemsbokvlakte, Month: 2, Time: 2010-02-05 19:00:00, Lon: 16.058772, Lat: -19.213302</description>
+        <styleUrl>#month2_style</styleUrl>
+        <Point>
+          <coordinates>16.058772,-19.213302,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gemsbokvlakte - Month 2</name>
+        <description>Waterhole: Gemsbokvlakte, Month: 2, Time: 2010-02-05 19:20:00, Lon: 16.059202, Lat: -19.214016</description>
+        <styleUrl>#month2_style</styleUrl>
+        <Point>
+          <coordinates>16.059202,-19.214016,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gemsbokvlakte - Month 2</name>
+        <description>Waterhole: Gemsbokvlakte, Month: 2, Time: 2010-02-05 19:40:00, Lon: 16.060306, Lat: -19.214264</description>
+        <styleUrl>#month2_style</styleUrl>
+        <Point>
+          <coordinates>16.060306,-19.214264,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gemsbokvlakte - Month 2</name>
+        <description>Waterhole: Gemsbokvlakte, Month: 2, Time: 2010-02-05 20:00:00, Lon: 16.066382, Lat: -19.216632</description>
+        <styleUrl>#month2_style</styleUrl>
+        <Point>
+          <coordinates>16.066382,-19.216632,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Olifantsbad Waterhole - Month 2</name>
+        <description>Waterhole: Olifantsbad Waterhole, Month: 2, Time: 2010-02-05 23:40:00, Lon: 16.131574, Lat: -19.238735</description>
+        <styleUrl>#month2_style</styleUrl>
+        <Point>
+          <coordinates>16.131574,-19.238735,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Olifantsbad Waterhole - Month 2</name>
+        <description>Waterhole: Olifantsbad Waterhole, Month: 2, Time: 2010-02-06 00:00:00, Lon: 16.131660, Lat: -19.238643</description>
+        <styleUrl>#month2_style</styleUrl>
+        <Point>
+          <coordinates>16.131660,-19.238643,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Olifantsbad Waterhole - Month 2</name>
+        <description>Waterhole: Olifantsbad Waterhole, Month: 2, Time: 2010-02-06 00:20:00, Lon: 16.131651, Lat: -19.238690</description>
+        <styleUrl>#month2_style</styleUrl>
+        <Point>
+          <coordinates>16.131651,-19.238690,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Olifantsbad Waterhole - Month 2</name>
+        <description>Waterhole: Olifantsbad Waterhole, Month: 2, Time: 2010-02-06 00:40:00, Lon: 16.136086, Lat: -19.236873</description>
+        <styleUrl>#month2_style</styleUrl>
+        <Point>
+          <coordinates>16.136086,-19.236873,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Olifantsbad Waterhole - Month 2</name>
+        <description>Waterhole: Olifantsbad Waterhole, Month: 2, Time: 2010-02-06 01:00:00, Lon: 16.136392, Lat: -19.236955</description>
+        <styleUrl>#month2_style</styleUrl>
+        <Point>
+          <coordinates>16.136392,-19.236955,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aus Fountain - Month 2</name>
+        <description>Waterhole: Aus Fountain, Month: 2, Time: 2010-02-06 09:20:00, Lon: 16.187857, Lat: -19.210453</description>
+        <styleUrl>#month2_style</styleUrl>
+        <Point>
+          <coordinates>16.187857,-19.210453,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aus Fountain - Month 2</name>
+        <description>Waterhole: Aus Fountain, Month: 2, Time: 2010-02-06 09:40:00, Lon: 16.193396, Lat: -19.205320</description>
+        <styleUrl>#month2_style</styleUrl>
+        <Point>
+          <coordinates>16.193396,-19.205320,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aus Fountain - Month 2</name>
+        <description>Waterhole: Aus Fountain, Month: 2, Time: 2010-02-06 10:00:00, Lon: 16.199555, Lat: -19.209501</description>
+        <styleUrl>#month2_style</styleUrl>
+        <Point>
+          <coordinates>16.199555,-19.209501,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

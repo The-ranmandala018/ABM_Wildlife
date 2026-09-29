@@ -1,0 +1,49 @@
+Anomaly Report for: D:\ABM\Elephant\Clustering\Unsupervised\spectral\script\..\segments\fe\03fe_with_segments.csv
+================================================================================
+
+1. Data Loading: Successful
+2. Datetime Parsing: Successful
+3. Missing Values:
+   - Longitude: 0 missing
+   - Latitude: 0 missing
+   - individual-local-identifier: 0 missing
+   - Date: 0 missing
+   - timeAPM: 0 missing
+   - Time: 0 missing
+   - datetime: 0 missing
+   - geometry: 0 missing
+   - step_length: 1 missing
+   - dt_sec: 1 missing
+   - speed: 1 missing
+   - residence_time: 0 missing
+   - bearing: 1 missing
+   - turning_angle: 2 missing
+   - Rows with missing values: 2
+
+4. Duplicate Rows: 0 (marked all occurrences: 0)
+
+5. Non-increasing Datetime: 0 instances
+
+6. Invalid Longitude: 0 (outside -180 to 180)
+7. Invalid Latitude: 0 (outside -90 to 90)
+
+8. Negative Step Length: 0
+
+9. Invalid Turning Angle: 0 (outside -180 to 180)
+
+10. Summary Statistics:
+            Longitude       Latitude individual-local-identifier        Date      timeAPM      Time                       datetime                          geometry    step_length         dt_sec          speed  residence_time        bearing  turning_angle
+count   113704.000000  113704.000000                      113704      113704       113704    113704                         113704                            113704  113703.000000  113703.000000  113703.000000   113704.000000  113703.000000  113702.000000
+unique            NaN            NaN                           1        1617         1365      1365                            NaN                            113681            NaN            NaN            NaN             NaN            NaN            NaN
+top               NaN            NaN                        LA26  10/07/2009  01:20:24 PM  13:20:24                            NaN  POINT (16.19371948 -19.15490519)            NaN            NaN            NaN             NaN            NaN            NaN
+freq              NaN            NaN                      113704          72          854       854                            NaN                                 2            NaN            NaN            NaN             NaN            NaN            NaN
+mean        16.359187     -19.162493                         NaN         NaN          NaN       NaN  2011-12-30 20:12:39.673010688                               NaN     180.397642    1241.255103       0.148075      221.388940     179.838035      -0.799003
+min         15.115815     -19.479832                         NaN         NaN          NaN       NaN            2009-10-07 00:00:00                               NaN       0.000000    1020.000000       0.000000        0.000000       0.000000    -180.000000
+25%         16.206753     -19.267573                         NaN         NaN          NaN       NaN            2010-11-12 23:55:00                               NaN      26.332022    1200.000000       0.021927        0.000000      90.855601     -34.938181
+50%         16.432977     -19.174458                         NaN         NaN          NaN       NaN            2011-12-31 17:10:00                               NaN      99.295445    1200.000000       0.082643        0.000000     180.000000      -0.321932
+75%         16.548398     -19.061951                         NaN         NaN          NaN       NaN            2013-02-15 16:45:00                               NaN     229.446820    1202.000000       0.190658        0.000000     268.838460      33.807529
+max         16.857138     -18.614508                         NaN         NaN          NaN       NaN            2014-03-28 12:00:00                               NaN   19695.234679  673171.000000       2.149071     2435.000000     359.991573     179.999997
+std          0.280925       0.147204                         NaN         NaN          NaN       NaN                            NaN                               NaN     271.110911    2855.751422       0.190103      465.621542     103.533712      72.810491
+
+11. Abnormal data saved to: D:\ABM\Elephant\Clustering\Unsupervised\spectral\script\..\anomalies\fe\03fe_abnormal_data.csv
+   - Total abnormal rows: 2

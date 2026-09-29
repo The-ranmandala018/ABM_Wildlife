@@ -1,0 +1,4 @@
+Test,Statistic,p_value,Significant
+Kruskal-Wallis (Speed),752.6057683801555,3.5777397316115046e-144,True
+Kruskal-Wallis (Step),754.3868817183948,1.50520194996141e-144,True
+Rayleigh (Avg Turn),24.18977188808996,0.07220021357405718,False

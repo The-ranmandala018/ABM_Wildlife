@@ -1,0 +1,2 @@
+elephant_id,year,season,date,waterhole,lon,lat,start_time_str,end_time_str,stay_duration_hours,temp_c,humidity_percent
+05me,2010,Hot-Wet,2010-03-19,Ombika,15.9411653,-19.31571144,2010-03-19 18:00:00,2010-03-19 20:20:00,2.3333333333333335,25.65,79.0

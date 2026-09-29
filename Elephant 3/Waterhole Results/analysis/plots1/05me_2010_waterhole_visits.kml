@@ -1,0 +1,207 @@
+<?xml version="1.0" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Elephant 05me - 2010 Waterhole Visits</name>
+    <description>Points colored by month for elephant 05me in 2010</description>
+    <Style id="month1_style">
+      <IconStyle>
+        <color>ff0000ff</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff0000ff</color>
+      </LabelStyle>
+    </Style>
+    <Style id="month2_style">
+      <IconStyle>
+        <color>ff00ff00</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff00ff00</color>
+      </LabelStyle>
+    </Style>
+    <Style id="month3_style">
+      <IconStyle>
+        <color>ffff0000</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffff0000</color>
+      </LabelStyle>
+    </Style>
+    <Style id="month4_style">
+      <IconStyle>
+        <color>ff00ffff</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff00ffff</color>
+      </LabelStyle>
+    </Style>
+    <Style id="month5_style">
+      <IconStyle>
+        <color>ffff00ff</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffff00ff</color>
+      </LabelStyle>
+    </Style>
+    <Style id="month6_style">
+      <IconStyle>
+        <color>ff808080</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff808080</color>
+      </LabelStyle>
+    </Style>
+    <Style id="month7_style">
+      <IconStyle>
+        <color>ff8000ff</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff8000ff</color>
+      </LabelStyle>
+    </Style>
+    <Style id="month8_style">
+      <IconStyle>
+        <color>ff0080ff</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff0080ff</color>
+      </LabelStyle>
+    </Style>
+    <Style id="month9_style">
+      <IconStyle>
+        <color>ff80ff00</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff80ff00</color>
+      </LabelStyle>
+    </Style>
+    <Style id="month10_style">
+      <IconStyle>
+        <color>ffff8000</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffff8000</color>
+      </LabelStyle>
+    </Style>
+    <Style id="month11_style">
+      <IconStyle>
+        <color>ff008000</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff008000</color>
+      </LabelStyle>
+    </Style>
+    <Style id="month12_style">
+      <IconStyle>
+        <color>ff800000</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff800000</color>
+      </LabelStyle>
+    </Style>
+    <Folder>
+      <name>Waterhole Visits</name>
+      <description>Each point represents an observation at a waterhole, colored by month</description>
+      <Placemark>
+        <name>Ombika - Month 3</name>
+        <description>Waterhole: Ombika, Month: 3, Time: 2010-03-19 18:00:00, Lon: 15.947043, Lat: -19.311025</description>
+        <styleUrl>#month3_style</styleUrl>
+        <Point>
+          <coordinates>15.947043,-19.311025,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ombika - Month 3</name>
+        <description>Waterhole: Ombika, Month: 3, Time: 2010-03-19 18:20:00, Lon: 15.941093, Lat: -19.316331</description>
+        <styleUrl>#month3_style</styleUrl>
+        <Point>
+          <coordinates>15.941093,-19.316331,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ombika - Month 3</name>
+        <description>Waterhole: Ombika, Month: 3, Time: 2010-03-19 18:40:00, Lon: 15.940609, Lat: -19.316136</description>
+        <styleUrl>#month3_style</styleUrl>
+        <Point>
+          <coordinates>15.940609,-19.316136,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ombika - Month 3</name>
+        <description>Waterhole: Ombika, Month: 3, Time: 2010-03-19 19:00:00, Lon: 15.941088, Lat: -19.314809</description>
+        <styleUrl>#month3_style</styleUrl>
+        <Point>
+          <coordinates>15.941088,-19.314809,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ombika - Month 3</name>
+        <description>Waterhole: Ombika, Month: 3, Time: 2010-03-19 19:20:00, Lon: 15.940480, Lat: -19.315928</description>
+        <styleUrl>#month3_style</styleUrl>
+        <Point>
+          <coordinates>15.940480,-19.315928,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ombika - Month 3</name>
+        <description>Waterhole: Ombika, Month: 3, Time: 2010-03-19 19:40:00, Lon: 15.938174, Lat: -19.315424</description>
+        <styleUrl>#month3_style</styleUrl>
+        <Point>
+          <coordinates>15.938174,-19.315424,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ombika - Month 3</name>
+        <description>Waterhole: Ombika, Month: 3, Time: 2010-03-19 20:00:00, Lon: 15.936246, Lat: -19.312433</description>
+        <styleUrl>#month3_style</styleUrl>
+        <Point>
+          <coordinates>15.936246,-19.312433,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ombika - Month 3</name>
+        <description>Waterhole: Ombika, Month: 3, Time: 2010-03-19 20:20:00, Lon: 15.936021, Lat: -19.309806</description>
+        <styleUrl>#month3_style</styleUrl>
+        <Point>
+          <coordinates>15.936021,-19.309806,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

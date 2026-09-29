@@ -1,0 +1,11 @@
+elephant_id,year,date,waterhole,lon,lat,start_time_str,end_time_str,stay_duration_hours,temp_c,humidity_percent,Precip_mm,start_hour,temp_cat,hum_cat,precip_cat,stay_cat,condition
+03fe,2014,2014-01-10,Goas 1 Fountain,16.5574864,-18.9912599,2014-01-10 23:40:00,2014-01-10 23:40:00,0.0,29.93,23.0,0.0,23,Med,Low,Low,Low,Med Temp + Low Hum + Low Precip
+03fe,2014,2014-01-10,Noniams,16.5658651,-19.0093006,2014-01-10 23:00:00,2014-01-10 23:00:00,0.0,29.93,23.0,0.0,23,Med,Low,Low,Low,Med Temp + Low Hum + Low Precip
+03fe,2014,2014-01-11,Goas 1 Fountain,16.5574864,-18.9912599,2014-01-11 00:00:00,2014-01-11 17:00:00,17.0,31.0,22.0,0.0,0,Med,Low,Low,High,Med Temp + Low Hum + Low Precip
+03fe,2014,2014-01-12,Goas 1 Fountain,16.5574864,-18.9912599,2014-01-12 09:40:00,2014-01-12 22:40:00,13.0,32.06,26.0,0.0,9,High,Low,Low,High,High Temp + Low Hum + Low Precip
+03fe,2014,2014-01-13,Goas 1 Fountain,16.5574864,-18.9912599,2014-01-13 08:00:00,2014-01-13 20:40:00,12.666666666666666,33.13,32.0,2.35,8,High,Low,High,High,High Temp + Low Hum + High Precip
+03fe,2014,2014-01-14,Goas 1 Fountain,16.5574864,-18.9912599,2014-01-14 17:20:00,2014-01-14 20:20:00,3.0,31.0,44.0,0.21,17,Med,Med,Low,Low,Med Temp + Med Hum + Low Precip
+03fe,2014,2014-01-14,Noniams,16.5658651,-19.0093006,2014-01-14 21:00:00,2014-01-14 21:00:00,0.0,31.0,44.0,0.21,21,Med,Med,Low,Low,Med Temp + Med Hum + Low Precip
+03fe,2014,2014-01-16,Goas 1 Fountain,16.5574864,-18.9912599,2014-01-16 12:20:00,2014-01-16 12:40:00,0.3333333333333333,27.79,59.0,1.39,12,Low,High,Med,Low,Low Temp + High Hum + Med Precip
+03fe,2014,2014-01-18,Goas 1 Fountain,16.5574864,-18.9912599,2014-01-18 00:20:00,2014-01-18 23:20:00,23.0,31.0,47.0,0.64,0,Med,High,Low,High,Med Temp + High Hum + Low Precip
+03fe,2014,2014-01-21,Goas 1 Fountain,16.5574864,-18.9912599,2014-01-21 00:00:00,2014-01-21 22:00:00,22.0,32.06,33.0,0.0,0,High,Low,Low,High,High Temp + Low Hum + Low Precip

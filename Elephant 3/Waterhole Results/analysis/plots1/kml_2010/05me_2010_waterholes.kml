@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+    <name>05me 2010 Waterholes</name>
+    <Style id="month1"><IconStyle><color>ff0000ff</color><scale>0.5</scale></IconStyle></Style>
+    <Style id="month2"><IconStyle><color>ff00ff00</color><scale>0.5</scale></IconStyle></Style>
+    <Style id="month3"><IconStyle><color>ffff0000</color><scale>0.5</scale></IconStyle></Style>
+    <Style id="month4"><IconStyle><color>ffffff00</color><scale>0.5</scale></IconStyle></Style>
+    <Style id="month5"><IconStyle><color>ff00ffff</color><scale>0.5</scale></IconStyle></Style>
+    <Style id="month6"><IconStyle><color>ffff00ff</color><scale>0.5</scale></IconStyle></Style>
+    <Style id="month7"><IconStyle><color>ff800000</color><scale>0.5</scale></IconStyle></Style>
+    <Style id="month8"><IconStyle><color>ff008000</color><scale>0.5</scale></IconStyle></Style>
+    <Style id="month9"><IconStyle><color>ff000080</color><scale>0.5</scale></IconStyle></Style>
+    <Style id="month10"><IconStyle><color>ff808000</color><scale>0.5</scale></IconStyle></Style>
+    <Style id="month11"><IconStyle><color>ff008080</color><scale>0.5</scale></IconStyle></Style>
+    <Style id="month12"><IconStyle><color>ff800080</color><scale>0.5</scale></IconStyle></Style>
+    <Folder>
+        <name>Waterhole Visits</name>
+        <Placemark>
+            <name>Ombika - Month 3 - 2010-03-19 18:00</name>
+            <description>Waterhole: Ombika, Month: 3, Time: 2010-03-19 18:00</description>
+            <styleUrl>#month3</styleUrl>
+            <Point>
+                <coordinates>15.94704285,-19.31102498,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Ombika - Month 3 - 2010-03-19 18:20</name>
+            <description>Waterhole: Ombika, Month: 3, Time: 2010-03-19 18:20</description>
+            <styleUrl>#month3</styleUrl>
+            <Point>
+                <coordinates>15.94109294,-19.31633097,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Ombika - Month 3 - 2010-03-19 18:40</name>
+            <description>Waterhole: Ombika, Month: 3, Time: 2010-03-19 18:40</description>
+            <styleUrl>#month3</styleUrl>
+            <Point>
+                <coordinates>15.94060872,-19.31613566,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Ombika - Month 3 - 2010-03-19 19:00</name>
+            <description>Waterhole: Ombika, Month: 3, Time: 2010-03-19 19:00</description>
+            <styleUrl>#month3</styleUrl>
+            <Point>
+                <coordinates>15.94108785,-19.31480916,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Ombika - Month 3 - 2010-03-19 19:20</name>
+            <description>Waterhole: Ombika, Month: 3, Time: 2010-03-19 19:20</description>
+            <styleUrl>#month3</styleUrl>
+            <Point>
+                <coordinates>15.94047953,-19.31592814,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Ombika - Month 3 - 2010-03-19 19:40</name>
+            <description>Waterhole: Ombika, Month: 3, Time: 2010-03-19 19:40</description>
+            <styleUrl>#month3</styleUrl>
+            <Point>
+                <coordinates>15.93817444,-19.31542358,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Ombika - Month 3 - 2010-03-19 20:00</name>
+            <description>Waterhole: Ombika, Month: 3, Time: 2010-03-19 20:00</description>
+            <styleUrl>#month3</styleUrl>
+            <Point>
+                <coordinates>15.93624573,-19.31243286,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Ombika - Month 3 - 2010-03-19 20:20</name>
+            <description>Waterhole: Ombika, Month: 3, Time: 2010-03-19 20:20</description>
+            <styleUrl>#month3</styleUrl>
+            <Point>
+                <coordinates>15.93602091,-19.30980632,0</coordinates>
+            </Point>
+        </Placemark>
+    </Folder>
+</Document>
+</kml>

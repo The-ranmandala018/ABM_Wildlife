@@ -1,0 +1,49 @@
+Anomaly Report for: D:\ABM\Elephant\Clustering\Unsupervised\spectral\script\..\segments\me\01me_with_segments.csv
+================================================================================
+
+1. Data Loading: Successful
+2. Datetime Parsing: Successful
+3. Missing Values:
+   - Longitude: 0 missing
+   - Latitude: 0 missing
+   - individual-local-identifier: 0 missing
+   - Date: 0 missing
+   - timeAPM: 0 missing
+   - Time: 0 missing
+   - datetime: 0 missing
+   - geometry: 0 missing
+   - step_length: 1 missing
+   - dt_sec: 1 missing
+   - speed: 1 missing
+   - residence_time: 0 missing
+   - bearing: 1 missing
+   - turning_angle: 2 missing
+   - Rows with missing values: 2
+
+4. Duplicate Rows: 0 (marked all occurrences: 0)
+
+5. Non-increasing Datetime: 0 instances
+
+6. Invalid Longitude: 0 (outside -180 to 180)
+7. Invalid Latitude: 0 (outside -90 to 90)
+
+8. Negative Step Length: 0
+
+9. Invalid Turning Angle: 0 (outside -180 to 180)
+
+10. Summary Statistics:
+           Longitude      Latitude individual-local-identifier        Date      timeAPM      Time                       datetime                    geometry   step_length        dt_sec         speed  residence_time       bearing  turning_angle
+count   64835.000000  64835.000000                       64835       64835        64835     64835                          64835                       64835  64834.000000  64834.000000  64834.000000    64835.000000  64834.000000   64833.000000
+unique           NaN           NaN                           1         903         1090      1090                            NaN                       61668           NaN           NaN           NaN             NaN           NaN            NaN
+top              NaN           NaN                        LA12  07/31/2009  01:40:52 PM  13:40:52                            NaN  POINT (15.91859 -19.17767)           NaN           NaN           NaN             NaN           NaN            NaN
+freq             NaN           NaN                       64835          72          529       529                            NaN                          16           NaN           NaN           NaN             NaN           NaN            NaN
+mean       15.629221    -19.011127                         NaN         NaN          NaN       NaN  2010-10-25 07:18:49.241922048                         NaN    210.984967   1203.350295      0.175526      311.042385    179.775752       0.659477
+min        14.616266    -19.316016                         NaN         NaN          NaN       NaN            2009-07-31 00:00:00                         NaN      0.000000   1020.000000      0.000000        0.000000      0.000000    -180.000000
+25%        15.396656    -19.177659                         NaN         NaN          NaN       NaN            2010-03-13 16:50:00                         NaN      9.349318   1200.000000      0.007770        0.000000     90.000002     -41.606862
+50%        15.684783    -19.113243                         NaN         NaN          NaN       NaN            2010-10-25 10:00:00                         NaN     83.596800   1200.000000      0.069664        0.000000    180.000000       0.858538
+75%        15.918575    -18.832209                         NaN         NaN          NaN       NaN            2011-06-07 12:50:00                         NaN    287.452590   1200.000000      0.239532     1181.000000    269.373933      43.773533
+max        16.198399    -18.492647                         NaN         NaN          NaN       NaN            2012-01-19 23:41:00                         NaN   9720.054205  51660.000000      3.058288     3660.000000    359.984720     179.999999
+std         0.348192      0.204644                         NaN         NaN          NaN       NaN                            NaN                         NaN    298.959449    345.417896      0.245191      527.453857    104.585873      83.929996
+
+11. Abnormal data saved to: D:\ABM\Elephant\Clustering\Unsupervised\spectral\script\..\anomalies\me\01me_abnormal_data.csv
+   - Total abnormal rows: 2

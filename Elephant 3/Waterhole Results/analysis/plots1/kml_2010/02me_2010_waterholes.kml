@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+    <name>02me 2010 Waterholes</name>
+    <Style id="month1"><IconStyle><color>ff0000ff</color><scale>0.5</scale></IconStyle></Style>
+    <Style id="month2"><IconStyle><color>ff00ff00</color><scale>0.5</scale></IconStyle></Style>
+    <Style id="month3"><IconStyle><color>ffff0000</color><scale>0.5</scale></IconStyle></Style>
+    <Style id="month4"><IconStyle><color>ffffff00</color><scale>0.5</scale></IconStyle></Style>
+    <Style id="month5"><IconStyle><color>ff00ffff</color><scale>0.5</scale></IconStyle></Style>
+    <Style id="month6"><IconStyle><color>ffff00ff</color><scale>0.5</scale></IconStyle></Style>
+    <Style id="month7"><IconStyle><color>ff800000</color><scale>0.5</scale></IconStyle></Style>
+    <Style id="month8"><IconStyle><color>ff008000</color><scale>0.5</scale></IconStyle></Style>
+    <Style id="month9"><IconStyle><color>ff000080</color><scale>0.5</scale></IconStyle></Style>
+    <Style id="month10"><IconStyle><color>ff808000</color><scale>0.5</scale></IconStyle></Style>
+    <Style id="month11"><IconStyle><color>ff008080</color><scale>0.5</scale></IconStyle></Style>
+    <Style id="month12"><IconStyle><color>ff800080</color><scale>0.5</scale></IconStyle></Style>
+    <Folder>
+        <name>Waterhole Visits</name>
+        <Placemark>
+            <name>Leeubron - Month 11 - 2010-11-20 18:20</name>
+            <description>Waterhole: Leeubron, Month: 11, Time: 2010-11-20 18:20</description>
+            <styleUrl>#month11</styleUrl>
+            <Point>
+                <coordinates>15.81602,-19.07024,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Leeubron - Month 11 - 2010-11-20 18:40</name>
+            <description>Waterhole: Leeubron, Month: 11, Time: 2010-11-20 18:40</description>
+            <styleUrl>#month11</styleUrl>
+            <Point>
+                <coordinates>15.81717,-19.06983,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Leeubron - Month 11 - 2010-11-20 19:00</name>
+            <description>Waterhole: Leeubron, Month: 11, Time: 2010-11-20 19:00</description>
+            <styleUrl>#month11</styleUrl>
+            <Point>
+                <coordinates>15.81708,-19.07009,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Leeubron - Month 11 - 2010-11-20 19:20</name>
+            <description>Waterhole: Leeubron, Month: 11, Time: 2010-11-20 19:20</description>
+            <styleUrl>#month11</styleUrl>
+            <Point>
+                <coordinates>15.81872,-19.07292,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Leeubron - Month 11 - 2010-11-28 11:00</name>
+            <description>Waterhole: Leeubron, Month: 11, Time: 2010-11-28 11:00</description>
+            <styleUrl>#month11</styleUrl>
+            <Point>
+                <coordinates>15.81471,-19.07773,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Leeubron - Month 11 - 2010-11-28 11:20</name>
+            <description>Waterhole: Leeubron, Month: 11, Time: 2010-11-28 11:20</description>
+            <styleUrl>#month11</styleUrl>
+            <Point>
+                <coordinates>15.81772,-19.07401,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Leeubron - Month 11 - 2010-11-28 11:40</name>
+            <description>Waterhole: Leeubron, Month: 11, Time: 2010-11-28 11:40</description>
+            <styleUrl>#month11</styleUrl>
+            <Point>
+                <coordinates>15.81667,-19.06929,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Leeubron - Month 11 - 2010-11-28 12:00</name>
+            <description>Waterhole: Leeubron, Month: 11, Time: 2010-11-28 12:00</description>
+            <styleUrl>#month11</styleUrl>
+            <Point>
+                <coordinates>15.81643,-19.07007,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Leeubron - Month 11 - 2010-11-28 12:20</name>
+            <description>Waterhole: Leeubron, Month: 11, Time: 2010-11-28 12:20</description>
+            <styleUrl>#month11</styleUrl>
+            <Point>
+                <coordinates>15.81661,-19.07055,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Leeubron - Month 11 - 2010-11-28 12:40</name>
+            <description>Waterhole: Leeubron, Month: 11, Time: 2010-11-28 12:40</description>
+            <styleUrl>#month11</styleUrl>
+            <Point>
+                <coordinates>15.81911,-19.07277,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Leeubron - Month 11 - 2010-11-28 13:00</name>
+            <description>Waterhole: Leeubron, Month: 11, Time: 2010-11-28 13:00</description>
+            <styleUrl>#month11</styleUrl>
+            <Point>
+                <coordinates>15.82051,-19.07579,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Olifantsbad Waterhole - Month 2 - 2010-02-03 15:00</name>
+            <description>Waterhole: Olifantsbad Waterhole, Month: 2, Time: 2010-02-03 15:00</description>
+            <styleUrl>#month2</styleUrl>
+            <Point>
+                <coordinates>16.1269,-19.23864,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Olifantsbad Waterhole - Month 2 - 2010-02-03 15:20</name>
+            <description>Waterhole: Olifantsbad Waterhole, Month: 2, Time: 2010-02-03 15:20</description>
+            <styleUrl>#month2</styleUrl>
+            <Point>
+                <coordinates>16.1315,-19.23859,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Olifantsbad Waterhole - Month 2 - 2010-02-03 15:40</name>
+            <description>Waterhole: Olifantsbad Waterhole, Month: 2, Time: 2010-02-03 15:40</description>
+            <styleUrl>#month2</styleUrl>
+            <Point>
+                <coordinates>16.12875,-19.23672,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Olifantsbad Waterhole - Month 2 - 2010-02-03 16:00</name>
+            <description>Waterhole: Olifantsbad Waterhole, Month: 2, Time: 2010-02-03 16:00</description>
+            <styleUrl>#month2</styleUrl>
+            <Point>
+                <coordinates>16.12725,-19.23527,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Olifantsbad Waterhole - Month 2 - 2010-02-03 16:20</name>
+            <description>Waterhole: Olifantsbad Waterhole, Month: 2, Time: 2010-02-03 16:20</description>
+            <styleUrl>#month2</styleUrl>
+            <Point>
+                <coordinates>16.12632,-19.2351,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Gemsbokvlakte - Month 2 - 2010-02-04 18:00</name>
+            <description>Waterhole: Gemsbokvlakte, Month: 2, Time: 2010-02-04 18:00</description>
+            <styleUrl>#month2</styleUrl>
+            <Point>
+                <coordinates>16.06321,-19.21561,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Gemsbokvlakte - Month 2 - 2010-02-04 18:20</name>
+            <description>Waterhole: Gemsbokvlakte, Month: 2, Time: 2010-02-04 18:20</description>
+            <styleUrl>#month2</styleUrl>
+            <Point>
+                <coordinates>16.05878,-19.21336,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Gemsbokvlakte - Month 2 - 2010-02-04 18:40</name>
+            <description>Waterhole: Gemsbokvlakte, Month: 2, Time: 2010-02-04 18:40</description>
+            <styleUrl>#month2</styleUrl>
+            <Point>
+                <coordinates>16.05879,-19.21336,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Gemsbokvlakte - Month 2 - 2010-02-04 19:00</name>
+            <description>Waterhole: Gemsbokvlakte, Month: 2, Time: 2010-02-04 19:00</description>
+            <styleUrl>#month2</styleUrl>
+            <Point>
+                <coordinates>16.0609,-19.21473,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Gemsbokvlakte - Month 2 - 2010-02-04 19:20</name>
+            <description>Waterhole: Gemsbokvlakte, Month: 2, Time: 2010-02-04 19:20</description>
+            <styleUrl>#month2</styleUrl>
+            <Point>
+                <coordinates>16.06194,-19.21516,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Gemsbokvlakte - Month 2 - 2010-02-04 19:40</name>
+            <description>Waterhole: Gemsbokvlakte, Month: 2, Time: 2010-02-04 19:40</description>
+            <styleUrl>#month2</styleUrl>
+            <Point>
+                <coordinates>16.06572,-19.216,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Gemsbokvlakte - Month 2 - 2010-02-04 20:00</name>
+            <description>Waterhole: Gemsbokvlakte, Month: 2, Time: 2010-02-04 20:00</description>
+            <styleUrl>#month2</styleUrl>
+            <Point>
+                <coordinates>16.06753,-19.21664,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Olifantsbad Waterhole - Month 2 - 2010-02-05 17:20</name>
+            <description>Waterhole: Olifantsbad Waterhole, Month: 2, Time: 2010-02-05 17:20</description>
+            <styleUrl>#month2</styleUrl>
+            <Point>
+                <coordinates>16.12511,-19.23862,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Olifantsbad Waterhole - Month 2 - 2010-02-05 17:40</name>
+            <description>Waterhole: Olifantsbad Waterhole, Month: 2, Time: 2010-02-05 17:40</description>
+            <styleUrl>#month2</styleUrl>
+            <Point>
+                <coordinates>16.1292,-19.23716,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Olifantsbad Waterhole - Month 2 - 2010-02-05 18:00</name>
+            <description>Waterhole: Olifantsbad Waterhole, Month: 2, Time: 2010-02-05 18:00</description>
+            <styleUrl>#month2</styleUrl>
+            <Point>
+                <coordinates>16.13168,-19.23862,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Olifantsbad Waterhole - Month 2 - 2010-02-05 18:20</name>
+            <description>Waterhole: Olifantsbad Waterhole, Month: 2, Time: 2010-02-05 18:20</description>
+            <styleUrl>#month2</styleUrl>
+            <Point>
+                <coordinates>16.13314,-19.24169,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Olifantsbad Waterhole - Month 2 - 2010-02-05 18:40</name>
+            <description>Waterhole: Olifantsbad Waterhole, Month: 2, Time: 2010-02-05 18:40</description>
+            <styleUrl>#month2</styleUrl>
+            <Point>
+                <coordinates>16.13474,-19.24626,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Gemsbokvlakte - Month 2 - 2010-02-06 16:00</name>
+            <description>Waterhole: Gemsbokvlakte, Month: 2, Time: 2010-02-06 16:00</description>
+            <styleUrl>#month2</styleUrl>
+            <Point>
+                <coordinates>16.06412,-19.21155,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Gemsbokvlakte - Month 2 - 2010-02-06 16:20</name>
+            <description>Waterhole: Gemsbokvlakte, Month: 2, Time: 2010-02-06 16:20</description>
+            <styleUrl>#month2</styleUrl>
+            <Point>
+                <coordinates>16.05883,-19.21346,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Gemsbokvlakte - Month 2 - 2010-02-06 16:40</name>
+            <description>Waterhole: Gemsbokvlakte, Month: 2, Time: 2010-02-06 16:40</description>
+            <styleUrl>#month2</styleUrl>
+            <Point>
+                <coordinates>16.05883,-19.21346,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Gemsbokvlakte - Month 2 - 2010-02-06 17:00</name>
+            <description>Waterhole: Gemsbokvlakte, Month: 2, Time: 2010-02-06 17:00</description>
+            <styleUrl>#month2</styleUrl>
+            <Point>
+                <coordinates>16.06477,-19.21183,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Gemsbokvlakte - Month 2 - 2010-02-07 07:40</name>
+            <description>Waterhole: Gemsbokvlakte, Month: 2, Time: 2010-02-07 07:40</description>
+            <styleUrl>#month2</styleUrl>
+            <Point>
+                <coordinates>16.06846,-19.21493,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Gemsbokvlakte - Month 2 - 2010-02-07 08:00</name>
+            <description>Waterhole: Gemsbokvlakte, Month: 2, Time: 2010-02-07 08:00</description>
+            <styleUrl>#month2</styleUrl>
+            <Point>
+                <coordinates>16.06609,-19.21469,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Gemsbokvlakte - Month 2 - 2010-02-07 08:20</name>
+            <description>Waterhole: Gemsbokvlakte, Month: 2, Time: 2010-02-07 08:20</description>
+            <styleUrl>#month2</styleUrl>
+            <Point>
+                <coordinates>16.06155,-19.2143,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Gemsbokvlakte - Month 2 - 2010-02-07 08:40</name>
+            <description>Waterhole: Gemsbokvlakte, Month: 2, Time: 2010-02-07 08:40</description>
+            <styleUrl>#month2</styleUrl>
+            <Point>
+                <coordinates>16.05885,-19.21346,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Gemsbokvlakte - Month 2 - 2010-02-07 09:00</name>
+            <description>Waterhole: Gemsbokvlakte, Month: 2, Time: 2010-02-07 09:00</description>
+            <styleUrl>#month2</styleUrl>
+            <Point>
+                <coordinates>16.06313,-19.21154,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Gemsbokvlakte - Month 2 - 2010-02-07 09:20</name>
+            <description>Waterhole: Gemsbokvlakte, Month: 2, Time: 2010-02-07 09:20</description>
+            <styleUrl>#month2</styleUrl>
+            <Point>
+                <coordinates>16.06547,-19.21137,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Aus Fountain - Month 2 - 2010-02-09 10:00</name>
+            <description>Waterhole: Aus Fountain, Month: 2, Time: 2010-02-09 10:00</description>
+            <styleUrl>#month2</styleUrl>
+            <Point>
+                <coordinates>16.1909,-19.20348,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Aus Fountain - Month 2 - 2010-02-09 10:20</name>
+            <description>Waterhole: Aus Fountain, Month: 2, Time: 2010-02-09 10:20</description>
+            <styleUrl>#month2</styleUrl>
+            <Point>
+                <coordinates>16.19405,-19.20559,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Aus Fountain - Month 2 - 2010-02-09 10:40</name>
+            <description>Waterhole: Aus Fountain, Month: 2, Time: 2010-02-09 10:40</description>
+            <styleUrl>#month2</styleUrl>
+            <Point>
+                <coordinates>16.19785,-19.20592,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Aus Fountain - Month 2 - 2010-02-09 11:00</name>
+            <description>Waterhole: Aus Fountain, Month: 2, Time: 2010-02-09 11:00</description>
+            <styleUrl>#month2</styleUrl>
+            <Point>
+                <coordinates>16.19944,-19.20521,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Leeubron - Month 4 - 2010-04-14 20:00</name>
+            <description>Waterhole: Leeubron, Month: 4, Time: 2010-04-14 20:00</description>
+            <styleUrl>#month4</styleUrl>
+            <Point>
+                <coordinates>15.81642,-19.06933,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Leeubron - Month 4 - 2010-04-14 20:20</name>
+            <description>Waterhole: Leeubron, Month: 4, Time: 2010-04-14 20:20</description>
+            <styleUrl>#month4</styleUrl>
+            <Point>
+                <coordinates>15.81668,-19.06928,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Leeubron - Month 4 - 2010-04-14 20:40</name>
+            <description>Waterhole: Leeubron, Month: 4, Time: 2010-04-14 20:40</description>
+            <styleUrl>#month4</styleUrl>
+            <Point>
+                <coordinates>15.81662,-19.06939,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Leeubron - Month 4 - 2010-04-14 21:00</name>
+            <description>Waterhole: Leeubron, Month: 4, Time: 2010-04-14 21:00</description>
+            <styleUrl>#month4</styleUrl>
+            <Point>
+                <coordinates>15.81697,-19.06962,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Leeubron - Month 4 - 2010-04-14 21:20</name>
+            <description>Waterhole: Leeubron, Month: 4, Time: 2010-04-14 21:20</description>
+            <styleUrl>#month4</styleUrl>
+            <Point>
+                <coordinates>15.81713,-19.06989,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Leeubron - Month 4 - 2010-04-14 21:40</name>
+            <description>Waterhole: Leeubron, Month: 4, Time: 2010-04-14 21:40</description>
+            <styleUrl>#month4</styleUrl>
+            <Point>
+                <coordinates>15.81701,-19.0701,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Leeubron - Month 4 - 2010-04-14 22:00</name>
+            <description>Waterhole: Leeubron, Month: 4, Time: 2010-04-14 22:00</description>
+            <styleUrl>#month4</styleUrl>
+            <Point>
+                <coordinates>15.81676,-19.07017,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Leeubron - Month 4 - 2010-04-14 22:20</name>
+            <description>Waterhole: Leeubron, Month: 4, Time: 2010-04-14 22:20</description>
+            <styleUrl>#month4</styleUrl>
+            <Point>
+                <coordinates>15.81642,-19.07004,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Leeubron - Month 4 - 2010-04-14 22:40</name>
+            <description>Waterhole: Leeubron, Month: 4, Time: 2010-04-14 22:40</description>
+            <styleUrl>#month4</styleUrl>
+            <Point>
+                <coordinates>15.81638,-19.07007,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Leeubron - Month 4 - 2010-04-14 23:00</name>
+            <description>Waterhole: Leeubron, Month: 4, Time: 2010-04-14 23:00</description>
+            <styleUrl>#month4</styleUrl>
+            <Point>
+                <coordinates>15.81637,-19.06972,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Leeubron - Month 4 - 2010-04-14 23:20</name>
+            <description>Waterhole: Leeubron, Month: 4, Time: 2010-04-14 23:20</description>
+            <styleUrl>#month4</styleUrl>
+            <Point>
+                <coordinates>15.81643,-19.06944,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Leeubron - Month 4 - 2010-04-14 23:40</name>
+            <description>Waterhole: Leeubron, Month: 4, Time: 2010-04-14 23:40</description>
+            <styleUrl>#month4</styleUrl>
+            <Point>
+                <coordinates>15.81657,-19.06922,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Leeubron - Month 4 - 2010-04-15 00:00</name>
+            <description>Waterhole: Leeubron, Month: 4, Time: 2010-04-15 00:00</description>
+            <styleUrl>#month4</styleUrl>
+            <Point>
+                <coordinates>15.8166,-19.06916,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Leeubron - Month 4 - 2010-04-15 00:20</name>
+            <description>Waterhole: Leeubron, Month: 4, Time: 2010-04-15 00:20</description>
+            <styleUrl>#month4</styleUrl>
+            <Point>
+                <coordinates>15.8165,-19.06911,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Leeubron - Month 4 - 2010-04-15 00:40</name>
+            <description>Waterhole: Leeubron, Month: 4, Time: 2010-04-15 00:40</description>
+            <styleUrl>#month4</styleUrl>
+            <Point>
+                <coordinates>15.81582,-19.06987,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Leeubron - Month 4 - 2010-04-15 01:00</name>
+            <description>Waterhole: Leeubron, Month: 4, Time: 2010-04-15 01:00</description>
+            <styleUrl>#month4</styleUrl>
+            <Point>
+                <coordinates>15.8142,-19.07046,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Leeubron - Month 4 - 2010-04-15 01:20</name>
+            <description>Waterhole: Leeubron, Month: 4, Time: 2010-04-15 01:20</description>
+            <styleUrl>#month4</styleUrl>
+            <Point>
+                <coordinates>15.81324,-19.07742,0</coordinates>
+            </Point>
+        </Placemark>
+    </Folder>
+</Document>
+</kml>

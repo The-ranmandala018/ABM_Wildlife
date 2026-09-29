@@ -1,0 +1,1144 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_696a5c54e457f7209ce918f37769bfbe {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.10.2/jquery-ui.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/iso8601-js-period@0.2.1/iso8601.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet-timedimension@1.1.1/dist/leaflet.timedimension.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.18.1/moment.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/styles/default.min.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet-timedimension@1.1.1/dist/leaflet.timedimension.control.css"/>
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_696a5c54e457f7209ce918f37769bfbe" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_696a5c54e457f7209ce918f37769bfbe = L.map(
+                "map_696a5c54e457f7209ce918f37769bfbe",
+                {
+                    center: [-19.0, 15.5],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 8,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_22cd26e91e928c6455a6fc52b3a2c3dd = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 19,
+  "maxNativeZoom": 19,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_22cd26e91e928c6455a6fc52b3a2c3dd.addTo(map_696a5c54e457f7209ce918f37769bfbe);
+        
+    
+            var feature_group_ec5f394cd66af1822b4d0cd4a5c4186d = L.featureGroup(
+                {
+}
+            );
+        
+    
+            var circle_marker_ae4fe3f094bb6bcf10b78090e45a3e64 = L.circleMarker(
+                [-19.31102498, 15.94704285],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3, "stroke": true, "weight": 3}
+            ).addTo(feature_group_ec5f394cd66af1822b4d0cd4a5c4186d);
+        
+    
+        var popup_49b8bf413962655a8e51362517723300 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_6a40a15b3dcd2d9d1df86c07913c5154 = $(`<div id="html_6a40a15b3dcd2d9d1df86c07913c5154" style="width: 100.0%; height: 100.0%;">Time: 2010-03-19 18:00:00<br>Temp: 25.65°C<br>Waterhole: Ombika<br>Precip: 20.31mm<br>Humidity: 79.0%</div>`)[0];
+                popup_49b8bf413962655a8e51362517723300.setContent(html_6a40a15b3dcd2d9d1df86c07913c5154);
+            
+        
+
+        circle_marker_ae4fe3f094bb6bcf10b78090e45a3e64.bindPopup(popup_49b8bf413962655a8e51362517723300)
+        ;
+
+        
+    
+    
+            var circle_marker_d08986236a1c5ab7df9ddd8e9acded5a = L.circleMarker(
+                [-19.31633097, 15.94109294],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3, "stroke": true, "weight": 3}
+            ).addTo(feature_group_ec5f394cd66af1822b4d0cd4a5c4186d);
+        
+    
+        var popup_c11a5a613b9a2aff64d9ff77b16828cb = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_4a84d4b7ff2647a51ad4a5e503c4d4ca = $(`<div id="html_4a84d4b7ff2647a51ad4a5e503c4d4ca" style="width: 100.0%; height: 100.0%;">Time: 2010-03-19 18:20:00<br>Temp: 25.65°C<br>Waterhole: Ombika<br>Precip: 20.31mm<br>Humidity: 79.0%</div>`)[0];
+                popup_c11a5a613b9a2aff64d9ff77b16828cb.setContent(html_4a84d4b7ff2647a51ad4a5e503c4d4ca);
+            
+        
+
+        circle_marker_d08986236a1c5ab7df9ddd8e9acded5a.bindPopup(popup_c11a5a613b9a2aff64d9ff77b16828cb)
+        ;
+
+        
+    
+    
+            var circle_marker_cb72d69644a14e6a38906d654bda922d = L.circleMarker(
+                [-19.31613566, 15.94060872],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3, "stroke": true, "weight": 3}
+            ).addTo(feature_group_ec5f394cd66af1822b4d0cd4a5c4186d);
+        
+    
+        var popup_c1707dfb7b7b8f6c2b8b472cb5c2b967 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_f168743778cf071fa1c4ba3f4b2dd049 = $(`<div id="html_f168743778cf071fa1c4ba3f4b2dd049" style="width: 100.0%; height: 100.0%;">Time: 2010-03-19 18:40:00<br>Temp: 25.65°C<br>Waterhole: Ombika<br>Precip: 20.31mm<br>Humidity: 79.0%</div>`)[0];
+                popup_c1707dfb7b7b8f6c2b8b472cb5c2b967.setContent(html_f168743778cf071fa1c4ba3f4b2dd049);
+            
+        
+
+        circle_marker_cb72d69644a14e6a38906d654bda922d.bindPopup(popup_c1707dfb7b7b8f6c2b8b472cb5c2b967)
+        ;
+
+        
+    
+    
+            var circle_marker_1602d6e83af5f702edffee42ca43629d = L.circleMarker(
+                [-19.31480916, 15.94108785],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3, "stroke": true, "weight": 3}
+            ).addTo(feature_group_ec5f394cd66af1822b4d0cd4a5c4186d);
+        
+    
+        var popup_a8c5a3364248a5d2da9afdde8ba3bd63 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_de42f122071cf5212d42f024a60b9f5b = $(`<div id="html_de42f122071cf5212d42f024a60b9f5b" style="width: 100.0%; height: 100.0%;">Time: 2010-03-19 19:00:00<br>Temp: 25.65°C<br>Waterhole: Ombika<br>Precip: 20.31mm<br>Humidity: 79.0%</div>`)[0];
+                popup_a8c5a3364248a5d2da9afdde8ba3bd63.setContent(html_de42f122071cf5212d42f024a60b9f5b);
+            
+        
+
+        circle_marker_1602d6e83af5f702edffee42ca43629d.bindPopup(popup_a8c5a3364248a5d2da9afdde8ba3bd63)
+        ;
+
+        
+    
+    
+            var circle_marker_bed7b3d49f116ee4c02c8ffcf0e4e935 = L.circleMarker(
+                [-19.31592814, 15.94047953],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3, "stroke": true, "weight": 3}
+            ).addTo(feature_group_ec5f394cd66af1822b4d0cd4a5c4186d);
+        
+    
+        var popup_de1321789a02e1152b8c73fa5b5d7eb4 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_46d6eb7248bc7d6d3212fde043fc55e9 = $(`<div id="html_46d6eb7248bc7d6d3212fde043fc55e9" style="width: 100.0%; height: 100.0%;">Time: 2010-03-19 19:20:00<br>Temp: 25.65°C<br>Waterhole: Ombika<br>Precip: 20.31mm<br>Humidity: 79.0%</div>`)[0];
+                popup_de1321789a02e1152b8c73fa5b5d7eb4.setContent(html_46d6eb7248bc7d6d3212fde043fc55e9);
+            
+        
+
+        circle_marker_bed7b3d49f116ee4c02c8ffcf0e4e935.bindPopup(popup_de1321789a02e1152b8c73fa5b5d7eb4)
+        ;
+
+        
+    
+    
+            var circle_marker_2206e3500edb18ba905df4905f1e5518 = L.circleMarker(
+                [-19.31542358, 15.93817444],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3, "stroke": true, "weight": 3}
+            ).addTo(feature_group_ec5f394cd66af1822b4d0cd4a5c4186d);
+        
+    
+        var popup_4ba7106c6baa310b43749b8901f54357 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_36ed0614fc7829f9212ce9316ad7df71 = $(`<div id="html_36ed0614fc7829f9212ce9316ad7df71" style="width: 100.0%; height: 100.0%;">Time: 2010-03-19 19:40:00<br>Temp: 25.65°C<br>Waterhole: Ombika<br>Precip: 20.31mm<br>Humidity: 79.0%</div>`)[0];
+                popup_4ba7106c6baa310b43749b8901f54357.setContent(html_36ed0614fc7829f9212ce9316ad7df71);
+            
+        
+
+        circle_marker_2206e3500edb18ba905df4905f1e5518.bindPopup(popup_4ba7106c6baa310b43749b8901f54357)
+        ;
+
+        
+    
+    
+            var circle_marker_713e04a78eed787030f76ceab016517d = L.circleMarker(
+                [-19.31243286, 15.93624573],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3, "stroke": true, "weight": 3}
+            ).addTo(feature_group_ec5f394cd66af1822b4d0cd4a5c4186d);
+        
+    
+        var popup_ba816df6d7e74a696ed2b03b71a13eec = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_b06d7b538535db3beb7c1faf06bb5536 = $(`<div id="html_b06d7b538535db3beb7c1faf06bb5536" style="width: 100.0%; height: 100.0%;">Time: 2010-03-19 20:00:00<br>Temp: 25.65°C<br>Waterhole: Ombika<br>Precip: 20.31mm<br>Humidity: 79.0%</div>`)[0];
+                popup_ba816df6d7e74a696ed2b03b71a13eec.setContent(html_b06d7b538535db3beb7c1faf06bb5536);
+            
+        
+
+        circle_marker_713e04a78eed787030f76ceab016517d.bindPopup(popup_ba816df6d7e74a696ed2b03b71a13eec)
+        ;
+
+        
+    
+    
+            var circle_marker_5fcb8ee823d7fd7bafa24619c86ed249 = L.circleMarker(
+                [-19.30980632, 15.93602091],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3, "stroke": true, "weight": 3}
+            ).addTo(feature_group_ec5f394cd66af1822b4d0cd4a5c4186d);
+        
+    
+        var popup_49bebead3585e9acf366bbb2a00db2b7 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_8805302e8839b454e92ced8cafb5fdba = $(`<div id="html_8805302e8839b454e92ced8cafb5fdba" style="width: 100.0%; height: 100.0%;">Time: 2010-03-19 20:20:00<br>Temp: 25.65°C<br>Waterhole: Ombika<br>Precip: 20.31mm<br>Humidity: 79.0%</div>`)[0];
+                popup_49bebead3585e9acf366bbb2a00db2b7.setContent(html_8805302e8839b454e92ced8cafb5fdba);
+            
+        
+
+        circle_marker_5fcb8ee823d7fd7bafa24619c86ed249.bindPopup(popup_49bebead3585e9acf366bbb2a00db2b7)
+        ;
+
+        
+    
+    
+            feature_group_ec5f394cd66af1822b4d0cd4a5c4186d.addTo(map_696a5c54e457f7209ce918f37769bfbe);
+        
+    
+            var feature_group_37a008537a677c5dadda069026122bce = L.featureGroup(
+                {
+}
+            );
+        
+    
+            var circle_marker_5a2e47ffcecf730b10e004ad35509952 = L.circleMarker(
+                [-19.31102498, 15.94704285],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "lightgreen", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 40.62, "stroke": true, "weight": 3}
+            ).addTo(feature_group_37a008537a677c5dadda069026122bce);
+        
+    
+        var popup_f3a891c9096b45b03324e1b2fc82a4fe = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_1eaa57c13222c7de3b01e7348c4c2146 = $(`<div id="html_1eaa57c13222c7de3b01e7348c4c2146" style="width: 100.0%; height: 100.0%;">Time: 2010-03-19 18:00:00<br>Precip: 20.31mm<br>Waterhole: Ombika<br>Temp: 25.65°C<br>Humidity: 79.0%</div>`)[0];
+                popup_f3a891c9096b45b03324e1b2fc82a4fe.setContent(html_1eaa57c13222c7de3b01e7348c4c2146);
+            
+        
+
+        circle_marker_5a2e47ffcecf730b10e004ad35509952.bindPopup(popup_f3a891c9096b45b03324e1b2fc82a4fe)
+        ;
+
+        
+    
+    
+            var circle_marker_7a7f231b0c7be8725fd0d49d07ff1219 = L.circleMarker(
+                [-19.31633097, 15.94109294],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "lightgreen", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 40.62, "stroke": true, "weight": 3}
+            ).addTo(feature_group_37a008537a677c5dadda069026122bce);
+        
+    
+        var popup_0f2517f8aa1bf7f8741c99ba2377781f = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_fbd08f4760b1d27d0a2d1283e0818b02 = $(`<div id="html_fbd08f4760b1d27d0a2d1283e0818b02" style="width: 100.0%; height: 100.0%;">Time: 2010-03-19 18:20:00<br>Precip: 20.31mm<br>Waterhole: Ombika<br>Temp: 25.65°C<br>Humidity: 79.0%</div>`)[0];
+                popup_0f2517f8aa1bf7f8741c99ba2377781f.setContent(html_fbd08f4760b1d27d0a2d1283e0818b02);
+            
+        
+
+        circle_marker_7a7f231b0c7be8725fd0d49d07ff1219.bindPopup(popup_0f2517f8aa1bf7f8741c99ba2377781f)
+        ;
+
+        
+    
+    
+            var circle_marker_a17d44ab26dbe3b8ce590f91bc031a7b = L.circleMarker(
+                [-19.31613566, 15.94060872],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "lightgreen", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 40.62, "stroke": true, "weight": 3}
+            ).addTo(feature_group_37a008537a677c5dadda069026122bce);
+        
+    
+        var popup_9b33e5cf3be3eb194c21f005807353c7 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_01a126ada0e43ddae043fd7bfd07d38b = $(`<div id="html_01a126ada0e43ddae043fd7bfd07d38b" style="width: 100.0%; height: 100.0%;">Time: 2010-03-19 18:40:00<br>Precip: 20.31mm<br>Waterhole: Ombika<br>Temp: 25.65°C<br>Humidity: 79.0%</div>`)[0];
+                popup_9b33e5cf3be3eb194c21f005807353c7.setContent(html_01a126ada0e43ddae043fd7bfd07d38b);
+            
+        
+
+        circle_marker_a17d44ab26dbe3b8ce590f91bc031a7b.bindPopup(popup_9b33e5cf3be3eb194c21f005807353c7)
+        ;
+
+        
+    
+    
+            var circle_marker_cf4342535168b23ecf688bb59ea0321f = L.circleMarker(
+                [-19.31480916, 15.94108785],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "lightgreen", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 40.62, "stroke": true, "weight": 3}
+            ).addTo(feature_group_37a008537a677c5dadda069026122bce);
+        
+    
+        var popup_dcfc0fd75a0c25e448e48862cf8b4cdb = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_ec59e5075318a025efd4269804863ef6 = $(`<div id="html_ec59e5075318a025efd4269804863ef6" style="width: 100.0%; height: 100.0%;">Time: 2010-03-19 19:00:00<br>Precip: 20.31mm<br>Waterhole: Ombika<br>Temp: 25.65°C<br>Humidity: 79.0%</div>`)[0];
+                popup_dcfc0fd75a0c25e448e48862cf8b4cdb.setContent(html_ec59e5075318a025efd4269804863ef6);
+            
+        
+
+        circle_marker_cf4342535168b23ecf688bb59ea0321f.bindPopup(popup_dcfc0fd75a0c25e448e48862cf8b4cdb)
+        ;
+
+        
+    
+    
+            var circle_marker_5728cddd2302375b067cf762f74a444e = L.circleMarker(
+                [-19.31592814, 15.94047953],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "lightgreen", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 40.62, "stroke": true, "weight": 3}
+            ).addTo(feature_group_37a008537a677c5dadda069026122bce);
+        
+    
+        var popup_c1151d18d815da8bf0895a700204b249 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_d00175a1614a9729b689aa031fd3a3a2 = $(`<div id="html_d00175a1614a9729b689aa031fd3a3a2" style="width: 100.0%; height: 100.0%;">Time: 2010-03-19 19:20:00<br>Precip: 20.31mm<br>Waterhole: Ombika<br>Temp: 25.65°C<br>Humidity: 79.0%</div>`)[0];
+                popup_c1151d18d815da8bf0895a700204b249.setContent(html_d00175a1614a9729b689aa031fd3a3a2);
+            
+        
+
+        circle_marker_5728cddd2302375b067cf762f74a444e.bindPopup(popup_c1151d18d815da8bf0895a700204b249)
+        ;
+
+        
+    
+    
+            var circle_marker_601fe1b33c44907c6e4108e05011b920 = L.circleMarker(
+                [-19.31542358, 15.93817444],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "lightgreen", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 40.62, "stroke": true, "weight": 3}
+            ).addTo(feature_group_37a008537a677c5dadda069026122bce);
+        
+    
+        var popup_cb77748c13c4c5bde18ce8f9f7e6a579 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_f53879461791f50387996d93e558caa2 = $(`<div id="html_f53879461791f50387996d93e558caa2" style="width: 100.0%; height: 100.0%;">Time: 2010-03-19 19:40:00<br>Precip: 20.31mm<br>Waterhole: Ombika<br>Temp: 25.65°C<br>Humidity: 79.0%</div>`)[0];
+                popup_cb77748c13c4c5bde18ce8f9f7e6a579.setContent(html_f53879461791f50387996d93e558caa2);
+            
+        
+
+        circle_marker_601fe1b33c44907c6e4108e05011b920.bindPopup(popup_cb77748c13c4c5bde18ce8f9f7e6a579)
+        ;
+
+        
+    
+    
+            var circle_marker_4f442f0badb949c92a027524724b946b = L.circleMarker(
+                [-19.31243286, 15.93624573],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "lightgreen", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 40.62, "stroke": true, "weight": 3}
+            ).addTo(feature_group_37a008537a677c5dadda069026122bce);
+        
+    
+        var popup_728032f801a2761a23a8fd370f3e753e = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_36c309155a91f0834f636dce2fee83df = $(`<div id="html_36c309155a91f0834f636dce2fee83df" style="width: 100.0%; height: 100.0%;">Time: 2010-03-19 20:00:00<br>Precip: 20.31mm<br>Waterhole: Ombika<br>Temp: 25.65°C<br>Humidity: 79.0%</div>`)[0];
+                popup_728032f801a2761a23a8fd370f3e753e.setContent(html_36c309155a91f0834f636dce2fee83df);
+            
+        
+
+        circle_marker_4f442f0badb949c92a027524724b946b.bindPopup(popup_728032f801a2761a23a8fd370f3e753e)
+        ;
+
+        
+    
+    
+            var circle_marker_89ee48d6277b638ea21c9ef1595ae1df = L.circleMarker(
+                [-19.30980632, 15.93602091],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "lightgreen", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 40.62, "stroke": true, "weight": 3}
+            ).addTo(feature_group_37a008537a677c5dadda069026122bce);
+        
+    
+        var popup_07a76ef0c8f24c6ba62cf4d01e2605c5 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_569da5dca05d860b443e7b9f10163ecd = $(`<div id="html_569da5dca05d860b443e7b9f10163ecd" style="width: 100.0%; height: 100.0%;">Time: 2010-03-19 20:20:00<br>Precip: 20.31mm<br>Waterhole: Ombika<br>Temp: 25.65°C<br>Humidity: 79.0%</div>`)[0];
+                popup_07a76ef0c8f24c6ba62cf4d01e2605c5.setContent(html_569da5dca05d860b443e7b9f10163ecd);
+            
+        
+
+        circle_marker_89ee48d6277b638ea21c9ef1595ae1df.bindPopup(popup_07a76ef0c8f24c6ba62cf4d01e2605c5)
+        ;
+
+        
+    
+    
+            var feature_group_d88370c21988e9280ceddfee6e3a370c = L.featureGroup(
+                {
+}
+            );
+        
+    
+            var circle_marker_21ae6073c629d039d26f8a8a39cca90b = L.circleMarker(
+                [-19.31102498, 15.94704285],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "violet", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3, "stroke": true, "weight": 3}
+            ).addTo(feature_group_d88370c21988e9280ceddfee6e3a370c);
+        
+    
+        var popup_c9520e16589cbdd2ebfb2f89da527aa1 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_0a3305b57a2a7df908bd576d5df6578f = $(`<div id="html_0a3305b57a2a7df908bd576d5df6578f" style="width: 100.0%; height: 100.0%;">Time: 2010-03-19 18:00:00<br>Humidity: 79.0%<br>Waterhole: Ombika<br>Temp: 25.65°C<br>Precip: 20.31mm</div>`)[0];
+                popup_c9520e16589cbdd2ebfb2f89da527aa1.setContent(html_0a3305b57a2a7df908bd576d5df6578f);
+            
+        
+
+        circle_marker_21ae6073c629d039d26f8a8a39cca90b.bindPopup(popup_c9520e16589cbdd2ebfb2f89da527aa1)
+        ;
+
+        
+    
+    
+            var circle_marker_f47064157be74d4a4e8c266d435f99a3 = L.circleMarker(
+                [-19.31633097, 15.94109294],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "violet", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3, "stroke": true, "weight": 3}
+            ).addTo(feature_group_d88370c21988e9280ceddfee6e3a370c);
+        
+    
+        var popup_ddf680452b2f7f3dcba6d9d38a45d027 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_120cd9ee33cc8066523777dc395ab6fe = $(`<div id="html_120cd9ee33cc8066523777dc395ab6fe" style="width: 100.0%; height: 100.0%;">Time: 2010-03-19 18:20:00<br>Humidity: 79.0%<br>Waterhole: Ombika<br>Temp: 25.65°C<br>Precip: 20.31mm</div>`)[0];
+                popup_ddf680452b2f7f3dcba6d9d38a45d027.setContent(html_120cd9ee33cc8066523777dc395ab6fe);
+            
+        
+
+        circle_marker_f47064157be74d4a4e8c266d435f99a3.bindPopup(popup_ddf680452b2f7f3dcba6d9d38a45d027)
+        ;
+
+        
+    
+    
+            var circle_marker_b22e8e04686297931abcb6352851c78e = L.circleMarker(
+                [-19.31613566, 15.94060872],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "violet", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3, "stroke": true, "weight": 3}
+            ).addTo(feature_group_d88370c21988e9280ceddfee6e3a370c);
+        
+    
+        var popup_b74b339c8e8ea1c6b1a7d6b6d895b093 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_855ece456bd91520281f535c701c65f2 = $(`<div id="html_855ece456bd91520281f535c701c65f2" style="width: 100.0%; height: 100.0%;">Time: 2010-03-19 18:40:00<br>Humidity: 79.0%<br>Waterhole: Ombika<br>Temp: 25.65°C<br>Precip: 20.31mm</div>`)[0];
+                popup_b74b339c8e8ea1c6b1a7d6b6d895b093.setContent(html_855ece456bd91520281f535c701c65f2);
+            
+        
+
+        circle_marker_b22e8e04686297931abcb6352851c78e.bindPopup(popup_b74b339c8e8ea1c6b1a7d6b6d895b093)
+        ;
+
+        
+    
+    
+            var circle_marker_bf57ff442d7cc0e833a0e11a5dadefe3 = L.circleMarker(
+                [-19.31480916, 15.94108785],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "violet", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3, "stroke": true, "weight": 3}
+            ).addTo(feature_group_d88370c21988e9280ceddfee6e3a370c);
+        
+    
+        var popup_c286212f16b933608e2bad8703513bfb = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_5ffb46109f6055be02154909774e2d10 = $(`<div id="html_5ffb46109f6055be02154909774e2d10" style="width: 100.0%; height: 100.0%;">Time: 2010-03-19 19:00:00<br>Humidity: 79.0%<br>Waterhole: Ombika<br>Temp: 25.65°C<br>Precip: 20.31mm</div>`)[0];
+                popup_c286212f16b933608e2bad8703513bfb.setContent(html_5ffb46109f6055be02154909774e2d10);
+            
+        
+
+        circle_marker_bf57ff442d7cc0e833a0e11a5dadefe3.bindPopup(popup_c286212f16b933608e2bad8703513bfb)
+        ;
+
+        
+    
+    
+            var circle_marker_95d3f63d51edea938f4890757a31a11d = L.circleMarker(
+                [-19.31592814, 15.94047953],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "violet", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3, "stroke": true, "weight": 3}
+            ).addTo(feature_group_d88370c21988e9280ceddfee6e3a370c);
+        
+    
+        var popup_7d0485c59073fbd34779814c6c4cedec = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_b450f12685ce47e3833395388e6e8226 = $(`<div id="html_b450f12685ce47e3833395388e6e8226" style="width: 100.0%; height: 100.0%;">Time: 2010-03-19 19:20:00<br>Humidity: 79.0%<br>Waterhole: Ombika<br>Temp: 25.65°C<br>Precip: 20.31mm</div>`)[0];
+                popup_7d0485c59073fbd34779814c6c4cedec.setContent(html_b450f12685ce47e3833395388e6e8226);
+            
+        
+
+        circle_marker_95d3f63d51edea938f4890757a31a11d.bindPopup(popup_7d0485c59073fbd34779814c6c4cedec)
+        ;
+
+        
+    
+    
+            var circle_marker_0c9560fc280770dcdfd8e2e0bf6b57f8 = L.circleMarker(
+                [-19.31542358, 15.93817444],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "violet", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3, "stroke": true, "weight": 3}
+            ).addTo(feature_group_d88370c21988e9280ceddfee6e3a370c);
+        
+    
+        var popup_b27013fb95b451b908a25cec4306cf17 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_4ffaff9b29764dc08f1c40d3470039d3 = $(`<div id="html_4ffaff9b29764dc08f1c40d3470039d3" style="width: 100.0%; height: 100.0%;">Time: 2010-03-19 19:40:00<br>Humidity: 79.0%<br>Waterhole: Ombika<br>Temp: 25.65°C<br>Precip: 20.31mm</div>`)[0];
+                popup_b27013fb95b451b908a25cec4306cf17.setContent(html_4ffaff9b29764dc08f1c40d3470039d3);
+            
+        
+
+        circle_marker_0c9560fc280770dcdfd8e2e0bf6b57f8.bindPopup(popup_b27013fb95b451b908a25cec4306cf17)
+        ;
+
+        
+    
+    
+            var circle_marker_cdb9b41605a69ea5bf9c93d0380ec377 = L.circleMarker(
+                [-19.31243286, 15.93624573],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "violet", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3, "stroke": true, "weight": 3}
+            ).addTo(feature_group_d88370c21988e9280ceddfee6e3a370c);
+        
+    
+        var popup_04375b7bcf42a0bf19755492ae2d33c6 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_561df33913762811b82cf35f2d3bc84a = $(`<div id="html_561df33913762811b82cf35f2d3bc84a" style="width: 100.0%; height: 100.0%;">Time: 2010-03-19 20:00:00<br>Humidity: 79.0%<br>Waterhole: Ombika<br>Temp: 25.65°C<br>Precip: 20.31mm</div>`)[0];
+                popup_04375b7bcf42a0bf19755492ae2d33c6.setContent(html_561df33913762811b82cf35f2d3bc84a);
+            
+        
+
+        circle_marker_cdb9b41605a69ea5bf9c93d0380ec377.bindPopup(popup_04375b7bcf42a0bf19755492ae2d33c6)
+        ;
+
+        
+    
+    
+            var circle_marker_9f815fdcf33060bbb0d98d5a2bc2af38 = L.circleMarker(
+                [-19.30980632, 15.93602091],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "violet", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3, "stroke": true, "weight": 3}
+            ).addTo(feature_group_d88370c21988e9280ceddfee6e3a370c);
+        
+    
+        var popup_d1e873a0c4180d8af10c0297f2470398 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_e99acceeeee828d053c4c4707e3df077 = $(`<div id="html_e99acceeeee828d053c4c4707e3df077" style="width: 100.0%; height: 100.0%;">Time: 2010-03-19 20:20:00<br>Humidity: 79.0%<br>Waterhole: Ombika<br>Temp: 25.65°C<br>Precip: 20.31mm</div>`)[0];
+                popup_d1e873a0c4180d8af10c0297f2470398.setContent(html_e99acceeeee828d053c4c4707e3df077);
+            
+        
+
+        circle_marker_9f815fdcf33060bbb0d98d5a2bc2af38.bindPopup(popup_d1e873a0c4180d8af10c0297f2470398)
+        ;
+
+        
+    
+    
+            var feature_group_509efc0455de5cd55b9d567b93e7f27e = L.featureGroup(
+                {
+}
+            );
+        
+    
+            var circle_marker_a562609e4321abad04de99b5b8217d44 = L.circleMarker(
+                [-19.31102498, 15.94704285],
+                {"bubblingMouseEvents": true, "color": "#f89540", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#f89540", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3, "stroke": true, "weight": 3}
+            ).addTo(feature_group_509efc0455de5cd55b9d567b93e7f27e);
+        
+    
+        var popup_a337a22bf128e1011eaa14ba0cdf7598 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_eb5332c1c175d14180f66835985adbf5 = $(`<div id="html_eb5332c1c175d14180f66835985adbf5" style="width: 100.0%; height: 100.0%;">Time: 2010-03-19 18:00:00<br>Hour: 18.0<br>Waterhole: Ombika<br>Temp: 25.65°C</div>`)[0];
+                popup_a337a22bf128e1011eaa14ba0cdf7598.setContent(html_eb5332c1c175d14180f66835985adbf5);
+            
+        
+
+        circle_marker_a562609e4321abad04de99b5b8217d44.bindPopup(popup_a337a22bf128e1011eaa14ba0cdf7598)
+        ;
+
+        
+    
+    
+            var circle_marker_a27df09c443907ec7513aaef405bc21e = L.circleMarker(
+                [-19.31633097, 15.94109294],
+                {"bubblingMouseEvents": true, "color": "#f9993d", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#f9993d", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3, "stroke": true, "weight": 3}
+            ).addTo(feature_group_509efc0455de5cd55b9d567b93e7f27e);
+        
+    
+        var popup_0492bf566d839359c104519dcde1e58f = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_0469147a5cf73bbf0422c5200a7edc22 = $(`<div id="html_0469147a5cf73bbf0422c5200a7edc22" style="width: 100.0%; height: 100.0%;">Time: 2010-03-19 18:20:00<br>Hour: 18.3<br>Waterhole: Ombika<br>Temp: 25.65°C</div>`)[0];
+                popup_0492bf566d839359c104519dcde1e58f.setContent(html_0469147a5cf73bbf0422c5200a7edc22);
+            
+        
+
+        circle_marker_a27df09c443907ec7513aaef405bc21e.bindPopup(popup_0492bf566d839359c104519dcde1e58f)
+        ;
+
+        
+    
+    
+            var circle_marker_bace61a1ab8613ab648b5dee00646836 = L.circleMarker(
+                [-19.31613566, 15.94060872],
+                {"bubblingMouseEvents": true, "color": "#fa9f3a", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#fa9f3a", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3, "stroke": true, "weight": 3}
+            ).addTo(feature_group_509efc0455de5cd55b9d567b93e7f27e);
+        
+    
+        var popup_3571d1da890295e332e1fa68135f4a90 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_5c8a5395d8180b15a9badd16be9b52c1 = $(`<div id="html_5c8a5395d8180b15a9badd16be9b52c1" style="width: 100.0%; height: 100.0%;">Time: 2010-03-19 18:40:00<br>Hour: 18.7<br>Waterhole: Ombika<br>Temp: 25.65°C</div>`)[0];
+                popup_3571d1da890295e332e1fa68135f4a90.setContent(html_5c8a5395d8180b15a9badd16be9b52c1);
+            
+        
+
+        circle_marker_bace61a1ab8613ab648b5dee00646836.bindPopup(popup_3571d1da890295e332e1fa68135f4a90)
+        ;
+
+        
+    
+    
+            var circle_marker_8835a3d7d722b5a36e18067a114d54f5 = L.circleMarker(
+                [-19.31480916, 15.94108785],
+                {"bubblingMouseEvents": true, "color": "#fba337", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#fba337", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3, "stroke": true, "weight": 3}
+            ).addTo(feature_group_509efc0455de5cd55b9d567b93e7f27e);
+        
+    
+        var popup_b86fe617dce00ba66e890d82934b97ae = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_00483deb827a1ccd95d29f674437ffc4 = $(`<div id="html_00483deb827a1ccd95d29f674437ffc4" style="width: 100.0%; height: 100.0%;">Time: 2010-03-19 19:00:00<br>Hour: 19.0<br>Waterhole: Ombika<br>Temp: 25.65°C</div>`)[0];
+                popup_b86fe617dce00ba66e890d82934b97ae.setContent(html_00483deb827a1ccd95d29f674437ffc4);
+            
+        
+
+        circle_marker_8835a3d7d722b5a36e18067a114d54f5.bindPopup(popup_b86fe617dce00ba66e890d82934b97ae)
+        ;
+
+        
+    
+    
+            var circle_marker_e7fceacb05ede139a9a68678576a76e5 = L.circleMarker(
+                [-19.31592814, 15.94047953],
+                {"bubblingMouseEvents": true, "color": "#fca934", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#fca934", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3, "stroke": true, "weight": 3}
+            ).addTo(feature_group_509efc0455de5cd55b9d567b93e7f27e);
+        
+    
+        var popup_7a5d4c5449a60bd2da0f0d6c75d59f4f = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_b2efe1091a2594c1af7e72d8ddad05c7 = $(`<div id="html_b2efe1091a2594c1af7e72d8ddad05c7" style="width: 100.0%; height: 100.0%;">Time: 2010-03-19 19:20:00<br>Hour: 19.3<br>Waterhole: Ombika<br>Temp: 25.65°C</div>`)[0];
+                popup_7a5d4c5449a60bd2da0f0d6c75d59f4f.setContent(html_b2efe1091a2594c1af7e72d8ddad05c7);
+            
+        
+
+        circle_marker_e7fceacb05ede139a9a68678576a76e5.bindPopup(popup_7a5d4c5449a60bd2da0f0d6c75d59f4f)
+        ;
+
+        
+    
+    
+            var circle_marker_abf6538b89a3e79da303a7ba42464c68 = L.circleMarker(
+                [-19.31542358, 15.93817444],
+                {"bubblingMouseEvents": true, "color": "#fcad31", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#fcad31", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3, "stroke": true, "weight": 3}
+            ).addTo(feature_group_509efc0455de5cd55b9d567b93e7f27e);
+        
+    
+        var popup_46d21dbd363ab1f554caa69ed739a457 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_1efb8e9451684a27363bfe7bb5171069 = $(`<div id="html_1efb8e9451684a27363bfe7bb5171069" style="width: 100.0%; height: 100.0%;">Time: 2010-03-19 19:40:00<br>Hour: 19.7<br>Waterhole: Ombika<br>Temp: 25.65°C</div>`)[0];
+                popup_46d21dbd363ab1f554caa69ed739a457.setContent(html_1efb8e9451684a27363bfe7bb5171069);
+            
+        
+
+        circle_marker_abf6538b89a3e79da303a7ba42464c68.bindPopup(popup_46d21dbd363ab1f554caa69ed739a457)
+        ;
+
+        
+    
+    
+            var circle_marker_f2a63d3ab920cf202ab0e5d136410111 = L.circleMarker(
+                [-19.31243286, 15.93624573],
+                {"bubblingMouseEvents": true, "color": "#fdb32e", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#fdb32e", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3, "stroke": true, "weight": 3}
+            ).addTo(feature_group_509efc0455de5cd55b9d567b93e7f27e);
+        
+    
+        var popup_99594d32ea03e7936351929ec6e213e1 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_f36fc9253456e371c46ce87f121f5298 = $(`<div id="html_f36fc9253456e371c46ce87f121f5298" style="width: 100.0%; height: 100.0%;">Time: 2010-03-19 20:00:00<br>Hour: 20.0<br>Waterhole: Ombika<br>Temp: 25.65°C</div>`)[0];
+                popup_99594d32ea03e7936351929ec6e213e1.setContent(html_f36fc9253456e371c46ce87f121f5298);
+            
+        
+
+        circle_marker_f2a63d3ab920cf202ab0e5d136410111.bindPopup(popup_99594d32ea03e7936351929ec6e213e1)
+        ;
+
+        
+    
+    
+            var circle_marker_3367d36b495f5d1328e8b91b6590b17f = L.circleMarker(
+                [-19.30980632, 15.93602091],
+                {"bubblingMouseEvents": true, "color": "#fdb82c", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#fdb82c", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3, "stroke": true, "weight": 3}
+            ).addTo(feature_group_509efc0455de5cd55b9d567b93e7f27e);
+        
+    
+        var popup_91494a51f4373e5cf1d59dc9b2049bc1 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_6bd7528e1b714bfd7bad235ddedf9b41 = $(`<div id="html_6bd7528e1b714bfd7bad235ddedf9b41" style="width: 100.0%; height: 100.0%;">Time: 2010-03-19 20:20:00<br>Hour: 20.3<br>Waterhole: Ombika<br>Temp: 25.65°C</div>`)[0];
+                popup_91494a51f4373e5cf1d59dc9b2049bc1.setContent(html_6bd7528e1b714bfd7bad235ddedf9b41);
+            
+        
+
+        circle_marker_3367d36b495f5d1328e8b91b6590b17f.bindPopup(popup_91494a51f4373e5cf1d59dc9b2049bc1)
+        ;
+
+        
+    
+    
+            var feature_group_5983d6749766b7113cc0e809b81641f8 = L.featureGroup(
+                {
+}
+            );
+        
+    
+            var circle_marker_006d81ca15aed5c78e1e62947b9b85a6 = L.circleMarker(
+                [-19.31102498, 15.94704285],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(feature_group_5983d6749766b7113cc0e809b81641f8);
+        
+    
+        var popup_fb8f61022f9c05e8e9565fb5b121f75e = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_a5288b059d18dc488be04a9b0f71b971 = $(`<div id="html_a5288b059d18dc488be04a9b0f71b971" style="width: 100.0%; height: 100.0%;">Time: 2010-03-19 18:00:00<br>Waterhole: Ombika<br>Temp: 25.65°C, Precip: 20.31mm, Humidity: 79.0%</div>`)[0];
+                popup_fb8f61022f9c05e8e9565fb5b121f75e.setContent(html_a5288b059d18dc488be04a9b0f71b971);
+            
+        
+
+        circle_marker_006d81ca15aed5c78e1e62947b9b85a6.bindPopup(popup_fb8f61022f9c05e8e9565fb5b121f75e)
+        ;
+
+        
+    
+    
+            var circle_marker_349a8dae14b639ac713981866be3c5b0 = L.circleMarker(
+                [-19.31633097, 15.94109294],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(feature_group_5983d6749766b7113cc0e809b81641f8);
+        
+    
+        var popup_7992a64ffd0eb782291f24d9e0224838 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_4d58b5c37745c702ca5c8f68b20a7a44 = $(`<div id="html_4d58b5c37745c702ca5c8f68b20a7a44" style="width: 100.0%; height: 100.0%;">Time: 2010-03-19 18:20:00<br>Waterhole: Ombika<br>Temp: 25.65°C, Precip: 20.31mm, Humidity: 79.0%</div>`)[0];
+                popup_7992a64ffd0eb782291f24d9e0224838.setContent(html_4d58b5c37745c702ca5c8f68b20a7a44);
+            
+        
+
+        circle_marker_349a8dae14b639ac713981866be3c5b0.bindPopup(popup_7992a64ffd0eb782291f24d9e0224838)
+        ;
+
+        
+    
+    
+            var circle_marker_23f0af1861b42bf5237924691f536e9e = L.circleMarker(
+                [-19.31613566, 15.94060872],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(feature_group_5983d6749766b7113cc0e809b81641f8);
+        
+    
+        var popup_d0289eba6503fb2ec24a14c0c3eb99bc = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_abf0b935a20103b1c80b8ed54505d257 = $(`<div id="html_abf0b935a20103b1c80b8ed54505d257" style="width: 100.0%; height: 100.0%;">Time: 2010-03-19 18:40:00<br>Waterhole: Ombika<br>Temp: 25.65°C, Precip: 20.31mm, Humidity: 79.0%</div>`)[0];
+                popup_d0289eba6503fb2ec24a14c0c3eb99bc.setContent(html_abf0b935a20103b1c80b8ed54505d257);
+            
+        
+
+        circle_marker_23f0af1861b42bf5237924691f536e9e.bindPopup(popup_d0289eba6503fb2ec24a14c0c3eb99bc)
+        ;
+
+        
+    
+    
+            var circle_marker_508692ace7413b2d3050081b25877920 = L.circleMarker(
+                [-19.31480916, 15.94108785],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(feature_group_5983d6749766b7113cc0e809b81641f8);
+        
+    
+        var popup_14a7bad0c5158864c6b99690b179b3ce = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_16e446370eb5869c198ca181093f9dab = $(`<div id="html_16e446370eb5869c198ca181093f9dab" style="width: 100.0%; height: 100.0%;">Time: 2010-03-19 19:00:00<br>Waterhole: Ombika<br>Temp: 25.65°C, Precip: 20.31mm, Humidity: 79.0%</div>`)[0];
+                popup_14a7bad0c5158864c6b99690b179b3ce.setContent(html_16e446370eb5869c198ca181093f9dab);
+            
+        
+
+        circle_marker_508692ace7413b2d3050081b25877920.bindPopup(popup_14a7bad0c5158864c6b99690b179b3ce)
+        ;
+
+        
+    
+    
+            var circle_marker_6b6bfad711f4fc9f66866d6aadd78c2b = L.circleMarker(
+                [-19.31592814, 15.94047953],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(feature_group_5983d6749766b7113cc0e809b81641f8);
+        
+    
+        var popup_a8c2b120aa2d0b317351f9c2a4f6a663 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_fdcc70611ca146675f460ac8deabd240 = $(`<div id="html_fdcc70611ca146675f460ac8deabd240" style="width: 100.0%; height: 100.0%;">Time: 2010-03-19 19:20:00<br>Waterhole: Ombika<br>Temp: 25.65°C, Precip: 20.31mm, Humidity: 79.0%</div>`)[0];
+                popup_a8c2b120aa2d0b317351f9c2a4f6a663.setContent(html_fdcc70611ca146675f460ac8deabd240);
+            
+        
+
+        circle_marker_6b6bfad711f4fc9f66866d6aadd78c2b.bindPopup(popup_a8c2b120aa2d0b317351f9c2a4f6a663)
+        ;
+
+        
+    
+    
+            var circle_marker_01ea5b04bd753e56f50d45e33b47bdb7 = L.circleMarker(
+                [-19.31542358, 15.93817444],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(feature_group_5983d6749766b7113cc0e809b81641f8);
+        
+    
+        var popup_805c1032b5c07e1d2fbe00d3cf682e64 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_0042f37eff5af84a0e420336ebc55d9e = $(`<div id="html_0042f37eff5af84a0e420336ebc55d9e" style="width: 100.0%; height: 100.0%;">Time: 2010-03-19 19:40:00<br>Waterhole: Ombika<br>Temp: 25.65°C, Precip: 20.31mm, Humidity: 79.0%</div>`)[0];
+                popup_805c1032b5c07e1d2fbe00d3cf682e64.setContent(html_0042f37eff5af84a0e420336ebc55d9e);
+            
+        
+
+        circle_marker_01ea5b04bd753e56f50d45e33b47bdb7.bindPopup(popup_805c1032b5c07e1d2fbe00d3cf682e64)
+        ;
+
+        
+    
+    
+            var circle_marker_7d9b9e437b227a7d129411b0043dadc6 = L.circleMarker(
+                [-19.31243286, 15.93624573],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(feature_group_5983d6749766b7113cc0e809b81641f8);
+        
+    
+        var popup_06b67feba5d10d673976fa72678d1ab2 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_94bb4b39008d47c0a3dd74d1f203c75d = $(`<div id="html_94bb4b39008d47c0a3dd74d1f203c75d" style="width: 100.0%; height: 100.0%;">Time: 2010-03-19 20:00:00<br>Waterhole: Ombika<br>Temp: 25.65°C, Precip: 20.31mm, Humidity: 79.0%</div>`)[0];
+                popup_06b67feba5d10d673976fa72678d1ab2.setContent(html_94bb4b39008d47c0a3dd74d1f203c75d);
+            
+        
+
+        circle_marker_7d9b9e437b227a7d129411b0043dadc6.bindPopup(popup_06b67feba5d10d673976fa72678d1ab2)
+        ;
+
+        
+    
+    
+            var circle_marker_a6c1f0e38f84c72ef5319ca14e36dbae = L.circleMarker(
+                [-19.30980632, 15.93602091],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(feature_group_5983d6749766b7113cc0e809b81641f8);
+        
+    
+        var popup_e9c936841f9904870532d35ac7c89bbc = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_a05bc6c12af34b70c1e9327f72d27aa5 = $(`<div id="html_a05bc6c12af34b70c1e9327f72d27aa5" style="width: 100.0%; height: 100.0%;">Time: 2010-03-19 20:20:00<br>Waterhole: Ombika<br>Temp: 25.65°C, Precip: 20.31mm, Humidity: 79.0%</div>`)[0];
+                popup_e9c936841f9904870532d35ac7c89bbc.setContent(html_a05bc6c12af34b70c1e9327f72d27aa5);
+            
+        
+
+        circle_marker_a6c1f0e38f84c72ef5319ca14e36dbae.bindPopup(popup_e9c936841f9904870532d35ac7c89bbc)
+        ;
+
+        
+    
+    
+            L.Control.TimeDimensionCustom = L.Control.TimeDimension.extend({
+                _getDisplayDateFormat: function(date){
+                    var newdate = new moment(date);
+                    console.log(newdate)
+                    return newdate.format("YYYY/MM/DD HH:MM:SS");
+                }
+            });
+            map_696a5c54e457f7209ce918f37769bfbe.timeDimension = L.timeDimension(
+                {
+                    period: "P1D",
+                }
+            );
+            var timeDimensionControl = new L.Control.TimeDimensionCustom(
+                {
+  "position": "bottomleft",
+  "minSpeed": 0.1,
+  "maxSpeed": 10,
+  "autoPlay": false,
+  "loopButton": true,
+  "timeSliderDragUpdate": true,
+  "speedSlider": true,
+  "playerOptions": {
+  "transitionTime": 200,
+  "loop": false,
+  "startOver": true,
+},
+}
+            );
+            map_696a5c54e457f7209ce918f37769bfbe.addControl(this.timeDimensionControl);
+
+            var geoJsonLayer = L.geoJson({"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [15.94704285, -19.31102498]}, "properties": {"times": ["2010-03-19T18:00:00"], "style": {"color": "blue", "radius": 3, "fillOpacity": 0.7}, "popup": "Time: 2010-03-19 18:00:00<br>Waterhole: Ombika<br>Temp: 25.65\u00b0C<br>Precip: 20.31mm<br>Humidity: 79.0%"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [15.94109294, -19.31633097]}, "properties": {"times": ["2010-03-19T18:20:00"], "style": {"color": "blue", "radius": 3, "fillOpacity": 0.7}, "popup": "Time: 2010-03-19 18:20:00<br>Waterhole: Ombika<br>Temp: 25.65\u00b0C<br>Precip: 20.31mm<br>Humidity: 79.0%"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [15.94060872, -19.31613566]}, "properties": {"times": ["2010-03-19T18:40:00"], "style": {"color": "blue", "radius": 3, "fillOpacity": 0.7}, "popup": "Time: 2010-03-19 18:40:00<br>Waterhole: Ombika<br>Temp: 25.65\u00b0C<br>Precip: 20.31mm<br>Humidity: 79.0%"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [15.94108785, -19.31480916]}, "properties": {"times": ["2010-03-19T19:00:00"], "style": {"color": "blue", "radius": 3, "fillOpacity": 0.7}, "popup": "Time: 2010-03-19 19:00:00<br>Waterhole: Ombika<br>Temp: 25.65\u00b0C<br>Precip: 20.31mm<br>Humidity: 79.0%"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [15.94047953, -19.31592814]}, "properties": {"times": ["2010-03-19T19:20:00"], "style": {"color": "blue", "radius": 3, "fillOpacity": 0.7}, "popup": "Time: 2010-03-19 19:20:00<br>Waterhole: Ombika<br>Temp: 25.65\u00b0C<br>Precip: 20.31mm<br>Humidity: 79.0%"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [15.93817444, -19.31542358]}, "properties": {"times": ["2010-03-19T19:40:00"], "style": {"color": "blue", "radius": 3, "fillOpacity": 0.7}, "popup": "Time: 2010-03-19 19:40:00<br>Waterhole: Ombika<br>Temp: 25.65\u00b0C<br>Precip: 20.31mm<br>Humidity: 79.0%"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [15.93624573, -19.31243286]}, "properties": {"times": ["2010-03-19T20:00:00"], "style": {"color": "blue", "radius": 3, "fillOpacity": 0.7}, "popup": "Time: 2010-03-19 20:00:00<br>Waterhole: Ombika<br>Temp: 25.65\u00b0C<br>Precip: 20.31mm<br>Humidity: 79.0%"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [15.93602091, -19.30980632]}, "properties": {"times": ["2010-03-19T20:20:00"], "style": {"color": "blue", "radius": 3, "fillOpacity": 0.7}, "popup": "Time: 2010-03-19 20:20:00<br>Waterhole: Ombika<br>Temp: 25.65\u00b0C<br>Precip: 20.31mm<br>Humidity: 79.0%"}}]}, {
+                    pointToLayer: function (feature, latLng) {
+                        if (feature.properties.icon == 'marker') {
+                            if(feature.properties.iconstyle){
+                                return new L.Marker(latLng, {
+                                    icon: L.icon(feature.properties.iconstyle)});
+                            }
+                            //else
+                            return new L.Marker(latLng);
+                        }
+                        if (feature.properties.icon == 'circle') {
+                            if (feature.properties.iconstyle) {
+                                return new L.circleMarker(latLng, feature.properties.iconstyle)
+                                };
+                            //else
+                            return new L.circleMarker(latLng);
+                        }
+                        //else
+
+                        return new L.Marker(latLng);
+                    },
+                    style: function (feature) {
+                        return feature.properties.style;
+                    },
+                    onEachFeature: function(feature, layer) {
+                        if (feature.properties.popup) {
+                        layer.bindPopup(feature.properties.popup);
+                        }
+                        if (feature.properties.tooltip) {
+                        layer.bindTooltip(feature.properties.tooltip);
+                        }
+                    }
+                })
+
+            var timestamped_geo_json_9c2d294241ff858debe804b71d36ef99 = L.timeDimension.layer.geoJson(
+                geoJsonLayer,
+                {
+                    updateTimeDimension: true,
+                    addlastPoint: true,
+                    duration: undefined,
+                }
+            ).addTo(map_696a5c54e457f7209ce918f37769bfbe);
+        
+    
+            var layer_control_6aec6d6f499450d819d3daf4f6d19611_layers = {
+                base_layers : {
+                    "openstreetmap" : tile_layer_22cd26e91e928c6455a6fc52b3a2c3dd,
+                },
+                overlays :  {
+                    "By Temperature (\u00b0C)" : feature_group_ec5f394cd66af1822b4d0cd4a5c4186d,
+                    "By Precipitation (mm)" : feature_group_37a008537a677c5dadda069026122bce,
+                    "By Humidity (%)" : feature_group_d88370c21988e9280ceddfee6e3a370c,
+                    "By Time of Day (Hour)" : feature_group_509efc0455de5cd55b9d567b93e7f27e,
+                    "By Waterhole" : feature_group_5983d6749766b7113cc0e809b81641f8,
+                },
+            };
+            let layer_control_6aec6d6f499450d819d3daf4f6d19611 = L.control.layers(
+                layer_control_6aec6d6f499450d819d3daf4f6d19611_layers.base_layers,
+                layer_control_6aec6d6f499450d819d3daf4f6d19611_layers.overlays,
+                {
+  "position": "topright",
+  "collapsed": true,
+  "autoZIndex": true,
+}
+            ).addTo(map_696a5c54e457f7209ce918f37769bfbe);
+
+        
+</script>
+</html>

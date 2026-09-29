@@ -1,0 +1,49 @@
+Anomaly Report for: D:\ABM\Elephant\Clustering\Unsupervised\spectral\script\..\segments\me\02me_with_segments.csv
+================================================================================
+
+1. Data Loading: Successful
+2. Datetime Parsing: Successful
+3. Missing Values:
+   - Longitude: 0 missing
+   - Latitude: 0 missing
+   - individual-local-identifier: 0 missing
+   - Date: 0 missing
+   - timeAPM: 0 missing
+   - Time: 0 missing
+   - datetime: 0 missing
+   - geometry: 0 missing
+   - step_length: 1 missing
+   - dt_sec: 1 missing
+   - speed: 1 missing
+   - residence_time: 0 missing
+   - bearing: 1 missing
+   - turning_angle: 2 missing
+   - Rows with missing values: 2
+
+4. Duplicate Rows: 0 (marked all occurrences: 0)
+
+5. Non-increasing Datetime: 0 instances
+
+6. Invalid Longitude: 0 (outside -180 to 180)
+7. Invalid Latitude: 0 (outside -90 to 90)
+
+8. Negative Step Length: 0
+
+9. Invalid Turning Angle: 0 (outside -180 to 180)
+
+10. Summary Statistics:
+           Longitude      Latitude individual-local-identifier        Date      timeAPM      Time                       datetime                   geometry   step_length        dt_sec         speed  residence_time       bearing  turning_angle
+count   64965.000000  64965.000000                       64965       64965        64965     64965                          64965                      64965  64964.000000  64964.000000  64964.000000    64965.000000  64964.000000   64963.000000
+unique           NaN           NaN                           1         903          737       737                            NaN                      53044           NaN           NaN           NaN             NaN           NaN            NaN
+top              NaN           NaN                        LA13  07/31/2009  05:40:34 PM  17:40:34                            NaN  POINT (15.9187 -19.17764)           NaN           NaN           NaN             NaN           NaN            NaN
+freq             NaN           NaN                       64965          72          532       532                            NaN                        244           NaN           NaN           NaN             NaN           NaN            NaN
+mean       15.910674    -19.183141                         NaN         NaN          NaN       NaN  2010-10-25 07:07:43.784807424                        NaN    112.086108   1200.942076      0.093403      423.736797    177.373138      -0.883201
+min        15.599660    -19.452610                         NaN         NaN          NaN       NaN            2009-07-31 00:00:00                        NaN      0.000000   1038.000000      0.000000        0.000000      0.000000    -180.000000
+25%        15.833870    -19.180890                         NaN         NaN          NaN       NaN            2010-03-13 13:40:00                        NaN      5.360237   1200.000000      0.004382        0.000000     90.000003     -44.270044
+50%        15.907040    -19.173910                         NaN         NaN          NaN       NaN            2010-10-25 03:20:00                        NaN     33.032845   1200.000000      0.027525        0.000000    175.931836      -0.000005
+75%        15.921270    -19.154330                         NaN         NaN          NaN       NaN            2011-06-07 17:20:00                        NaN    128.644786   1200.000000      0.107161     1200.000000    269.999998      43.271646
+max        16.759280    -19.051130                         NaN         NaN          NaN       NaN            2012-01-19 23:40:00                        NaN  21388.579794  51644.000000     17.823816     4824.000000    359.801766     179.999997
+std         0.190395      0.061821                         NaN         NaN          NaN       NaN                            NaN                        NaN    217.473406    198.808493      0.181231      574.010614    104.689253      84.511051
+
+11. Abnormal data saved to: D:\ABM\Elephant\Clustering\Unsupervised\spectral\script\..\anomalies\me\02me_abnormal_data.csv
+   - Total abnormal rows: 2
