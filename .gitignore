@@ -27,7 +27,7 @@ artifacts/figures/*
 !artifacts/metrics/.gitkeep
 !artifacts/figures/.gitkeep
 
-# research/ workspace: generated outputs and symlinked feature matrices stay
-# on the server only, never pushed to GitHub.
-research/results/*
-!research/results/.gitkeep
+# project_evolution/ workspace: generated outputs and symlinked feature
+# matrices stay on the server only, never pushed to GitHub.
+project_evolution/results/*
+!project_evolution/results/.gitkeep
