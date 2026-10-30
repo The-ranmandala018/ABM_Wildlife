@@ -28,6 +28,12 @@ artifacts/figures/*
 !artifacts/figures/.gitkeep
 
 # project_evolution/ workspace: generated outputs and symlinked feature
-# matrices stay on the server only, never pushed to GitHub.
+# matrices stay on the server only by default, never pushed to GitHub.
 project_evolution/results/*
 !project_evolution/results/.gitkeep
+
+# Exception: small dimensionality-reduction result CSVs, explicitly
+# requested to be pushed. The 120D/ symlink (points to the raw feature
+# matrix elsewhere on the server) stays excluded.
+!project_evolution/results/AlternativeDimensionalityReduction/
+!project_evolution/results/AlternativeDimensionalityReduction/**
