@@ -4,9 +4,14 @@ This folder contains experiments for comparing alternative dimensionality-reduct
 
 ## Methods
 
-- UMAP
-- Kernel PCA
-- Sparse PCA
+- UMAP (`umap_reduction.py`) — implemented
+- Kernel PCA (`kernel_pca.py`) — implemented, RBF kernel, n_components=17 to match the linear PCA baseline
+- Sparse PCA (`sparse_pca.py`) — implemented, n_components=17 to match the linear PCA baseline
+
+All three scripts currently process a single elephant (01fe), matching the
+primary subject used in the original paper, so results stay comparable to
+the published PCA + spectral clustering findings rather than introducing a
+second experimental variable (which elephant).
 
 ## Planned workflow
 
